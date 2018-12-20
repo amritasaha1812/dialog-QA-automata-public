@@ -1,0 +1,2228 @@
+{
+ "P530": [
+  "Which OPPS have diplomatic relations with XXX ?", 
+  "Which OPPS are related with XXX ?", 
+  "Which OPPS are diplomatically related with XXX ?", 
+  "Can you tell which of the OPPS have diplomatic relations with XXX ?", 
+  "What are the names of the OPPS which have diplomatic relations with XXX ?"
+ ], 
+ "P688": [
+  "Which OPPS are encoded by XXX ?", 
+  "Which OPPS does XXX encode ?", 
+  "Which OPPS can you find encoded by XXX ?", 
+  "Can you tell me which OPPS are encoded by XXX ?", 
+  "May I know which OPPS are encoded by XXX ?"
+ ], 
+ "P689": [
+  "Which OPPS are afflicted by the XXX ?", 
+  "Which OPPS have XXX afflicting them ?", 
+  "Which OPPS are characterized by an affliction of the XXX ?", 
+  "What are the OPPS that the XXX afflicts ?", 
+  "I would like to know the OPPS that have an affliction by the XXX ."
+ ], 
+ "P725": [
+  "Which OPPS HAD THE ROLE OF THE VOICE ACTOR IN XXX ?", 
+  "Which OPPS WERE THE VOICE ACTOR IN XXX ?", 
+  "Which OPPS ASSUMED THE ROLE OF THE VOICE ACTOR IN XXX ?", 
+  "Who WERE THE OPPS WHO WERE THE VOICE ACTOR IN XXX ?", 
+  "Who WERE THE OPPS WHO DID THE VOICE ACTOR ROLE IN XXX ?"
+ ], 
+ "P2176": [
+  "Which OPPS ARE USED FOR TREATING XXX ?", 
+  "Which OPPS ARE USED FOR ELIMINATION OF XXX ?", 
+  "Which OPPS IS HELPFUL IN TREATMENT OF XXX ?", 
+  "Can YOU TELL THE OPPS USED FOR TREATING XXX ?", 
+  "What ARE OPPS USED FOR TREATING XXX ?"
+ ], 
+ "P2175": [
+  "Which OPPS were cured by XXX ?", 
+  "Which OPPS require XXX to be cured ?", 
+  "Which OPPS does XXX cure ?", 
+  "XXX cures what kind of OPPS .", 
+  "XXX can treat only which kind of OPPS ?"
+ ], 
+ "P726": [
+  "Which OPPS were the candidates of XXX ?", 
+  "Which OPPS were the aspirants of XXX ?", 
+  "Which OPPS were the contestants of XXX ?", 
+  "Please tell who are the OPPS that were the nominees of XXX ?", 
+  "Name the OPPS who were the aspirants of XXX ?"
+ ], 
+ "P682": [
+  "Which OPPS ARE XXX INVOLVED IN ?", 
+  "Which OPPS HAVE XXX ?", 
+  "Which OPPS INVOLVED XXX ?", 
+  "Can YOU TELL THE OPPS WHICH HAVE XXX ?", 
+  "What IS NAME OF OPPS WHICH INVOLVED XXX ?"
+ ], 
+ "P3085": [
+  "Which OPPS were XXX the qualifying events for ?", 
+  "Which OPPS were qualified for XXX ?", 
+  "Which OPPS were qualifications for XXX ?", 
+  "Can you tell the OPPS qualifying for XXX ?", 
+  "What is name of OPPS qualified for XXX ?"
+ ], 
+ "P680": [
+  "Which OPPS represents molecular function of XXX ?", 
+  "Which OPPS shows functions of XXX ?", 
+  "Which OPPS indicates function of XXX ?", 
+  "Can you tell the OPPS that shows molecular function of XXX .", 
+  "Molecular functions of XXX are shown by which OPPS ?"
+ ], 
+ "P681": [
+  "Which OPPS of cell are XXX present in ?", 
+  "Which OPPS in cell have XXX ?", 
+  "Which OPPS contain XXX in it ?", 
+  "Can you tell the OPPS in cell in which XXX is found ?", 
+  "What are name of OPPS in which XXX is found ?"
+ ], 
+ "P3081": [
+  "Which OPPS were damaged by the XXX ?", 
+  "Which OPPS got damaged by XXX ?", 
+  "Which OPPS were the structures damaged by XXX ?", 
+  "Can you list OPPS damaged by XXX ?", 
+  "Identify OPPS damaged when XXX happened ."
+ ], 
+ "P684": [
+  "Which OPPS are orthologous genes for XXX ?", 
+  "Which OPPS are regarded as orthologous genes for XXX ?", 
+  "Which OPPS are known as orthologous genes for XXX ?", 
+  "Can you tell the OPPS which are known as orthologous genes of XXX ?", 
+  "Name the OPPS which are orthologous genes of XXX ."
+ ], 
+ "P3189": [
+  "Which OPPS innervate XXX ?", 
+  "Which OPPS supply XXX ?", 
+  "Which OPPS provide XXX ?", 
+  "Any OPPS that render XXX ?", 
+  "OPPS that have XXX ?"
+ ], 
+ "P2079": [
+  "Which OPPS are used for fabrications of XXX ?", 
+  "Which OPPS are fabricating for XXX ?", 
+  "Which OPPS are fabrications for XXX ?", 
+  "Can you tell the OPPS used in fabrications of XXX ?", 
+  "What are names of OPPS used for fabrications of XXX ?"
+ ], 
+ "P607": [
+  "Which OPPS did XXX take part in ?", 
+  "Which OPPS have XXX as participant ?", 
+  "Which OPPS contain XXX as participants ?", 
+  "Can you tell the OPPS in which XXX are participants ?", 
+  "What are names of OPPS in which XXX participated ?"
+ ], 
+ "P1340": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS that are associated with XXX ?", 
+  "What are the names of OPPS connected with XXX ?"
+ ], 
+ "P608": [
+  "Which OPPS were XXX exhibited at ?", 
+  "Which OPPS exhibited XXX ?", 
+  "Which OPPS show XXX ?", 
+  "Can you tell the OPPS used as exhibitions for XXX ?", 
+  "What are names of OPPS in which XXX were exhibited ?"
+ ], 
+ "P112": [
+  "Which OPPS were the founders of XXX ?", 
+  "Which OPPS founded XXX ?", 
+  "Which OPPS started XXX ?", 
+  "Name the OPPS which founded XXX .", 
+  "Specify the OPPS which were the founders of XXX ."
+ ], 
+ "P425": [
+  "Which OPPS are the field of the occupation of XXX ?", 
+  "Which OPPS are occupation for XXX ?", 
+  "Which OPPS are used as occupation for XXX ?", 
+  "Can you tell the OPPS which are used as occupation for XXX ?", 
+  "What is name of OPPS which are occupation for XXX ?"
+ ], 
+ "P1990": [
+  "Which OPPS are the species kept in XXX ?", 
+  "Which OPPS are species and stored in XXX ?", 
+  "Which OPPS are stored in XXX and are a specie ?", 
+  "Can you tell the OPPS which are species and stored in XXX ?", 
+  "Name the OPPS which are species and located in XXX ?"
+ ], 
+ "P3150": [
+  "Which OPPS were XXX born on ?", 
+  "Which OPPS did XXX come to be on ?", 
+  "Which OPPS did XXX begin on ?", 
+  "XXX were born on which OPPS ?", 
+  "Please say which OPPS XXX were born on ."
+ ], 
+ "P2978": [
+  "Which OPPS represent the wheel arrangements of XXX ?", 
+  "Which OPPS are representative of the XXX wheel arrangements ?", 
+  "Which OPPS serve to represent XXX 's wheel arrangements ?", 
+  "What are the OPPS that are a representation of the wheel arrangements belonging to XXX ?", 
+  "Name the OPPS that represent the XXX wheel arrangements ."
+ ], 
+ "P748": [
+  "Which OPPS are responsible for appointment of XXX ?", 
+  "Which OPPS are responsible for XXX 's appointment ?", 
+  "Which OPPS have responsibility for appointment of XXX ?", 
+  "What are the OPPS with responsibility for appointment of XXX ?", 
+  "Name the OPPS responsible for appointment of XXX ."
+ ], 
+ "P1376": [
+  "Which OPPS have XXX as capitals ?", 
+  "Which OPPS have capitals that are XXX ?", 
+  "Which OPPS have capitals that are named XXX ?", 
+  "Can you tell the OPPS that have XXX as capitals ?", 
+  "Name the OPPS that have XXX as capitals ."
+ ], 
+ "P437": [
+  "Which OPPS was used as the method of distribution of XXX ?", 
+  "Which OPPS was used as the means of distribution of XXX ?", 
+  "Which OPPS was used to distribute XXX ?", 
+  "What OPPS was used to distribute XXX ?", 
+  "What OPPS was used as the means of distribution of XXX ?"
+ ], 
+ "P404": [
+  "Which OPPS are available for XXX ?", 
+  "Which OPPS are accessible for XXX ?", 
+  "Which OPPS can be used with XXX ?", 
+  "Name the OPPS one can get for XXX .", 
+  "Could you tell me OPPS I can get with XXX ?"
+ ], 
+ "P800": [
+  "Which OPPS are notable scientific works of XXX ?", 
+  "Which OPPS are XXX notable for ?", 
+  "Which OPPS are major works of XXX ?", 
+  "Name the OPPS for which XXX are famous .", 
+  "Mention the notable OPPS of XXX ."
+ ], 
+ "P138": [
+  "Which OPPS are XXX named after ?", 
+  "Which OPPS have the same name as XXX ?", 
+  "Which OPPS bear the name of XXX ?", 
+  "After which OPPS are XXX named ?", 
+  "Which OPPS names are given to XXX ?"
+ ], 
+ "P129": [
+  "Which OPPS do XXX interact with ?", 
+  "Which OPPS interact with XXX ?", 
+  "Which OPPS react with XXX ?", 
+  "Can you tell the OPPS which interact with XXX ?", 
+  "What are names of OPPS which interact with XXX ?"
+ ], 
+ "P1686": [
+  "Which OPPS were the basis for which XXX was awarded ?", 
+  "Which OPPS were awarded to XXX ?", 
+  "Which OPPS were the reward for XXX ?", 
+  "Can you tell the OPPS which are awarded to XXX ?", 
+  "What are the names of OPPS used as award for XXX ?"
+ ], 
+ "P837": [
+  "Which OPPS does XXX occur on ?", 
+  "Which OPPS are occurrences for XXX ?", 
+  "Which OPPS resulted in occurrences for XXX ?", 
+  "Can you tell the OPPS for which XXX occurs ?", 
+  "What is name of OPPS in which XXX occurs ?"
+ ], 
+ "P1027": [
+  "Which OPPS confer the award named XXX ?", 
+  "Which OPPS present the XXX award ?", 
+  "Which OPPS bestow the award called XXX ?", 
+  "Who , in terms of OPPS , hand out the XXX award ?", 
+  "What are the OPPS that give out the XXX award ?"
+ ], 
+ "P2554": [
+  "Which OPPS are the production designers of XXX ?", 
+  "Which OPPS designed the production for XXX ?", 
+  "Which OPPS were the production designers for XXX ?", 
+  "Name the OPPS which XXX use OPPS as the production designers ?", 
+  "Could you tell me which OPPS were production designers for XXX ?"
+ ], 
+ "P805": [
+  "Which OPPS have XXX as subjects ?", 
+  "Which OPPS have subjects named XXX ?", 
+  "Which OPPS have subjects called XXX ?", 
+  "Can you tell which OPPS have subjects called XXX ?", 
+  "What are the names of OPPS that have subjects called XXX ?"
+ ], 
+ "P113": [
+  "Which OPPS serve as an airline hub for XXX ?", 
+  "Which OPPS are airline hubs for XXX ?", 
+  "Which OPPS are used as airline hubs for XXX ?", 
+  "Can you tell the OPPS which are airline hubs for XXX ?", 
+  "What is name of OPPS which are airport for XXX ?"
+ ], 
+ "P1346": [
+  "Which OPPS were the winner of XXX ?", 
+  "Which OPPS won XXX ?", 
+  "Which OPPS were declared winner of XXX ?", 
+  "Can you tell the OPPS which were winners of XXX ?", 
+  "Name the OPPS who won XXX ."
+ ], 
+ "P1995": [
+  "Which OPPS are the medical specalities concerned with XXX ?", 
+  "Which OPPS are the medical specialties concerned with the condition XXX ?", 
+  "Which OPPS are the specialties of medicine concerned with XXX ?", 
+  "Could you tell me which OPPS are main medical specialties concerned with XXX ?", 
+  "May I know which OPPS are the main medical specialties of XXX ?"
+ ], 
+ "P520": [
+  "Which OPPS are used as weapon by XXX ?", 
+  "Which OPPS are weapons for XXX ?", 
+  "Which OPPS are utilized as weapon by XXX ?", 
+  "Can you tell the OPPS which are weapons for XXX ?", 
+  "What is name of OPPS which are weapon for XXX ?"
+ ], 
+ "P1389": [
+  "Which OPPS are product certifications of XXX ?", 
+  "Which OPPS are XXX certified as ?", 
+  "Which OPPS are XXX identified as ?", 
+  "Can you tell which OPPS are certifications of XXX ?", 
+  "What are the names of OPPS that XXX is certified as ?"
+ ], 
+ "P16": [
+  "Which OPPS serves as the highway systems for XXX ?", 
+  "Which OPPS are the highway systems for XXX ?", 
+  "Which OPPS function as the highway systems for XXX ?", 
+  "XXX 's highway system is served by which OPPS ?", 
+  "XXX 's highway system role is fulfilled by which OPPS ?"
+ ], 
+ "P289": [
+  "Which OPPS represent the vessel classification of XXX ?", 
+  "Which OPPS represent the ship class of XXX ?", 
+  "Which OPPS represent the submarine class of XXX ?", 
+  "Please let me know which OPPS represents the vessel classification of XXX .", 
+  "Could you tell me which OPPS denote the vessel class of XXX ?"
+ ], 
+ "P1411": [
+  "Which OPPS were awarded to XXX ?", 
+  "Which OPPS were nominated to XXX ?", 
+  "Which OPPS were awarded to XXX ?", 
+  "Name OPPS that were awarded to XXX ?", 
+  "Can you tell OPPS which were awarded XXX ?"
+ ], 
+ "P479": [
+  "Which OPPS were the input devices for XXX ?", 
+  "Which OPPS were inputs for XXX ?", 
+  "Which OPPS were the input methods used for XXX ?", 
+  "What OPPS are input devices for XXX ?", 
+  "The XXX has what kind of OPPS as input devices ?"
+ ], 
+ "P749": [
+  "Which OPPS are the parent organizations of XXX ?", 
+  "Which OPPS are parents of XXX ?", 
+  "Which OPPS are main organizations for XXX ?", 
+  "Can you tell the OPPS which are parents of XXX ?", 
+  "What are names of OPPS which are heads of XXX ?"
+ ], 
+ "P1412": [
+  "Which OPPS are spoken by XXX ?", 
+  "Which OPPS are the ones XXX speaks in ?", 
+  "Which OPPS are used by XXX for speaking ?", 
+  "What OPPS does XXX speak ?", 
+  "What OPPS does XXX speak in ?"
+ ], 
+ "P282": [
+  "Which OPPS are the alphabets used in XXX ?", 
+  "Which OPPS is the alphabet XXX used ?", 
+  "Which OPPS is the alphabet used in XXX ?", 
+  "Name the OPPS that are used in XXX as the alphabet .", 
+  "What are the OPPS used in XXX for alphabet purposes ."
+ ], 
+ "P169": [
+  "Which OPPS are the chief executive officer of XXX ?", 
+  "Which OPPS are the chief executive of XXX ?", 
+  "Which OPPS hold the office of CEO in XXX ?", 
+  "Who of the OPPS are the chief executive of XXX ?", 
+  "The chief executive of XXX are which OPPS ?"
+ ], 
+ "P1383": [
+  "Which OPPS are contained in XXX ?", 
+  "Which OPPS does XXX hold ?", 
+  "Which OPPS currently reside in XXX ?", 
+  "Could you tell me the OPPS I can find in XXX ?", 
+  "What are the OPPS settled in XXX ?"
+ ], 
+ "P915": [
+  "Which OPPS were used for filming of XXX ?", 
+  "Which OPPS were the places of filming of XXX ?", 
+  "Which OPPS were the locations of filming XXX ?", 
+  "Name the OPPS where XXX was filmed .", 
+  "Could you tell me which OPPS were the places of filming of XXX ?"
+ ], 
+ "P206": [
+  "Which OPPS are located next to XXX ?", 
+  "Which OPPS are present near to XXX ?", 
+  "Which OPPS are found near XXX ?", 
+  "Can you name the OPPS which are present near XXX ?", 
+  "Name the OPPS that are located next to XXX ?"
+ ], 
+ "P1142": [
+  "Which OPPS are the political ideologies of XXX ?", 
+  "Which OPPS are the ideologies of XXX ?", 
+  "Which OPPS have the political ideology of XXX ?", 
+  "Which OPPS the political ideologies of XXX ?", 
+  "Please tell me which OPPS are the ideologies of XXX ?"
+ ], 
+ "P135": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are XXX associated with ?", 
+  "Which OPPS associate with XXX ?", 
+  "Name the OPPS associated with XXX ?", 
+  "Please tell me OPPS associated with XXX ?"
+ ], 
+ "P991": [
+  "Which OPPS were the successful candidate in XXX ?", 
+  "Which OPPS were successful in XXX ?", 
+  "Which OPPS got success in XXX ?", 
+  "Can you tell the OPPS which were successful in XXX ?", 
+  "What are names of OPPS which got success in XXX ?"
+ ], 
+ "P448": [
+  "Which OPPS were the launch sites of XXX ?", 
+  "Which OPPS were the launch sites of XXX ?", 
+  "Which OPPS were XXX launched from ?", 
+  "The launch sites of XXX were at which OPPS ?", 
+  "From which OPPS were XXX launched ?"
+ ], 
+ "P1462": [
+  "Which OPPS maintain XXX ?", 
+  "Which OPPS manage XXX ?", 
+  "Which OPPS ordain XXX ?", 
+  "Which OPPS operate XXX ?", 
+  "Which OPPS fullfill XXX ?"
+ ], 
+ "P2962": [
+  "Which OPPS represent the chess titles of XXX ?", 
+  "Which OPPS hold the FIDE title of XXX ?", 
+  "Which OPPS did XXX earn ?", 
+  "May I ask which OPPS currently carry the XXX ?", 
+  "Could you tell me the OPPS who earned the title XXX ?"
+ ], 
+ "P201": [
+  "Which OPPS are the outflows of XXX ?", 
+  "Which OPPS are called outflows of XXX ?", 
+  "Which OPPS are regarded as outflows of XXX ?", 
+  "Can you tell the OPPS what are outflows of XXX ?", 
+  "Name the OPPS that are regarded as outflows of XXX ."
+ ], 
+ "P2860": [
+  "Which OPPS are cited by XXX ?", 
+  "Which OPPS are referenced by XXX ?", 
+  "Which OPPS are quoted by XXX ?", 
+  "Can you tell the OPPS cited by XXX ?", 
+  "What is names of OPPS cited by XXX ?"
+ ], 
+ "P611": [
+  "Which OPPS are the religious affiliations of XXX ?", 
+  "Which OPPS are related with religions of XXX ?", 
+  "Which OPPS are affiliated with religions of XXX ?", 
+  "Can you tell the OPPS which are religions for XXX ?", 
+  "What are the names of the OPPS which are religions for XXX ?"
+ ], 
+ "P610": [
+  "Which OPPS are the highest points of XXX ?", 
+  "Which OPPS are the ones that reached the highest point of XXX ?", 
+  "Which OPPS have the records of highest points of XXX ?", 
+  "In XXX , which OPPS have the highest points ?", 
+  "In XXX , the highest points belong to which OPPS ?"
+ ], 
+ "P127": [
+  "Which OPPS owned XXX ?", 
+  "Which OPPS had XXX ?", 
+  "Which OPPS are owners of XXX ?", 
+  "Can you tell OPPS which are owners of XXX ?", 
+  "What is name of OPPS which are owners of XXX ?"
+ ], 
+ "P126": [
+  "Which OPPS were responsible for maintaining XXX ?", 
+  "Which OPPS maintained XXX ?", 
+  "Which OPPS had to maintain XXX ?", 
+  "Can you tell OPPS which are to maintain XXX ?", 
+  "What are OPPS which are to maintain XXX ?"
+ ], 
+ "P88": [
+  "Which OPPS commissioned XXX ?", 
+  "Which OPPS requested XXX ?", 
+  "Which OPPS were XXX built for ?", 
+  "Can you tell me which OPPS commissioned XXX ?", 
+  "What OPPS authorized the creation of XXX ?"
+ ], 
+ "P123": [
+  "Which OPPS published XXX ?", 
+  "Which OPPS made XXX available to the public ?", 
+  "Which OPPS brought XXX to the public 's attention ?", 
+  "Name the OPPS responsible for publishing XXX .", 
+  "Could you tell me the OPPS responsible for publishing of XXX ?"
+ ], 
+ "P122": [
+  "Which OPPS had the role of the subject 's government of XXX ?", 
+  "Which OPPS were related with government in XXX ?", 
+  "Which OPPS were linked with government in XXX ?", 
+  "Can you tell the OPPS used as government in XXX ?", 
+  "What is name of OPPS used by government in XXX ?"
+ ], 
+ "P121": [
+  "Which OPPS were operated by XXX ?", 
+  "Which OPPS were run by XXX ?", 
+  "Which OPPS were flown by XXX ?", 
+  "Can you tell me which OPPS were run by XXX ?", 
+  "Could you let me know which OPPS were run by XXX ?"
+ ], 
+ "P1028": [
+  "Which OPPS made donations for XXX ?", 
+  "Which OPPS are XXX donated by ?", 
+  "Which OPPS might have made donations for XXX ?", 
+  "Can you tell me the OPPS which made donations for XXX ?", 
+  "Name the OPPS who donated XXX ?"
+ ], 
+ "P81": [
+  "Which OPPS acted as connecting lines for XXX ?", 
+  "Which OPPS connected XXX ?", 
+  "Which OPPS led to XXX ?", 
+  "Name the OPPS which acted as connecting lines for XXX ?", 
+  "What OPPS were the connecting lines for XXX ?"
+ ], 
+ "P200": [
+  "Which OPPS flow into XXX ?", 
+  "Which OPPS flow into XXX ?", 
+  "Which OPPS inflow into XXX ?", 
+  "Can you tell me which OPPS flow into XXX ?", 
+  "XXX receives the inflow from which OPPS ?"
+ ], 
+ "P86": [
+  "Which OPPS composed XXX ?", 
+  "Which OPPS are the songwriters of XXX ?", 
+  "Which OPPS are the people who wrote the music of XXX ?", 
+  "Which OPPS are the composers of XXX ?", 
+  "May I know which OPPS composed XXX ?"
+ ], 
+ "P3161": [
+  "Which OPPS represent the grammatical moods of XXX ?", 
+  "Which OPPS are moods of XXX ?", 
+  "Which OPPS represent XXX ?", 
+  "Can you tell the OPPS that represent XXX ?", 
+  "What are the names of OPPS that are moods for XXX ?"
+ ], 
+ "P84": [
+  "Which OPPS designed the architecture of XXX ?", 
+  "Which OPPS designed XXX ?", 
+  "Which OPPS created XXX ?", 
+  "Can you tell the OPPS which designed XXX ?", 
+  "What are the name of OPPS which designed XXX ?"
+ ], 
+ "P840": [
+  "Which OPPS are the narrative locations of XXX ?", 
+  "Which OPPS feature XXX as their narrative location ?", 
+  "Which OPPS have a narrative location of XXX ?", 
+  "What OPPS does XXX use as narrative location ?", 
+  "What are the OPPS that XXX is using as narrative location ?"
+ ], 
+ "P841": [
+  "Which OPPS are the feast days of XXX ?", 
+  "Which OPPS are feast dates of XXX ?", 
+  "Which OPPS are principal feast dates of XXX ?", 
+  "Name the OPPS which are the feast dates of XXX .", 
+  "Could you tell me which OPPS are the feast days of XXX ?"
+ ], 
+ "P1532": [
+  "Which OPPS did the XXX play for ?", 
+  "Which OPPS were XXX 's sporting nationality ?", 
+  "Which OPPS were the sports nationality of XXX ?", 
+  "Could you tell me the OPPS for which XXX played ?", 
+  "May I ask the OPPS that XXX represented ?"
+ ], 
+ "P1542": [
+  "Which OPPS are caused by XXX ?", 
+  "Which OPPS are the result of XXX ?", 
+  "Which OPPS did XXX result in ?", 
+  "Can you tell the OPPS caused by XXX ?", 
+  "What are names of OPPS caused by XXX ?"
+ ], 
+ "P921": [
+  "Which OPPS were the main subjects of XXX 's work ?", 
+  "Which OPPS were used in the work of XXX as its main subject ?", 
+  "Which OPPS served as the central subjects of XXX 's work ?", 
+  "What OPPS does XXX use as the main subject of their work ?", 
+  "What OPPS were utilized by XXX as a main subject in their work ?"
+ ], 
+ "P769": [
+  "Which OPPS show a significant interation with XXX ?", 
+  "Which OPPS are indicated by XXX ?", 
+  "Which OPPS are related significantly by XXX ?", 
+  "Can you tell the OPPS which are interacted by XXX ?", 
+  "What are names of OPPS interacted by XXX ?"
+ ], 
+ "P57": [
+  "Which OPPS directed XXX ?", 
+  "Which OPPS were the directors of XXX ?", 
+  "Which OPPS were XXX 's directors ?", 
+  "What is the OPPS that were the directors of XXX ?", 
+  "Name the OPPS that served as the directors of XXX ."
+ ], 
+ "P1071": [
+  "Which OPPS are the locations of final assembly of XXX ?", 
+  "Which OPPS are locations of XXX ?", 
+  "Which OPPS are final locations for XXX ?", 
+  "Can you tell the OPPS which are locations of XXX ?", 
+  "What are names of OPPS which are locations for XXX ?"
+ ], 
+ "P1408": [
+  "Which OPPS does XXX get a license to broadcast to ?", 
+  "Which OPPS was XXX licensed to broadcast to ?", 
+  "Which OPPS did XXX receive licensing allowing it to broadcast to it ?", 
+  "Name the OPPS that XXX received a license allowing it to broadcast to ?", 
+  "What are the OPPS that XXX was given a license to broadcast to ?"
+ ], 
+ "P355": [
+  "Which OPPS are subsidiaries of XXX ?", 
+  "Which OPPS are branches of XXX ?", 
+  "Which OPPS are divisions of XXX ?", 
+  "Can you tell which OPPS are related to XXX ?", 
+  "Could you tell which OPPS are sub-units of XXX ?"
+ ], 
+ "P518": [
+  "Which OPPS does XXX apply to a part of ?", 
+  "Which OPPS are that XXX applies to a part of ?", 
+  "Which OPPS have a part of them than XXX applies to ?", 
+  "What are the OPPS that XXX applies to part of ?", 
+  "Tell me the OPPS that XXX applies to a part of ."
+ ], 
+ "P1399": [
+  "Which OPPS was XXX convicted of ?", 
+  "Which OPPS resulted in conviction of XXX ?", 
+  "Which OPPS ended up in XXX being convicted ?", 
+  "What were the OPPS that led to XXX 's conviction ?", 
+  "What OPPS caused a conviction of XXX ?"
+ ], 
+ "P516": [
+  "Which OPPS were used to power XXX ?", 
+  "Which OPPS gave power to XXX ?", 
+  "Which OPPS provided power to XXX ?", 
+  "Can you tell the OPPS which gave power to XXX ?", 
+  "What are names of OPPS which gave power to XXX ?"
+ ], 
+ "P1403": [
+  "Which OPPS are the original combinations of XXX ?", 
+  "Which OPPS are combinations for XXX ?", 
+  "Which OPPS are real combinations for XXX ?", 
+  "Can you tell which OPPS are combinations for XXX ?", 
+  "What are the names of the OPPS which are combinations for XXX ?"
+ ], 
+ "P512": [
+  "Which OPPS does XXX hold ?", 
+  "Which OPPS has XXX earned ?", 
+  "Which OPPS are held by XXX ?", 
+  "What are the OPPS that XXX received ?", 
+  "Name the OPPS that are held by XXX ."
+ ], 
+ "P3091": [
+  "Which OPPS are ridden by XXX ?", 
+  "Which OPPS are resisted by XXX ?", 
+  "Which OPPS are eliminated by XXX ?", 
+  "Can you tell which OPPS ridden by XXX ?", 
+  "What is names of OPPS ridden by XXX ?"
+ ], 
+ "P1013": [
+  "Which OPPS were the criteria used for XXX ?", 
+  "Which OPPS were the basis for XXX ?", 
+  "Which OPPS were the standards for XXX ?", 
+  "Could you tell me the OPPS used as benchmarks for XXX ?", 
+  "May I know what OPPS were employed to test XXX ?"
+ ], 
+ "P166": [
+  "Which OPPS were received by XXX ?", 
+  "Which OPPS were obtained by XXX ?", 
+  "Which OPPS were taken by XXX ?", 
+  "Can you tell the OPPS received by XXX ?", 
+  "What is name of OPPS received by XXX ?"
+ ], 
+ "P669": [
+  "Which OPPS are XXX located in ?", 
+  "Which OPPS are locations for XXX ?", 
+  "Which OPPS have XXX ?", 
+  "Can you tell the OPPS which are locations for XXX ?", 
+  "What are the names of OPPS which are locations for XXX ?"
+ ], 
+ "P7": [
+  "Which OPPS are the brothers of XXX ?", 
+  "Which OPPS are related with XXX as brothers ?", 
+  "Which OPPS are known as brothers of XXX ?", 
+  "Can you tell the OPPS which are brothers of XXX ?", 
+  "What is the name of OPPS which are brothers of XXX ?"
+ ], 
+ "P186": [
+  "Which OPPS are used to make XXX ?", 
+  "Which OPPS are utilized in the making of XXX ?", 
+  "Which OPPS are employed in order to make XXX ?", 
+  "What OPPS are used for the making of XXX ?", 
+  "When XXX is made , which OPPS are used ?"
+ ], 
+ "P1312": [
+  "Which OPPS are the facet polytopes of XXX ?", 
+  "Which OPPS are XXX 's facet polytopes ?", 
+  "Which OPPS are defined as the facet polytopes of XXX ?", 
+  "What are the OPPS operating as a facet polytopes of XXX ?", 
+  "Name the OPPS that are XXX 's facet polytopes ."
+ ], 
+ "P1313": [
+  "Which OPPS serve as the political offices that are fulfilled by the head of the government of XXX ?", 
+  "Which OPPS are held by heads of government of XXX that serves as the political office ?", 
+  "Which OPPS hold the political offices of head of government of XXX ?", 
+  "Could you let me know the name of the OPPS that serve as political offices for the position of head of government of XXX ?", 
+  "Do you know the OPPS which are the political offices of the head of government of XXX ?"
+ ], 
+ "P421": [
+  "Which OPPS ARE XXX LOCATED IN ?", 
+  "Which OPPS ARE LOCATION FOR XXX ?", 
+  "Which OPPS ARE USED AS A LOCATION FOR XXX ?", 
+  "Can YOU TELL THE OPPS WHICH HAVE LOCATION FOR XXX ?", 
+  "What ARE NAMES OF OPPS WHICH HAVE LOCATION FOR XXX ?"
+ ], 
+ "P740": [
+  "Which OPPS are the location of formation of XXX ?", 
+  "Which OPPS are the locations of XXX formations ?", 
+  "Which OPPS are the XXX formations locations ?", 
+  "I would like to know the OPPS that serve as the locations of formations of XXX .", 
+  "What are the OPPS that are the location of XXX formations ?"
+ ], 
+ "P974": [
+  "Which OPPS are the tributaries of XXX ?", 
+  "Which OPPS serve as XXX 's tributaries ?", 
+  "Which OPPS operate as the tributaries of XXX ?", 
+  "What are the OPPS which act as the tributaries of XXX ?", 
+  "Name the OPPS that are the tributaries of XXX ."
+ ], 
+ "P193": [
+  "Which OPPS are the main building contractors of XXX ?", 
+  "Which OPPS are working as main contractors for building of XXX ?", 
+  "Which OPPS are building XXX as contractors ?", 
+  "Can you tell the OPPS that are building contractors of XXX ?", 
+  "Name the OPPS that are building XXX as contractors ."
+ ], 
+ "P190": [
+  "Which OPPS are the sister cities of XXX ?", 
+  "Which OPPS partner as the twin cities of XXX ?", 
+  "Which OPPS are paired as the partner cities of XXX ?", 
+  "Can you tell me which OPPS are known as the sister cities of XXX ?", 
+  "Name OPPS that are best known as the twin towns to XXX ?"
+ ], 
+ "P664": [
+  "Which OPPS are the organizers of XXX ?", 
+  "Which OPPS are the person or institution organizing XXX ?", 
+  "Which OPPS are organizing XXX ?", 
+  "May I know the OPPS who are organizing XXX ?", 
+  "Could you tell me which OPPS are the person or institution organizing XXX ?"
+ ], 
+ "P452": [
+  "Which OPPS are the industries to which XXX belong ?", 
+  "Which OPPS can XXX be associated with ?", 
+  "Which OPPS can XXX be related to ?", 
+  "Name the OPPS sectors to which XXX belongs .", 
+  "May I know the OPPS branches that correspond to XXX ?"
+ ], 
+ "P451": [
+  "Which OPPS are the partners of XXX ?", 
+  "Which OPPS are working as partners for XXX ?", 
+  "Which OPPS are acting like partners for XXX ?", 
+  "Can you tell OPPS which are partners of XXX ?", 
+  "What are names of OPPS which are partners for XXX ?"
+ ], 
+ "P450": [
+  "Which OPPS are the space missions XXX is a member of ?", 
+  "Which OPPS are the space missions containing XXX 's membership ?", 
+  "Which OPPS have XXX as a member of its space mission .", 
+  "What are the OPPS that exist as the space missions with XXX as a member .", 
+  "Name the OPPS that have a space mission with XXX belonging to them ."
+ ], 
+ "P98": [
+  "Which OPPS are the editors of XXX ?", 
+  "Which OPPS edit XXX ?", 
+  "Which OPPS are XXX 's editors ?", 
+  "What are the OPPS that edit XXX ?", 
+  "Name the OPPS that are the editors of XXX ."
+ ], 
+ "P3179": [
+  "Which OPPS are having territory overlap with XXX ?", 
+  "Which OPPS overlap with XXX ?", 
+  "Which OPPS shares area with XXX ?", 
+  "Name the OPPS that include territory from XXX ?", 
+  "What are the OPPS that overlap with XXX ?"
+ ], 
+ "P110": [
+  "Which OPPS did the illustrations of XXX ?", 
+  "Which OPPS performed the illustrations of XXX ?", 
+  "Which OPPS carried out the illustrations of XXX ?", 
+  "Can you tell the OPPS which performed illustrations of XXX ?", 
+  "Name the OPPS which performed illustrations of XXX ."
+ ], 
+ "P3263": [
+  "Which OPPS are the bases of XXX ?", 
+  "Which OPPS are bases for XXX ?", 
+  "Which OPPS are foundations for XXX ?", 
+  "Can you tell which OPPS are bases for XXX ?", 
+  "What are the names of OPPS that are bases for XXX ?"
+ ], 
+ "P3264": [
+  "Which OPPS are the radix of XXX ?", 
+  "Which OPPS are number systems for XXX ?", 
+  "Which OPPS are working as radix for XXX ?", 
+  "Can you tell the OPPS which are radix for XXX ?", 
+  "What are names of OPPS which are radix for XXX ?"
+ ], 
+ "P3095": [
+  "Which OPPS were practised by XXX ?", 
+  "Which OPPS were used by XXX ?", 
+  "Which OPPS were used in practice by XXX ?", 
+  "Can you tell the OPPS practiced by XXX ?", 
+  "What are names of OPPS practiced by XXX ?"
+ ], 
+ "P115": [
+  "Which OPPS are the home venues of XXX ?", 
+  "Which OPPS are homes for XXX ?", 
+  "Which OPPS are used as homes for XXX ?", 
+  "Can you tell the OPPS which are homes for XXX ?", 
+  "What are the names of OPPS which are homes for XXX ?"
+ ], 
+ "P175": [
+  "Which OPPS are performers for XXX ?", 
+  "Which OPPS performed XXX ?", 
+  "Which OPPS carried out XXX ?", 
+  "Can you tell the OPPS that performed XXX ?", 
+  "What are the names of the OPPS that performed XXX ?"
+ ], 
+ "P1884": [
+  "Which OPPS are associated with hairs of XXX ?", 
+  "Which OPPS are linked with hairs of XXX ?", 
+  "Which OPPS are connected with hairs of XXX ?", 
+  "Can you tell the OPPS which are associated with hairs of XXX ?", 
+  "What are the names of OPPS connected with hairs of XXX ?"
+ ], 
+ "P1885": [
+  "Which OPPS are the principal churches of the religious district of XXX ?", 
+  "Which OPPS are the cathedrals of the religious district of XXX ?", 
+  "Which OPPS serve as the principal churches for the religious district of XXX ?", 
+  "Name the OPPS which are the principal churches for the religious disctrict of XXX .", 
+  "Mention the OPPS which are the principal churches for the religious district of XXX ."
+ ], 
+ "P97": [
+  "Which OPPS were held by XXX ?", 
+  "Which OPPS were obtained by XXX ?", 
+  "Which OPPS were possessed by XXX ?", 
+  "Can you tell the OPPS that were held by XXX ?", 
+  "What are the names of the OPPS held by XXX ?"
+ ], 
+ "P277": [
+  "Which OPPS are used to develop XXX ?", 
+  "Which OPPS are used for making XXX ?", 
+  "Which OPPS are used in making of XXX ?", 
+  "Can you tell the OPPS for making XXX ?", 
+  "What is name of OPPS used in making of XXX ?"
+ ], 
+ "P2417": [
+  "Which OPPS figure in stage results of XXX ?", 
+  "Which OPPS are the result of XXX ?", 
+  "Which OPPS are figures in results for XXX ?", 
+  "Can you tell the OPPS which were results for XXX ?", 
+  "What are the names of OPPS which were resulted through XXX ?"
+ ], 
+ "P17": [
+  "Which OPPS are XXX present in ?", 
+  "Which OPPS are XXX occuring in ?", 
+  "Which OPPS are XXX found in ?", 
+  "In which OPPS does XXX feature ?", 
+  "Name OPPS which have XXX in it ."
+ ], 
+ "P19": [
+  "Which OPPS were XXX born in ?", 
+  "Which OPPS were the locations of birth for XXX ?", 
+  "Which OPPS were the birth locations for XXX ?", 
+  "Name the OPPS where XXX was born .", 
+  "Find out which OPPS were XXX 's birthplaces ."
+ ], 
+ "P859": [
+  "Which OPPS are the sponsors of XXX ?", 
+  "Which OPPS are sponsored by XXX ?", 
+  "Which OPPS are currently sponsoring XXX ?", 
+  "XXX is sponsored by which OPPS ?", 
+  "Could you tell me which OPPS are sponsoring XXX nowadays ?"
+ ], 
+ "P1064": [
+  "Which OPPS does XXX have ?", 
+  "Which OPPS are for XXX ?", 
+  "Which OPPS are the size for XXX ?", 
+  "What are the OPPS for XXX ?", 
+  "Please tell me the OPPS for XXX ?"
+ ], 
+ "P1066": [
+  "Which OPPS were the teacher of XXX ?", 
+  "Which OPPS taught XXX ?", 
+  "Which OPPS provide teaching to XXX ?", 
+  "Can you tell the OPPS which are teachers for XXX ?", 
+  "What is name of OPPS which taught XXX ?"
+ ], 
+ "P509": [
+  "Which OPPS were the cause of death of XXX ?", 
+  "Which OPPS caused the immediate death of XXX ?", 
+  "Which OPPS were the reason XXX died ?", 
+  "Please describe the underlying OPPS that caused the death of XXX .", 
+  "List the symptoms of the OPPS that took the life of XXX ."
+ ], 
+ "P184": [
+  "Which OPPS were the doctoral supervisors of XXX ?", 
+  "Which OPPS were the doctoral advisors of XXX ?", 
+  "Which OPPS were the supervisors for doctorates of XXX ?", 
+  "Could you tell me which OPPS supervised the doctorate of XXX ?", 
+  "Please let me know which OPPS were the advisors for PhD theses of XXX ?"
+ ], 
+ "P3195": [
+  "Which OPPS were used as league points systems for XXX ?", 
+  "Which OPPS used the league points sytem for XXX ?", 
+  "Which OPPS sports league system was used for XXX ?", 
+  "Which league points system for XXX was OPPS used for ?", 
+  "Can you tell me which OPPS were used for the points system for XXX ?"
+ ], 
+ "P6": [
+  "Which OPPS are the head of governments of XXX ?", 
+  "Which OPPS are heads of XXX ?", 
+  "Which OPPS are high government authorities of XXX ?", 
+  "Can you tell the OPPS that are heads of government of XXX ?", 
+  "What are the names of OPPS that are heads in government of XXX ?"
+ ], 
+ "P180": [
+  "Which OPPS are depicted in XXX ?", 
+  "Which OPPS are explained in XXX ?", 
+  "Which OPPS are described in XXX ?", 
+  "Can you tell the OPPS depicted in XXX ?", 
+  "What are names of OPPS depicted in XXX ?"
+ ], 
+ "P3190": [
+  "Which OPPS are innervated by XXX ?", 
+  "Which OPPS are innervated through XXX ?", 
+  "Which OPPS have been innervated by XXX ?", 
+  "Can you tell which OPPS were innervated by XXX ?", 
+  "What are the names of OPPS innervated by XXX ?"
+ ], 
+ "P344": [
+  "Which OPPS directed the photography of XXX ?", 
+  "Which OPPS helped in direction of XXX ?", 
+  "Which OPPS are directors of XXX ?", 
+  "Can you tell the OPPS who directed XXX ?", 
+  "What are names of OPPS who worked as directors of photography of XXX ?"
+ ], 
+ "P9": [
+  "Which OPPS are the sisters of XXX ?", 
+  "Which OPPS are the female siblings of XXX ?", 
+  "Which OPPS are sisters to XXX ?", 
+  "Name the OPPS who are female siblings of XXX .", 
+  "Can you tell the name of the OPPS who are the sisters of XXX ?"
+ ], 
+ "P189": [
+  "Which OPPS are the locations of discovery of XXX ?", 
+  "Which OPPS are discoveries of XXX ?", 
+  "Which OPPS are located for XXX ?", 
+  "Can you tell which OPPS are locations of discovery for XXX ?", 
+  "What are the names of the OPPS which are locations of discovery for XXX ?"
+ ], 
+ "P136": [
+  "Which OPPS are the genres for XXX ?", 
+  "Which OPPS are XXX 's genres ?", 
+  "Which OPPS are the genres applicable to XXX ?", 
+  "What are the OPPS that are defined as the genres for XXX ?", 
+  "Name the OPPS that are XXX 's genres ."
+ ], 
+ "P1001": [
+  "Which OPPS does the XXX belong to ?", 
+  "Which OPPS contains the XXX ?", 
+  "Which OPPS has XXX in it ?", 
+  "XXX belong to which OPPS ?", 
+  "XXX is a part of which OPPS ?"
+ ], 
+ "P469": [
+  "Which OPPS do XXX flow through ?", 
+  "Which OPPS flow XXX ?", 
+  "Which OPPS let flowing of XXX ?", 
+  "Can you tell the OPPS through which XXX flows ?", 
+  "What are the names of OPPS through which XXX flows ?"
+ ], 
+ "P1080": [
+  "Which OPPS do XXX belong to ?", 
+  "Which OPPS have XXX belonging to it ?", 
+  "Which OPPS are the ones that XXX belong to ?", 
+  "Name the OPPS that XXX is a member of .", 
+  "What are the OPPS that XXX belong to ?"
+ ], 
+ "P462": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are XXX known for ?", 
+  "Which OPPS can XXX be identified with ?", 
+  "Name the OPPS associated with XXX .", 
+  "Tell me the OPPS which are the architectural styles for XXX ."
+ ], 
+ "P2293": [
+  "Which OPPS have genetic associations with XXX ?", 
+  "Which OPPS are related to XXX ?", 
+  "Which OPPS have the same genetics as XXX ?", 
+  "Could you tell me which OPPS are related to XXX ?", 
+  "Which OPPS have same DNA as XXX ?"
+ ], 
+ "P2354": [
+  "Which OPPS are contained in the list of XXX ?", 
+  "Which OPPS are within the list of XXX ?", 
+  "Which OPPS are part of the list of XXX ?", 
+  "Can you tell me some OPPS contained in the list of XXX ?", 
+  "Name some OPPS within the list of XXX ."
+ ], 
+ "P466": [
+  "Which OPPS are occupants of XXX ?", 
+  "Which OPPS does XXX contain ?", 
+  "Which OPPS occupy XXX ?", 
+  "Can you tell the OPPS which occupy XXX ?", 
+  "What are names of OPPS which occupy XXX ?"
+ ], 
+ "P467": [
+  "Which OPPS were XXX legislated by ?", 
+  "Which OPPS legislated XXX ?", 
+  "Which OPPS enacted XXX ?", 
+  "XXX was enacted by which OPPS ?", 
+  "Which OPPS passed XXX legislation ?"
+ ], 
+ "P358": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are spoken by XXX ?", 
+  "Which OPPS are XXX known for ?", 
+  "Which OPPS have XXX as their language ?", 
+  "Name the OPPS which speak XXX ."
+ ], 
+ "P674": [
+  "Which OPPS appears as a character in XXX ?", 
+  "Which OPPS is a character in XXX ?", 
+  "Which OPPS is working as a character in XXX ?", 
+  "Can you tell the OPPS which is a character in XXX ?", 
+  "What is name of OPPS which is working as character in XXX ?"
+ ], 
+ "P264": [
+  "Which OPPS are the record labels of XXX ?", 
+  "Which OPPS are branded and trademarked as the record label of XXX ?", 
+  "Which OPPS are marketed as the record label of XXX ?", 
+  "Can you tell me which OPPS are the record labels of XXX ?", 
+  "Name the OPPS that are represented by the record label of XXX ."
+ ], 
+ "P1923": [
+  "Which OPPS were participants in XXX ?", 
+  "Which OPPS participated in XXX ?", 
+  "Which OPPS took part in XXX ?", 
+  "Can you tell the OPPS which are participating in XXX ?", 
+  "What is name of OPPS which participated in XXX ?"
+ ], 
+ "P108": [
+  "Which OPPS is XXX employed by ?", 
+  "Which OPPS are the workplaces of XXX ?", 
+  "Which OPPS are where XXX works at ?", 
+  "Could you tell me which OPPS XXX works at ?", 
+  "Let me know OPPS that XXX is working for ."
+ ], 
+ "P636": [
+  "Which OPPS are the routes of administration of XXX ?", 
+  "Which OPPS are the ways to administer XXX ?", 
+  "Which OPPS are followed by XXX ?", 
+  "Through which OPPS are XXX used ?", 
+  "Name OPPS by which XXX are administered ."
+ ], 
+ "P105": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS which are linked with XXX ?", 
+  "Name the OPPS which are connected with XXX ."
+ ], 
+ "P106": [
+  "Which OPPS are the professions of XXX ?", 
+  "Which OPPS represent the work of XXX ?", 
+  "Which OPPS represent the job of XXX ?", 
+  "Can you name the OPPS that are the careers of XXX ?", 
+  "Could you tell me which OPPS are the possible employment of XXX ?"
+ ], 
+ "P101": [
+  "Which OPPS are the field of works of XXX ?", 
+  "Which OPPS are XXX 's field of works ?", 
+  "Which OPPS serve as the field of works of XXX ?", 
+  "What are the OPPS that are the field of works of XXX ?", 
+  "Name the OPPS that are XXX 's field of works ."
+ ], 
+ "P103": [
+  "Which OPPS are the native languages of XXX ?", 
+  "Which OPPS are used as mother tongues for XXX ?", 
+  "Which OPPS are mother tongues for XXX ?", 
+  "Can you tell the OPPS which are native languages for XXX ?", 
+  "What is names of OPPS which are native languages of XXX ?"
+ ], 
+ "P102": [
+  "Which OPPS was XXX a member of ?", 
+  "Which OPPS have a member named XXX ?", 
+  "Which OPPS have member called XXX ?", 
+  "Can you tell the OPPS in which XXX was member ?", 
+  "What is name of OPPS in which XXX was member ?"
+ ], 
+ "P25": [
+  "Which OPPS were the mothers of XXX ?", 
+  "Which OPPS are mothers of XXX ?", 
+  "Which OPPS gave birth to XXX ?", 
+  "Can you tell the OPPS which are mothers of XXX ?", 
+  "What are names of OPPS which are mothers of XXX ?"
+ ], 
+ "P27": [
+  "Which OPPS are the countries of citizenship of XXX ?", 
+  "Which OPPS have given citizenship to XXX ?", 
+  "Which OPPS are the citizenship countries of XXX ?", 
+  "Can you tell the OPPS which are countries of citizenship of XXX ?", 
+  "Name the OPPS which are countries of citizenship of XXX ."
+ ], 
+ "P26": [
+  "Which OPPS are the spouses of XXX ?", 
+  "Which OPPS are the spouses of XXX ?", 
+  "Which OPPS are in relations with XXX ?", 
+  "Can you tell the OPPS which are spouses for XXX ?", 
+  "What is name of OPPS which are spouses for XXX ?"
+ ], 
+ "P21": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are in the same taxonomic as XXX ?", 
+  "Which OPPS are the same type of taxon as XXX ?", 
+  "Can you tell me the OPPS that share a rank with XXX ?", 
+  "Can you let me know what OPPS are in the same taxonomix hierarchy as XXX ?"
+ ], 
+ "P20": [
+  "Which OPPS are the places of death of XXX ?", 
+  "Which OPPS are the spots of death of XXX ?", 
+  "Which OPPS are the place where XXX died ?", 
+  "Can you tell the OPPS that are the places of death of XXX ?", 
+  "What are the names of the OPPS that are the places of death of XXX ?"
+ ], 
+ "P22": [
+  "Which OPPS were the fathers of XXX ?", 
+  "Which OPPS are the male parents of XXX ?", 
+  "Which OPPS fathered XXX ?", 
+  "Name the OPPS who fathered XXX ?", 
+  "Name the OPPS that are daddies to XXX ?"
+ ], 
+ "P3103": [
+  "Which OPPS represent the tense of XXX ?", 
+  "Which OPPS are representing the tense of XXX ?", 
+  "Which OPPS are indicative of tense of XXX ?", 
+  "XXX are represented by which OPPS ?", 
+  "Could you tell me which OPPS are presenting which tense of XXX ?"
+ ], 
+ "P647": [
+  "Which OPPS drafted XXX ?", 
+  "Which OPPS were the one that drafted XXX ?", 
+  "Which OPPS were the drafter of XXX ?", 
+  "Name the OPPS that drafted XXX .", 
+  "What are the OPPS that were the drafter of XXX ?"
+ ], 
+ "P1039": [
+  "Which OPPS represents the type of kinship associated with XXX ?", 
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS which are associated with XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P1038": [
+  "Which OPPS are a relative of XXX ?", 
+  "Which OPPS are related to XXX ?", 
+  "Which OPPS are a direct family member of XXX ?", 
+  "XXX is a relative of which OPPS ?", 
+  "Can you name which OPPS are related to family member XXX ?"
+ ], 
+ "P739": [
+  "Which OPPS are used as ammunition in XXX ?", 
+  "Which OPPS are ammunition for XXX ?", 
+  "Which OPPS are used as ammo for XXX ?", 
+  "Can you tell the OPPS that are ammo for XXX ?", 
+  "What is name of OPPS that are used as ammo for XXX ?"
+ ], 
+ "P641": [
+  "Which OPPS did XXX participate in ?", 
+  "Which OPPS have a participant named XXX ?", 
+  "Which OPPS included XXX as participant ?", 
+  "Can you tell the OPPS which have XXX as participant ?", 
+  "What is name of OPPS which have participant named XXX ?"
+ ], 
+ "P376": [
+  "Which OPPS are XXX located on ?", 
+  "Which OPPS are XXX found in ?", 
+  "Which OPPS are XXX situated in ?", 
+  "Please tell me which OPPS are XXX found in ?", 
+  "Could you tell me which OPPS are XXX located on ?"
+ ], 
+ "P237": [
+  "Which OPPS served as the coats of arms for XXX ?", 
+  "Which OPPS were used as the coats of arms for XXX ?", 
+  "Which OPPS saw use as the coats of arms for XXX ?", 
+  "Could you show me the OPPS used as coats of arms by XXX ?", 
+  "I want to know what OPPS were once coats of arms for XXX ."
+ ], 
+ "P375": [
+  "Which OPPS were used as space launch vehicles for XXX ?", 
+  "Which OPPS were the carrier rockets of XXX ?", 
+  "Which OPPS were XXX 's launch vehicles ?", 
+  "Would you tell me which OPPS vehicles carried XXX ?", 
+  "May I ask what OPPS took XXX into space ?"
+ ], 
+ "P1037": [
+  "Which OPPS are the managers of XXX ?", 
+  "Which OPPS manage XXX ?", 
+  "Which OPPS are the bosses of XXX ?", 
+  "Give me the name of the OPPS who manage XXX .", 
+  "Mention the OPPS that are the directors of XXX ."
+ ], 
+ "P1444": [
+  "Which OPPS served as the destination point for the XXX ?", 
+  "Which OPPS were the destination point for the XXX ?", 
+  "Which OPPS were the XXX heading to ?", 
+  "Can you tell me what the OPPS were that the XXX was heading to ?", 
+  "What OPPS were the destination for the XXX ?"
+ ], 
+ "P802": [
+  "Which OPPS were XXX the student of ?", 
+  "Which OPPS have student named XXX ?", 
+  "Which OPPS have XXX as student ?", 
+  "Can you tell the OPPS which have student XXX ?", 
+  "What is name of OPPS for which XXX is student ?"
+ ], 
+ "P371": [
+  "Which OPPS were the presenters of XXX ?", 
+  "Which OPPS presented XXX ?", 
+  "Which OPPS hosted XXX ?", 
+  "Please identify the OPPS who presented XXX .", 
+  "Name the OPPS who presented XXX ."
+ ], 
+ "P1445": [
+  "Which OPPS have the description of XXX ?", 
+  "Which OPPS are described as XXX ?", 
+  "Which OPPS are explained as XXX ?", 
+  "Can you tell which OPPS are described as XXX ?", 
+  "What are the names of OPPS described as XXX ?"
+ ], 
+ "P880": [
+  "Which OPPS are used as CPU in XXX ?", 
+  "Which OPPS are the central processing units of XXX ?", 
+  "Which OPPS use XXX as its CPU ?", 
+  "Can you tell me which OPPS are the CPU of XXX ?", 
+  "What is the OPPS that XXX uses as CPU ?"
+ ], 
+ "P768": [
+  "Which OPPS does XXX represent ?", 
+  "Which OPPS were represented by XXX ?", 
+  "Which OPPS were shown by XXX ?", 
+  "Can you tell OPPS which represented XXX ?", 
+  "What are names of OPPS which represented XXX ?"
+ ], 
+ "P463": [
+  "Which OPPS were XXX a member of ?", 
+  "Which OPPS were XXX a member of ?", 
+  "Which OPPS included the member XXX ?", 
+  "XXX belonged to which OPPS ?", 
+  "XXX was a member of which OPPS ?"
+ ], 
+ "P765": [
+  "Which OPPS are XXX played on ?", 
+  "Which OPPS are used for playing XXX ?", 
+  "Which OPPS are a playing place for XXX ?", 
+  "Can you tell the OPPS that are played on XXX ?", 
+  "What are the names of the OPPS that are playing for XXX ?"
+ ], 
+ "P767": [
+  "Which OPPS contributed to XXX ?", 
+  "Which OPPS supported XXX ?", 
+  "Which OPPS encouraged XXX ?", 
+  "Can you tell the OPPS which contributed to XXX ?", 
+  "What are names of OPPS which contributed to XXX ?"
+ ], 
+ "P1455": [
+  "Which OPPS are a work of XXX ?", 
+  "Which OPPS include XXX ?", 
+  "Which OPPS contain XXX ?", 
+  "How can I find the OPPS that belong to XXX ?", 
+  "Can you tell me which OPPS are a work of XXX ?"
+ ], 
+ "P178": [
+  "Which OPPS developed the XXX ?", 
+  "Which OPPS developed XXX .", 
+  "Which OPPS made XXX ?", 
+  "Can you tell with OPPS developed XXX ?", 
+  "What are the names of the OPPS which developed XXX ?"
+ ], 
+ "P276": [
+  "Which OPPS are the locations of XXX ?", 
+  "Which OPPS are locations for XXX ?", 
+  "Which OPPS are used as a location for XXX ?", 
+  "Can you tell the OPPS which are locations for XXX ?", 
+  "What are names of OPPS which are locations for XXX ?"
+ ], 
+ "P532": [
+  "Which OPPS are the ports of registries of XXX ?", 
+  "Which OPPS are ports for XXX ?", 
+  "Which OPPS gave registries to XXX ?", 
+  "Can you the OPPS which are ports for XXX ?", 
+  "What are names of OPPS which gave registries to XXX ?"
+ ], 
+ "P197": [
+  "Which OPPS ARE ADJACENT TO XXX ?", 
+  "Which OPPS ARE LOCATED WITH XXX ?", 
+  "Which OPPS ARE CONNECTED WITH XXX ?", 
+  "Can YOU TELL THE OPPS ADJACENT TO XXX ?", 
+  "What ARE NAME OF OPPS ADJACENT TO XXX ?"
+ ], 
+ "P272": [
+  "Which OPPS are responsible for production of XXX ?", 
+  "Which OPPS have responsibility for production of XXX ?", 
+  "Which OPPS are responsible for XXX 's production ?", 
+  "Name the OPPS tasked with responsibility for production of XXX .", 
+  "What is the OPPS that have responsibility for XXX 's production ?"
+ ], 
+ "P609": [
+  "Which OPPS ARE THE TERMINUS LOCATION OF XXX ?", 
+  "Which OPPS ARE LOCATION OF XXX ?", 
+  "Which OPPS SHOW THE LOCATION FOR XXX ?", 
+  "Can YOU TELL THE OPPS WHICH ARE LOCATION FOR XXX ?", 
+  "What ARE NAME OF OPPS WHICH ARE LOCATION FOR XXX ?"
+ ], 
+ "P170": [
+  "Which OPPS are the creaters of XXX ?", 
+  "Which OPPS created XXX ?", 
+  "Which OPPS made XXX ?", 
+  "Who are the OPPS that created XXX ?", 
+  "Who were the OPPS artists that created XXX ?"
+ ], 
+ "P171": [
+  "Which OPPS are a parent taxon of XXX ?", 
+  "Which OPPS are the higher taxon of XXX ?", 
+  "Which OPPS sit above XXX in taxonomy ?", 
+  "Can you tell me the OPPS that are parent taxon to XXX ?", 
+  "May I ask what OPPS are above XXX 's taxonomic position ?"
+ ], 
+ "P172": [
+  "Which OPPS does XXX have as ethnic origin ?", 
+  "Which OPPS give origin to XXX ?", 
+  "Which OPPS provide origin to XXX ?", 
+  "Can you tell the OPPS which have XXX as origin ?", 
+  "What are the names of OPPS which have XXX as origin ?"
+ ], 
+ "P1441": [
+  "Which OPPS are XXX present in ?", 
+  "Which OPPS possess XXX ?", 
+  "Which OPPS contain XXX ?", 
+  "Can you tell the OPPS in which XXX is present ?", 
+  "What are the names of OPPS in which XXX is found ?"
+ ], 
+ "P972": [
+  "Which OPPS are the catalogs for XXX ?", 
+  "Which OPPS are catalogs for XXX ?", 
+  "Which OPPS are acting as catalogs for XXX ?", 
+  "Can you tell the OPPS which are catalogs for XXX ?", 
+  "What is name of OPPS which are catalogs for XXX ?"
+ ], 
+ "P176": [
+  "Which OPPS are the manufacturers of XXX ?", 
+  "Which OPPS produce XXX ?", 
+  "Which OPPS make XXX ?", 
+  "Name the OPPS which manufacture XXX .", 
+  "Let me know the OPPS which make XXX ."
+ ], 
+ "P177": [
+  "Which OPPS are crossed over by XXX ?", 
+  "Which OPPS are lead by XXX ?", 
+  "Which OPPS are crossed by XXX ?", 
+  "Can you tell the OPPS which are crossed by XXX ?", 
+  "What are the names of the OPPS , which are crossed by XXX ?"
+ ], 
+ "P183": [
+  "Which OPPS are XXX endemic to ?", 
+  "Which OPPS are XXX endemic to ?", 
+  "Which OPPS cause XXX to be endemic ?", 
+  "XXX is endemic to which OPPS ?", 
+  "XXX is endemic to what OPPS ?"
+ ], 
+ "P291": [
+  "Which OPPS are the places of publication of XXX ?", 
+  "Which OPPS are publication spot for XXX ?", 
+  "Which OPPS gave publication to XXX ?", 
+  "Can you tell the OPPS which published XXX ?", 
+  "What are names of OPPS which published XXX ?"
+ ], 
+ "P38": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS that are associated with XXX ?", 
+  "What are the names of OPPS connected with XXX ?"
+ ], 
+ "P1434": [
+  "Which OPPS describes the fictional universe in XXX ?", 
+  "Which OPPS describes XXX ?", 
+  "Which OPPS fits the description for XXX ?", 
+  "Can you tell which OPPS is describing XXX ?", 
+  "What is the name of OPPS that describes XXX ?"
+ ], 
+ "P1433": [
+  "Which OPPS were XXX published in ?", 
+  "Which OPPS published XXX ?", 
+  "Which OPPS exhibited XXX ?", 
+  "Can you tell the OPPS which published XXX ?", 
+  "What are names of OPPS which published XXX ?"
+ ], 
+ "P1431": [
+  "Which OPPS are the excecutive producer of XXX ?", 
+  "Which OPPS are producer for XXX ?", 
+  "Which OPPS are working as producer for XXX ?", 
+  "Can you tell the OPPS which are producer for XXX ?", 
+  "What is name of OPPS who are producer for XXX ?"
+ ], 
+ "P870": [
+  "Which OPPS are the instrumentation used in XXX ?", 
+  "Which OPPS are instruments for XXX ?", 
+  "Which OPPS are used in XXX ?", 
+  "Can you tell which OPPS are used in XXX ?", 
+  "What are names of OPPS used in XXX ?"
+ ], 
+ "P30": [
+  "Which OPPS are XXX a part of ?", 
+  "Which OPPS have a part named XXX ?", 
+  "Which OPPS have a component named XXX ?", 
+  "Can you tell OPPS which have XXX as part ?", 
+  "What are the name of OPPS which have XXX as part ?"
+ ], 
+ "P2453": [
+  "Which OPPS were the nominees of XXX ?", 
+  "Which OPPS were nominated by XXX ?", 
+  "Which OPPS were XXX 's nominee ?", 
+  "What was the OPPS that served as the nominees of XXX ?", 
+  "Name the OPPS that were XXX 's nominees ."
+ ], 
+ "P36": [
+  "Which OPPS are the capitals of XXX ?", 
+  "Which OPPS are considered the capitals of XXX ?", 
+  "Which OPPS are recognized as the capitals of XXX ?", 
+  "The capitals of XXX are which OPPS ?", 
+  "XXX 's capitals are which OPPS ?"
+ ], 
+ "P37": [
+  "Which OPPS are the official languages of XXX ?", 
+  "Which OPPS serve as XXX 's official languages ?", 
+  "Which OPPS operate as the official XXX languages ?", 
+  "Tell me which OPPS XXX uses as the official language .", 
+  "Name the OPPS used by XXX as the official languages ."
+ ], 
+ "P35": [
+  "Which OPPS are the head of state of XXX ?", 
+  "Which OPPS are the head of XXX ?", 
+  "Which OPPS hold the position of state head of XXX ?", 
+  "XXX has the position of head of state occupied by which OPPS ?", 
+  "Could you tell me which OPPS are state head of XXX nowadays ?"
+ ], 
+ "P400": [
+  "Which OPPS represent the platforms for XXX ?", 
+  "Which OPPS represent the platforms for XXX ?", 
+  "Which OPPS computing platforms represent XXX ?", 
+  "The platforms for XXX are represented by OPPS .", 
+  "Of the various OPPS platforms available , which represents the platforms for XXX ?"
+ ], 
+ "P39": [
+  "Which OPPS were positions held by XXX ?", 
+  "Which OPPS were held by XXX as positions ?", 
+  "Which OPPS were positions of XXX ?", 
+  "Can you tell the OPPS which were positions of XXX ?", 
+  "Name the OPPS which were positions of XXX ?"
+ ], 
+ "P403": [
+  "Which OPPS do XXX drain into ?", 
+  "Which OPPS are drains for XXX ?", 
+  "Which OPPS are used as drain points for XXX ?", 
+  "Can you tell the OPPS used as drains for XXX ?", 
+  "What is names of OPPS used as drains for XXX ?"
+ ], 
+ "P655": [
+  "Which OPPS translated XXX ?", 
+  "Which OPPS were the transloators of XXX ?", 
+  "Which OPPS translated the information for XXX ?", 
+  "Name the OPPS who translated XXX .", 
+  "Could you tell me the OPPS who translated XXX ?"
+ ], 
+ "P407": [
+  "Which OPPS are the language of work for XXX ?", 
+  "Which OPPS are XXX 's language of work ?", 
+  "Which OPPS function as the language of work for XXX ?", 
+  "What is the OPPS that are XXX 's language of work ?", 
+  "Name the OPPS that operate as XXX 's language of work ."
+ ], 
+ "P361": [
+  "Which OPPS are XXX a part of ?", 
+  "Which OPPS are XXX a city in ?", 
+  "Which OPPS are XXX situated in ?", 
+  "In which OPPS are XXX ?", 
+  "Name OPPS where XXX are located ."
+ ], 
+ "P658": [
+  "Which OPPS were contained in XXX ?", 
+  "Which OPPS were present in XXX ?", 
+  "Which OPPS are located in XXX ?", 
+  "Can you tell the OPPS located in XXX ?", 
+  "What are the names of OPPS contained in XXX ?"
+ ], 
+ "P364": [
+  "Which OPPS are the original languages of creation of XXX ?", 
+  "Which OPPS are languages for XXX ?", 
+  "Which OPPS are used as languages for XXX ?", 
+  "Can you tell the OPPS that are languages for XXX ?", 
+  "What are the names of OPPS that are original languages for XXX ?"
+ ], 
+ "P1454": [
+  "Which OPPS are the type of legal forms of XXX ?", 
+  "Which OPPS are the XXX kind of legal forms ?", 
+  "Which OPPS are XXX 's legal form types ?", 
+  "What are the OPPS that are the type of legal forms of XXX ?", 
+  "Name the OPPS which are XXX 's kind of legal forms ."
+ ], 
+ "P366": [
+  "Which OPPS represent the main use of XXX ?", 
+  "Which OPPS are seen as XXX 's main use ?", 
+  "Which OPPS are representative of the primary use of XXX ?", 
+  "What are the OPPS that indicate the central use of XXX ?", 
+  "What OPPS can be said to represent XXX 's main use ?"
+ ], 
+ "P137": [
+  "Which OPPS operate XXX ?", 
+  "Which OPPS administrates XXX ?", 
+  "Which OPPS make use of XXX ?", 
+  "Which OPPS oversee XXX ?", 
+  "Which OPPS are qualified to use XXX ?"
+ ], 
+ "P2439": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS have an XXX association ?", 
+  "Which OPPS have an association with XXX ?", 
+  "Name the OPPS that have an XXX association .", 
+  "Tell me what the OPPS are that have an XXX association ."
+ ], 
+ "P3173": [
+  "Which OPPS do XXX offer views on ?", 
+  "Which OPPS are offered views on by XXX ?", 
+  "Which OPPS are the ones that XXX offers views of ?", 
+  "What are the OPPS offered views on by XXX ?", 
+  "Name the OPPS that XXX offers views on ."
+ ], 
+ "P710": [
+  "Which OPPS were participants of XXX ?", 
+  "Which OPPS were part of XXX ?", 
+  "Which OPPS were XXX 's participants ?", 
+  "XXX contains which OPPS as participants ?", 
+  "In the XXX , which OPPS were participants ?"
+ ], 
+ "P566": [
+  "Which OPPS are basionyms of XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are associated with XXX ?", 
+  "Can you tell the OPPS which are linked with XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P1344": [
+  "Which OPPS did XXX participate in ?", 
+  "Which OPPS XXX participated in ?", 
+  "Which OPPS did XXX demonstrate participation in ?", 
+  "What were the OPPS that XXX participated in ?", 
+  "What OPPS showed participation by XXX ?"
+ ], 
+ "P2632": [
+  "Which OPPS were the places of detention of XXX ?", 
+  "Which OPPS served as the places of detention of XXX ?", 
+  "Which OPPS were XXX 's places of detention ?", 
+  "Name the OPPS which operated as the places of detention for XXX .", 
+  "I need to know which OPPS were XXX 's detention locations ."
+ ], 
+ "P560": [
+  "Which OPPS are a directional identifier of XXX ?", 
+  "Which OPPS are identifying XXX ?", 
+  "Which OPPS are able to identify XXX ?", 
+  "Can you tell the OPPS that are also the directional identifiers for XXX ?", 
+  "What are the names of the OPPS that are giving directions to XXX ?"
+ ], 
+ "P488": [
+  "Which OPPS were the chairperson of XXX ?", 
+  "Which OPPS were leaders for XXX ?", 
+  "Which OPPS were heads of XXX ?", 
+  "Can you tell the OPPS which are chairpersons for XXX ?", 
+  "What is names of OPPS which are heads of XXX ?"
+ ], 
+ "P3320": [
+  "Which OPPS are board members of XXX ?", 
+  "Which OPPS are working in boards of XXX as members ?", 
+  "Which OPPS are members of boards in XXX ?", 
+  "Can you tell the OPPS which are board members of XXX ?", 
+  "What are the names of OPPS which are board members of XXX ?"
+ ], 
+ "P1533": [
+  "Which OPPS are same as XXX ?", 
+  "Which OPPS are similar to XXX ?", 
+  "Which OPPS are resembling XXX ?", 
+  "Can you tell the OPPS that are similar to XXX ?", 
+  "What are the names of OPPS similar to XXX ?"
+ ], 
+ "P241": [
+  "Which OPPS did XXX belong to ?", 
+  "Which OPPS does XXX belong to ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Can you tell the OPPS which belong to XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P119": [
+  "Which OPPS is the places of burial of XXX ?", 
+  "Which OPPS are XXX 's burial places ?", 
+  "Which OPPS is XXX 's gravesite ?", 
+  "At which OPPS does XXX 's body reside ?", 
+  "What is the OPPS that hold XXX 's remains ?"
+ ], 
+ "P157": [
+  "Which OPPS were the killers of XXX ?", 
+  "Which OPPS were the murderers of XXX ?", 
+  "Which OPPS were the assasinators of XXX ?", 
+  "Can you tell me which OPPS were the slayers of XXX ?", 
+  "Which OPPS were responsible for the murder of XXX ?"
+ ], 
+ "P163": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS which are associated with XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P162": [
+  "Which OPPS produced XXX ?", 
+  "Which OPPS are the producers of XXX ?", 
+  "Which OPPS help produce XXX ?", 
+  "Can you tell me which OPPS produced XXX ?", 
+  "Name the OPPS that produced XXX ?"
+ ], 
+ "P248": [
+  "Which OPPS are XXX stated in ?", 
+  "Which OPPS are stated by XXX ?", 
+  "Which OPPS are used as statement by XXX ?", 
+  "Can you tell the OPPS which are stated by XXX ?", 
+  "What is name of OPPS which are stated by XXX ?"
+ ], 
+ "P1308": [
+  "Which OPPS holds offices in XXX ?", 
+  "Which OPPS are officeholders in XXX ?", 
+  "Which OPPS are incumbents in XXX ?", 
+  "Name the OPPS who holds offices in XXX .", 
+  "Name the OPPS who are the incumbents in XXX ."
+ ], 
+ "P485": [
+  "Which OPPS hold the archives of XXX ?", 
+  "Which OPPS archive XXX ?", 
+  "Which OPPS maintain the archives for XXX ?", 
+  "What OPPS are the archivists for XXX ?", 
+  "Which OPPS keep archival records of XXX ?"
+ ], 
+ "P3113": [
+  "Which OPPS are not part of XXX ?", 
+  "Which OPPS are missing from XXX ?", 
+  "Which OPPS does XXX not include ?", 
+  "Please tell me the OPPS that are not included in XXX .", 
+  "Can you tell me which OPPS are n't included in XXX ?"
+ ], 
+ "P708": [
+  "Which OPPS does XXX belong to ?", 
+  "Which OPPS does XXX originate in ?", 
+  "Which OPPS does XXX call home ?", 
+  "XXX came from which OPPS ?", 
+  "What are the OPPS that XXX came from ?"
+ ], 
+ "P287": [
+  "Which OPPS are the designers of XXX ?", 
+  "Which OPPS designed XXX ?", 
+  "Which OPPS made designs of XXX ?", 
+  "Can you tell OPPS who designed XXX ?", 
+  "What is the name of OPPS who designed XXX ?"
+ ], 
+ "P1427": [
+  "Which OPPS are start points of XXX ?", 
+  "Which OPPS are startings of XXX ?", 
+  "Which OPPS are beginnings for XXX ?", 
+  "Can you tell the OPPS that are starting for XXX ?", 
+  "What are the names of the OPPS that are starting for XXX ?"
+ ], 
+ "P47": [
+  "Which OPPS share border with XXX ?", 
+  "Which OPPS are right next to XXX ?", 
+  "Which OPPS are bordered by XXX ?", 
+  "What OPPS can be found next to XXX ?", 
+  "Can you tell me the OPPS that border XXX ?"
+ ], 
+ "P2348": [
+  "Which OPPS did XXX belong to ?", 
+  "Which OPPS did the noble XXX belong to ?", 
+  "Which OPPS were it that the XXX belonged to ?", 
+  "The XXX belonged to which OPPS ?", 
+  "To which OPPS did the XXX belong ?"
+ ], 
+ "P1416": [
+  "Which OPPS are XXX affiliated to ?", 
+  "Which OPPS are XXX affiliated with ?", 
+  "Which OPPS does XXX have an affiliation with ?", 
+  "Which OPPS are XXX affiliated with ?", 
+  "Which OPPS does XXX have affiliation with ?"
+ ], 
+ "P40": [
+  "Which OPPS are children of XXX ?", 
+  "Which OPPS are XXX 's offspring ?", 
+  "Which OPPS are XXX 's children ?", 
+  "Please tell me which OPPS are children of XXX .", 
+  "XXX has which OPPS as a children ?"
+ ], 
+ "P413": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS have an aspect ratio like XXX ?", 
+  "Which OPPS are the aspects of rations of XXX ?", 
+  "May you tell me which OPPS are associated with XXX ?", 
+  "May I know which OPPS are images with aspect ration associated with XXX ?"
+ ], 
+ "P412": [
+  "Which OPPS ARE ASSOCIATED WITH XXX ?", 
+  "Which OPPS ARE LINKED WITH XXX ?", 
+  "Which OPPS ARE CONNECTED WITH XXX ?", 
+  "Can YOU TELL THE OPPS WHICH ARE ASSOCIATED XXX ?", 
+  "Name THE OPPS WHICH ARE LINKED WITH XXX ?"
+ ], 
+ "P411": [
+  "Which OPPS represent the canonization status of XXX ?", 
+  "Which OPPS show the religion of XXX ?", 
+  "Which OPPS are showing religion of XXX ?", 
+  "Can you tell the OPPS which are religion of XXX ?", 
+  "What are the names of the OPPS which are religion of XXX ?"
+ ], 
+ "P410": [
+  "Which OPPS were the military ranks held by XXX ?", 
+  "Which OPPS were rank of XXX ?", 
+  "Which OPPS were military ranks for XXX ?", 
+  "Can you tell military ranks of OPPS by XXX ?", 
+  "What is name of OPPS held as ranks for XXX ?"
+ ], 
+ "P417": [
+  "Which OPPS are the patron saints of XXX ?", 
+  "Which OPPS are the heavenly protectors of XXX ?", 
+  "Which OPPS are the patron hallows of XXX ?", 
+  "Please state which OPPS are the guardian saints of XXX ?", 
+  "Could you please tell me the OPPS that are the guardian saints of XXX ?"
+ ], 
+ "P414": [
+  "Which OPPS are XXX traded at ?", 
+  "Which OPPS trade in XXX ?", 
+  "Which OPPS can you find XXX exchanged ?", 
+  "Could you tell me the OPPS that deal with XXX ?", 
+  "May I ask which OPPS represent XXX ?"
+ ], 
+ "P826": [
+  "Which OPPS are the tonality of XXX ?", 
+  "Which OPPS does XXX use ?", 
+  "Which OPPS are the musical keys of XXX ?", 
+  "Could you tell me the OPPS that XXX uses ?", 
+  "May I ask what OPPS are featured in XXX ?"
+ ], 
+ "P1750": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS have an association with XXX ?", 
+  "Which OPPS have an XXX association ?", 
+  "What are the OPPS that are in association with XXX ?", 
+  "Name the OPPS that are associated with XXX ."
+ ], 
+ "P825": [
+  "Which OPPS are XXX dedicated to ?", 
+  "Which OPPS have XXX dedicated to them ?", 
+  "Which OPPS are XXX dedicated for ?", 
+  "State the OPPS to which XXX is dedicated .", 
+  "Tell me the OPPS to which XXX is dedicated ."
+ ], 
+ "P703": [
+  "Which OPPS are XXX found in ?", 
+  "Which OPPS have XXX found in it ?", 
+  "Which OPPS can XXX be found in ?", 
+  "What are the OPPS where one can find XXX ?", 
+  "Tell me in which OPPS XXX can be found ."
+ ], 
+ "P559": [
+  "Which OPPS are a terminus for XXX ?", 
+  "Which OPPS are an end point of XXX ?", 
+  "Which OPPS are a terminating point for XXX ?", 
+  "What OPPS are an end point of XXX ?", 
+  "What OPPS are a terminating point for XXX ?"
+ ], 
+ "P552": [
+  "Which OPPS represent the handedness of XXX ?", 
+  "Which OPPS speak to the handedness of XXX ?", 
+  "Which OPPS stand for the handedness of XXX ?", 
+  "The handedness of XXX is represented by which OPPS ?", 
+  "The handedness of XXX is imitated by which of the following OPPS ?"
+ ], 
+ "P702": [
+  "Which OPPS encode XXX ?", 
+  "Whoic OPPS are used for coding of XXX ?", 
+  "Which OPPS coded XXX ?", 
+  "Can you tell the OPPS which encode XXX ?", 
+  "What are names of OPPS used for encoding of XXX ?"
+ ], 
+ "P2643": [
+  "Whic OPPS represent Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPPS are certifications for XXX ?", 
+  "Which OPPS are used as certification for XXX ?", 
+  "Can you tell the OPPS which are certifications for XXX ?", 
+  "What is name of OPPS which are certifications for XXX ?"
+ ], 
+ "P551": [
+  "Which OPPS were the residences of XXX ?", 
+  "Which OPPS were the abodes of XXX ?", 
+  "Which OPPS were the homes of XXX ?", 
+  "Can you tell me which OPPS were the domiciles of XXX ?", 
+  "Please tell me which OPPS were the homes of XXX ?"
+ ], 
+ "P629": [
+  "Which OPPS are XXX edition or translations of ?", 
+  "Which OPPS are translated for XXX ?", 
+  "Which OPPS are edition of XXX ?", 
+  "Can you tell the OPPS which are edition of XXX ?", 
+  "What are names of OPPS which are translations of XXX ?"
+ ], 
+ "P161": [
+  "Which OPPS were casted in XXX ?", 
+  "Which OPPS starred in XXX ?", 
+  "Which OPPS were the main actors in XXX ?", 
+  "Can you tell me which OPPS were cast in XXX ?", 
+  "May I ask what OPPS were the stars of the film XXX ?"
+ ], 
+ "P159": [
+  "Which OPPS are the headquarter locations of XXX ?", 
+  "Which OPPS are locations for XXX ?", 
+  "Which OPPS are used as a locations for XXX ?", 
+  "Can you tell the OPPS which are locations for XXX ?", 
+  "What are names of OPPS which are locations for XXX ?"
+ ], 
+ "P408": [
+  "Which OPPS are the software engines employed by XXX ?", 
+  "Which OPPS are softwares for XXX ?", 
+  "Which OPPS are used as softwares for XXX ?", 
+  "Can you tell OPPS which are softwares for XXX ?", 
+  "What is name of OPPS used as softwares for XXX ?"
+ ], 
+ "P3137": [
+  "Which OPPS are the parent peaks of XXX ?", 
+  "Which OPPS contain XXX within their territories ?", 
+  "Which OPPS does XXX reside in ?", 
+  "Name some OPPS considered the parent peaks of XXX .", 
+  "The parent peaks of XXX are which OPPS ?"
+ ], 
+ "P828": [
+  "Which OPPS are the causes of XXX ?", 
+  "Which OPPS are the underlying causes of XXX ?", 
+  "Which OPPS are the reasons for XXX ?", 
+  "Could you tell me which OPPS are the ultimate reasons for XXX ?", 
+  "Name the OPPS that have resulted in XXX ."
+ ], 
+ "P504": [
+  "Which OPPS serve as the home ports of XXX ?", 
+  "Which OPPS are home ports for XXX ?", 
+  "Which OPPS are used as home ports for XXX ?", 
+  "Can you tell the OPPS which are home ports for XXX ?", 
+  "What are names of OPPS which are home ports for XXX ?"
+ ], 
+ "P196": [
+  "Which OPPS are the minor planet groups of XXX ?", 
+  "Which OPPS are minor groups for XXX ?", 
+  "Which OPPS are small collections for XXX ?", 
+  "Can you tell the OPPS which are the minor group for XXX ?", 
+  "What are the names of OPPS which are small groups for XXX ?"
+ ], 
+ "P3279": [
+  "Which OPPS were the statistical leaders of XXX ?", 
+  "Which OPPS statistically led XXX ?", 
+  "Which OPPS held the statistical leads in XXX ?", 
+  "Could you tell me which OPPS served as statistical leaders of XXX ?", 
+  "What were OPPS led XXX statistically ?"
+ ], 
+ "P398": [
+  "Which OPPS are the child astronomical bodies of XXX ?", 
+  "Which OPPS are XXX 's child astronomical bodies ?", 
+  "Which OPPS are child astronomical bodies that belong to XXX ?", 
+  "Which OPPS orbit XXX ?", 
+  "Which OPPS are the satellites of XXX ?"
+ ], 
+ "P85": [
+  "Which OPPS represent the anthem for XXX ?", 
+  "Which OPPS represent XXX 's anthem ?", 
+  "Which OPPS are representative of the XXX anthem ?", 
+  "What are the OPPS that represent the anthem for XXX ?", 
+  "Name the OPPS representing the XXX anthem ."
+ ], 
+ "P495": [
+  "Which OPPS are the countries of origin of XXX ?", 
+  "Which OPPS are base countries of XXX ?", 
+  "Which OPPS are regarded as countries of origin of XXX ?", 
+  "Can you tell the names of OPPS which are origins of XXX ?", 
+  "Name the OPPS which are regarded as origins of XXX ?"
+ ], 
+ "P706": [
+  "Which OPPS are XXX located on ?", 
+  "Which OPPS have XXX located on it ?", 
+  "Which OPPS are the locations of XXX ?", 
+  "What OPPS contain the locations of XXX ?", 
+  "Name the OPPS where XXX are located ."
+ ], 
+ "P790": [
+  "Which OPPS are responsible for approval of XXX ?", 
+  "Which OPPS are in charge of approval of XXX ?", 
+  "Which OPPS hold the responsibilities for the approval of XXX ?", 
+  "The approval of XXX relies on the approval of which OPPS ?", 
+  "May I know which OPPS are responsible for approval of XXX ?"
+ ], 
+ "P2239": [
+  "Which OPPS serve as the first aid measures for XXX ?", 
+  "Which OPPS are used to mesuare XXX ?", 
+  "Which OPPS are first aids for XXX ?", 
+  "Can you tell which OPPS are used for XXX ?", 
+  "What are names of OPPS used as first aids for XXX ?"
+ ], 
+ "P793": [
+  "Which OPPS are significant events associated with XXX ?", 
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Can you tell OPPS linked with XXX as important events ?", 
+  "What are names of OPPS connected with XXX as important events ?"
+ ], 
+ "P58": [
+  "Which OPPS wrote the script for the XXX ?", 
+  "Which OPPS did the screenplay for XXX ?", 
+  "Which OPPS were writers of XXX ?", 
+  "Can you tell me the OPPS behind XXX 's script ?", 
+  "May I ask which OPPS authored XXX ?"
+ ], 
+ "P194": [
+  "Which OPPS are the legislative body for XXX ?", 
+  "Which OPPS are dealing with legal issues for XXX ?", 
+  "Which OPPS are legal bodies for XXX ?", 
+  "Can you tell OPPS which are legal bodies for XXX ?", 
+  "What are names of OPPS which are legal bodies for XXX ?"
+ ], 
+ "P816": [
+  "Which OPPS does XXX decay to ?", 
+  "Which OPPS are the ones XXX decays to ?", 
+  "Which OPPS decay into XXX ?", 
+  "Please let me know the OPPS that XXX decays into ?", 
+  "May I know XXX decays into which OPPS ?"
+ ], 
+ "P54": [
+  "Which OPPS are XXX a member of ?", 
+  "Which OPPS currently include XXX ?", 
+  "Which OPPS have XXX as a member ?", 
+  "Which OPPS currently have XXX on their rosters ?", 
+  "Could you tell me the OPPS for which XXX plays ?"
+ ], 
+ "P195": [
+  "Which OPPS contain XXX in their collections ?", 
+  "Which OPPS possess XXX ?", 
+  "Which OPPS contain XXX ?", 
+  "Can you tell the OPPS which contain XXX ?", 
+  "What are names of OPPS which have XXX ?"
+ ], 
+ "P50": [
+  "Which OPPS are authored XXX ?", 
+  "Which OPPS were the authors of XXX ?", 
+  "Which OPPS served as the authors of XXX ?", 
+  "What were the OPPS that authored XXX ?", 
+  "Name the OPPS who were XXX 's author ."
+ ], 
+ "P1029": [
+  "Which OPPS were crew members of XXX ?", 
+  "Which OPPS were on the crew of XXX ?", 
+  "Which OPPS are among the teams that served aboard XXX ?", 
+  "Name some OPPS who worked on XXX ?", 
+  "Can you remember any OPPS who were members of the XXX crew ?"
+ ], 
+ "P53": [
+  "Which OPPS DID XXX BELONG TO ?", 
+  "Which OPPS DID XXX ORIGINATE IN ?", 
+  "Which OPPS WOULD XXX BE CONNECTED WITH ?", 
+  "If XXX WERE TO BELONG TO THE OPPS , WHICH WOULD IT BE ?", 
+  "Which OPPS ARE XXX KNOWN TO HAVE LIVED WITHIN ?"
+ ], 
+ "P3093": [
+  "Which OPPS were used for the recovery of XXX ?", 
+  "Which OPPS are used in recovery for XXX ?", 
+  "Which OPPS are used for treatment of XXX ?", 
+  "Can you tell the OPPS used in recovery for XXX ?", 
+  "What is name of OPPS used in recovery for XXX ?"
+ ], 
+ "P737": [
+  "Which OPPS have influence on XXX ?", 
+  "Which OPPS are influencers of XXX ?", 
+  "Which OPPS serve to influence XXX ?", 
+  "What are the OPPS that influence XXX ?", 
+  "Name the OPPS that are able to influence XXX ."
+ ], 
+ "P734": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS wich are associated with XXX ?", 
+  "What is the name of OPPS connected with XXX ?"
+ ], 
+ "P735": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS which are associated with XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P541": [
+  "Which OPPS were contested for in the XXX ?", 
+  "Which OPPS are contest for in XXX ?", 
+  "Which OPPS are competitions for XXX ?", 
+  "Can you tell the OPPS which are contested for in XXX ?", 
+  "What are names of OPPS which are contested for in XXX ?"
+ ], 
+ "P1057": [
+  "Which OPPS are XXX located on ?", 
+  "Which OPPS are XXX found ?", 
+  "Which OPPS are XXX situated ?", 
+  "Please tell me which OPPS are XXX found ?", 
+  "Could you tell me which OPPS are XXX located on ?"
+ ], 
+ "P2416": [
+  "Which OPPS did XXX participate in ?", 
+  "Which OPPS have participants like XXX ?", 
+  "Which OPPS have participants named XXX ?", 
+  "Can you tell the OPPS in which XXX participated ?", 
+  "What are names of OPPS in which XXX participated ?"
+ ], 
+ "P3094": [
+  "Which OPPS develop from XXX ?", 
+  "Which OPPS arise out of XXX ?", 
+  "Which OPPS form from XXX ?", 
+  "Tell me which OPPS are derived from XXX .", 
+  "Mention the OPPS which develop from XXX ."
+ ], 
+ "P2061": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are linked with XXX ?", 
+  "Which OPPS are connected with XXX ?", 
+  "Can you tell the OPPS which are associated with XXX ?", 
+  "What are names of OPPS connected with XXX ?"
+ ], 
+ "P427": [
+  "Which OPPS are the taxonomix type of XXX ?", 
+  "Which OPPS are type of XXX ?", 
+  "Which OPPS are taxonomix for XXX ?", 
+  "Can you tell the OPPS which are taxonomix for XXX ?", 
+  "What are names of OPPS used as taxonomix for XXX ?"
+ ], 
+ "P937": [
+  "Which OPPS are the work locations of XXX ?", 
+  "Which OPPS were active at XXX ?", 
+  "Which OPPS workplaces are located at XXX ?", 
+  "Can you tell me which OPPS are active in XXX ?", 
+  "Name an OPPS with work locations of XXX ."
+ ], 
+ "P1576": [
+  "Which OPPS serve as the lifestyles of XXX ?", 
+  "Which OPPS are lifestyles for XXX ?", 
+  "Which OPPS are used as lifestyles for XXX ?", 
+  "Can you tell the OPPS used as lifestyles for XXX ?", 
+  "What are names of OPPS used as lifestyles for XXX ?"
+ ], 
+ "P931": [
+  "Which OPPS are served by XXX ?", 
+  "Which OPPS do XXX serve ?", 
+  "Which OPPS get served by XXX ?", 
+  "What are the OPPS served by XXX ?", 
+  "Name the OPPS that XXX serves ."
+ ], 
+ "P812": [
+  "Which OPPS were the academic major of XXX ?", 
+  "Which OPPS were studied by XXX ?", 
+  "Which OPPS are learnt by XXX in studies ?", 
+  "Can you tell the OPPS which are academic majors for XXX ?", 
+  "What are the names of OPPS which are majors of XXX ?"
+ ], 
+ "P140": [
+  "Which OPPS served as the religions of XXX ?", 
+  "Which OPPS are religions for XXX ?", 
+  "Which OPPS were religions of XXX ?", 
+  "Can you tell the OPPS which are religions for XXX ?", 
+  "What is name of OPPS used as religions for XXX ?"
+ ], 
+ "P397": [
+  "Which OPPS have XXX as parent astronomical body ?", 
+  "Which OPPS have parent body as XXX ?", 
+  "Which OPPS have astronomical body of XXX as parent ?", 
+  "Can you tell which OPPS have parent bodies as XXX ?", 
+  "What is name of OPPS which have parent bodies of XXX ?"
+ ], 
+ "P144": [
+  "Which OPPS are XXX based on ?", 
+  "Which OPPS were XXX adapted from ?", 
+  "Which OPPS were XXX derived from ?", 
+  "May I ask the OPPS from which XXX were inspired ?", 
+  "Can you tell me what OPPS had XXX as their original IP ?"
+ ], 
+ "P149": [
+  "Which OPPS are associated with XXX ?", 
+  "Which OPPS are in association with XXX ?", 
+  "Which OPPS are affiliated with XXX ?", 
+  "Please tell me which OPPS are associated with XXX .", 
+  "Which OPPS are they that is associated with XXX ?"
+ ], 
+ "P306": [
+  "Which OPPS are XXX installed on ?", 
+  "Which OPPS installed XXX ?", 
+  "Which OPPS have installed XXX ?", 
+  "Can you tell the OPPS which installed XXX ?", 
+  "What is name of OPPS which installed XXX ?"
+ ], 
+ "P1382": [
+  "Which OPPS are partially overlapped with XXX ?", 
+  "Which OPPS are overlapped partly with XXX ?", 
+  "Which OPPS concurrently overlapped partially with XXX ?", 
+  "What OPPS are those that partially overlapped with XXX ?", 
+  "XXX overlaps partially with which OPPS ?"
+ ], 
+ "P1192": [
+  "Which OPPS served as the connective services for XXX ?", 
+  "Which OPPS served for XXX ?", 
+  "Which OPPS worked connective services for XXX ?", 
+  "Name the OPPS who served XXX ?", 
+  "Name OPPS connecting services for XXX ?"
+ ], 
+ "P61": [
+  "Which OPPS discovered or invented XXX ?", 
+  "Which OPPS found XXX ?", 
+  "Which OPPS made XXX ?", 
+  "Could you tell me which OPPS found XXX ?", 
+  "Name the OPPS that found XXX ."
+ ], 
+ "P676": [
+  "Which OPPS are lyricsists of XXX ?", 
+  "Which OPPS wrote the words of XXX ?", 
+  "Which OPPS were the librettists for XXX ?", 
+  "Could you tell if OPPS composed the words in XXX ?", 
+  "The words of XXX written by which OPPS ?"
+ ], 
+ "P941": [
+  "Which OPPS were XXX inspired by ?", 
+  "Which OPPS inspired XXX ?", 
+  "Which OPPS are inspiring for XXX ?", 
+  "Can you tell the OPPS who inspired XXX ?", 
+  "What is the name of the OPPS that are inspired by XXX ?"
+ ], 
+ "P2695": [
+  "Which OPPS are the localities where XXX originated or was first defined ?", 
+  "Which OPPS are locations of origin of XXX ?", 
+  "Which OPPS are location points related with XXX ?", 
+  "Can you tell OPPS which are location points of XXX ?", 
+  "What is name of OPPS which are also location points of XXX ?"
+ ], 
+ "P69": [
+  "Which OPPS were XXX educated at ?", 
+  "Which OPPS were XXX schooled at ?", 
+  "Which OPPS did XXX study at ?", 
+  "What OPPS were XXX educated at ?", 
+  "What OPPS are XXX schooled at ?"
+ ], 
+ "P1303": [
+  "Which OPPS are played by XXX ?", 
+  "Which OPPS are played by XXX ?", 
+  "Which OPPS does XXX usually play ?", 
+  "What are the OPPS played by XXX ?", 
+  "Could you tell me which OPPS XXX plays ?"
+ ], 
+ "P3301": [
+  "Which OPPS broadcast XXX ?", 
+  "Which OPPS are the broadcasters of XXX ?", 
+  "Which OPPS are broadcasting XXX ?", 
+  "What are the OPPS that offer XXX in a broadcast ?", 
+  "Name the OPPS that are broadcasters of XXX ."
+ ], 
+ "P1050": [
+  "Which OPPS medically affected XXX ?", 
+  "Which OPPS are medically affecting XXX ?", 
+  "Which OPPS have an effect on XXX ?", 
+  "XXX is affected by which OPPS ?", 
+  "Could you tell me which OPPS are affecting XXX nowadays ?"
+ ], 
+ "P780": [
+  "Which OPPS are caused due to XXX ?", 
+  "Which OPPS are caused because of XXX ?", 
+  "Which OPPS do XXX cause ?", 
+  "What are the OPPS that are caused because of XXX ?", 
+  "Name the OPPS that XXX causes ."
+ ], 
+ "P2522": [
+  "Which OPPS were won by XXX ?", 
+  "Which OPPS had XXX as the winner ?", 
+  "Which OPPS had XXX as the victor ?", 
+  "In which OPPS was XXX victorious ?", 
+  "Please tell me which OPPS were won by XXX ?"
+ ], 
+ "P1056": [
+  "Which OPPS are produced by XXX ?", 
+  "Which OPPS are made by XXX ?", 
+  "Which OPPS are manufactured by XXX ?", 
+  "Tell me which OPPS are produced by XXX ?", 
+  "May I know the OPPS produced by XXX ?"
+ ], 
+ "P1435": [
+  "Which OPPS represent the heritage status given to XXX ?", 
+  "Which OPPS are heritages of XXX ?", 
+  "Which OPPS are showing status of XXX ?", 
+  "Can you tell OPPS which are heritages of XXX ?", 
+  "What are names of OPPS which are heritage status for XXX ?"
+ ], 
+ "P750": [
+  "Which OPPS are the distributor of XXX ?", 
+  "Which OPPS distributes XXX ?", 
+  "Which OPPS distributes the creative work of XXX ?", 
+  "Could you tell me which OPPS are the distributor of XXX ?", 
+  "XXX is distributed by which OPPS ?"
+ ], 
+ "P789": [
+  "Which OPPS categories does XXX belong to ?", 
+  "Which OPPS have belonging for XXX ?", 
+  "Which OPPS are linked with XXX in category ?", 
+  "Can you tell the OPPS that are categories for XXX ?", 
+  "What are the names of the OPPS that are categories for XXX ?"
+ ], 
+ "P275": [
+  "Which OPPS are XXX released under ?", 
+  "Which OPPS are the ones under which XXX are released ?", 
+  "Which OPPS have XXX released under them ?", 
+  "What are the OPPS under which XXX are released ?", 
+  "Name the OPPS that have XXX released beneath ."
+ ], 
+ "P118": [
+  "Which OPPS are the leagues played by XXX ?", 
+  "Which OPPS are played by XXX as leagues ?", 
+  "Which OPPS are leagues for XXX ?", 
+  "Can you tell OPPS which are leagues of XXX ?", 
+  "What are names of OPPS which are leagues for XXX ?"
+ ], 
+ "P1196": [
+  "Which OPPS were associated with death of XXX ?", 
+  "Which OPPS had an association with the death of XXX ?", 
+  "Which OPPS were associated with XXX 's death ?", 
+  "I would like to know the OPPS that are associated with the death of XXX .", 
+  "What are the OPPS known to be associated with the death of XXX ?"
+ ], 
+ "P449": [
+  "Which OPPS are the original networks XXX was aired on ?", 
+  "Which OPPS were the original channels of XXX ?", 
+  "Which OPPS originally broadcast XXX ?", 
+  "On which OPPS did XXX debut ?", 
+  "Could you tell me the OPPS that launched XXX ?"
+ ]
+}

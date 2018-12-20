@@ -1,0 +1,1707 @@
+{
+ "P530": [
+  "Which SPP has diplomatic relation with YYY ?", 
+  "Which SPP is related with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P688": [
+  "Which SPP encodes YYY ?", 
+  "Which SPP codes for YYY ?", 
+  "Which SPP produces gene YYY ?"
+ ], 
+ "P689": [
+  "Which SPP afflicts YYY ?", 
+  "Which SPP is afflicting YYY ?", 
+  "Which SPP has afflicted YYY ?"
+ ], 
+ "P725": [
+  "Which SPP has been dubbed by YYY ?", 
+  "Which SPP lip-synched to YYY 's voice ?", 
+  "Which SPP had YYY as a voice stand-in ?"
+ ], 
+ "P2176": [
+  "Which SPP requires YYY in its treatment ?", 
+  "Which SPP can be treated by YYY ?", 
+  "Which SPP is treated by YYY ?"
+ ], 
+ "P1376": [
+  "Which SPP is the capital of YYY ?", 
+  "Which SPP has a capital city of YYY ?", 
+  "Which SPP has YYY has its capital ?"
+ ], 
+ "P726": [
+  "Which SPP features YYY as a candidate ?", 
+  "Which SPP has candidate named YYY ?", 
+  "Which SPP has YYY as candidate ?"
+ ], 
+ "P682": [
+  "Which SPP is involved in YYY ?", 
+  "Which SPP has an involvement in YYY ?", 
+  "Which SPP is it that is involved in YYY ?"
+ ], 
+ "P3085": [
+  "Which SPP qualifies for YYY ?", 
+  "Which SPP is qualifying for YYY ?", 
+  "Which SPP is given qualification for YYY ?"
+ ], 
+ "P680": [
+  "Which SPP has molecular function as YYY ?", 
+  "Which SPP has function as YYY ?", 
+  "Which SPP has YYY as function ?"
+ ], 
+ "P681": [
+  "Which SPP has YYY as cell component ?", 
+  "Which SPP has cell component named YYY ?", 
+  "Which SPP has YYY as component of cell ?"
+ ], 
+ "P3080": [
+  "Which SPP has been created by YYY ?", 
+  "Which SPP was designed by YYY ?", 
+  "Which SPP is credited to YYY ?"
+ ], 
+ "P3081": [
+  "Which SPP is the the cause of damage of YYY ?", 
+  "Which SPP damaged YYY ?", 
+  "Which SPP caused YYY damage ?"
+ ], 
+ "P921": [
+  "Which SPP has YYY as main topic ?", 
+  "Which SPP has YYY as its primary topic of work ?", 
+  "Which SPP has YYY as its main subject ?"
+ ], 
+ "P2079": [
+  "Which SPP uses YYY as its fabrication method ?", 
+  "Which SPP has fabrication method named YYY ?", 
+  "Which SPP used YYY as fabrication ?"
+ ], 
+ "P532": [
+  "Which SPP has YYY as registry port ?", 
+  "Which SPP has registry of YYY ?", 
+  "Which SPP has YYY as registry ?"
+ ], 
+ "P607": [
+  "Which SPP was used in YYY ?", 
+  "Which SPP was consumed in YYY ?", 
+  "Which SPP has been utilized in YYY ?"
+ ], 
+ "P1340": [
+  "Which SPP has YYY as eye color ?", 
+  "Which SPP has a YYY eye color ?", 
+  "Which SPP has eyes colored YYY ?"
+ ], 
+ "P1434": [
+  "Which SPP describes YYY ?", 
+  "Which SPP is describing YYY ?", 
+  "Which SPP is explaining YYY ?"
+ ], 
+ "P608": [
+  "Which SPP was exhibited at YYY ?", 
+  "Which SPP was shown at YYY ?", 
+  "Which SPP was demonstrated at YYY ?"
+ ], 
+ "P609": [
+  "Which SPP is located at YYY ?", 
+  "Which SPP is found at YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P748": [
+  "Which SPP is appointed by YYY ?", 
+  "Which SPP was placed in office by YYY ?", 
+  "Which SPP is YYY 's appointee ?"
+ ], 
+ "P135": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P3150": [
+  "Which SPP has YYY as birthday ?", 
+  "Which SPP has birthday as YYY ?", 
+  "Which SPP was born as YYY ?"
+ ], 
+ "P137": [
+  "Which SPP was operated by YYY ?", 
+  "Which SPP was performed by YYY ?", 
+  "Which SPP was launched by YYY ?"
+ ], 
+ "P3156": [
+  "Which SPP has Australian Classification System rating as YYY ?", 
+  "Which SPP has rating as YYY ?", 
+  "Which SPP is rated as YYY ?"
+ ], 
+ "P2175": [
+  "Which SPP is used for treatment of YYY ?", 
+  "Which SPP is treating YYY ?", 
+  "Which SPP can treat YYY ?"
+ ], 
+ "P2239": [
+  "Which SPP requires YYY as first aid response ?", 
+  "Which SPP is using aid from YYY ?", 
+  "Which SPP is getting first aid from YYY ?"
+ ], 
+ "P404": [
+  "Which SPP supports YYY as its game mode ?", 
+  "Which SPP has game mode of YYY ?", 
+  "Which SPP contains YYY as game mode ?"
+ ], 
+ "P641": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P237": [
+  "Which SPP has YYY as coat of arms ?", 
+  "Which SPP bears YYY as coat of arms?", 
+  "Which SPP has coat of arms named YYY ?"
+ ], 
+ "P610": [
+  "Which SPP has YYY as its highest point ?", 
+  "Which SPP has a highest point of YYY ?", 
+  "Which SPP has YYY as its most elevated point ?"
+ ], 
+ "P837": [
+  "Which SPP falls on YYY ?", 
+  "Which SPP is falling on YYY ?", 
+  "Which SPP has been falling on YYY ?"
+ ], 
+ "P793": [
+  "Which SPP had YYY as a significant event associated with it ?", 
+  "Which SPP was associated with YYY ?", 
+  "Which SPP had YYY as a key incident ?"
+ ], 
+ "P2554": [
+  "Which SPP was designed by YYY ?", 
+  "Which SPP was made by YYY ?", 
+  "Which SPP was created by YYY ?"
+ ], 
+ "P734": [
+  "Which SPP has YYY as family name ?", 
+  "Which SPP has family name of YYY ?", 
+  "Which SPP has YYY as name of family ?"
+ ], 
+ "P1346": [
+  "Which SPP was won by YYY ?", 
+  "Which SPP was obtained by YYY ?", 
+  "Which SPP made YYY victorious ?"
+ ], 
+ "P676": [
+  "Which SPP has its lyrics written by YYY ?", 
+  "Which SPP was written by YYY ?", 
+  "Which SPP was composed by YYY ?"
+ ], 
+ "P3095": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P816": [
+  "Which SPP decays to YYY ?", 
+  "Which SPP is decaying to make YYY ?", 
+  "Which SPP,on decaying gives YYY ?"
+ ], 
+ "P1995": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is the one associated with YYY ?", 
+  "Which SPP has an association with YYY ?"
+ ], 
+ "P520": [
+  "Which SPP is armed with YYY ?", 
+  "Which SPP is loaded with YYY ?", 
+  "Which SPP supplies YYY ?"
+ ], 
+ "P1389": [
+  "Which SPP has YYY as product certification ?", 
+  "Which SPP has certification of YYY ?", 
+  "Which SPP has YYY as certification ?"
+ ], 
+ "P1990": [
+  "Which SPP has kept the species named YYY ?", 
+  "Which SPP possesses species of YYY ?", 
+  "Which SPP contained species of YYY ?"
+ ], 
+ "P289": [
+  "Which SPP has YYY as vessel class ?", 
+  "Which SPP is classified as YYY ?", 
+  "Which SPP belongs to the classification YYY ?"
+ ], 
+ "P1411": [
+  "Which SPP was nominated for YYY ?", 
+  "Which SPP was fiven nomination for YYY ?", 
+  "Which SPP was forwarded for YYY ?"
+ ], 
+ "P800": [
+  "Which SPP has YYY as a notable work ?", 
+  "Which SPP has YYY as work ?", 
+  "Which SPP has YYY as important work ?"
+ ], 
+ "P1412": [
+  "Which SPP speaks YYY ?", 
+  "Which SPP has language named YYY ?", 
+  "Which SPP has language called YYY ?"
+ ], 
+ "P282": [
+  "Which SPP has writing system as YYY ?", 
+  "Which SPP has writing program as YYY ?", 
+  "Which SPP has YYY as writing program ?"
+ ], 
+ "P169": [
+  "Which SPP has YYY as CEO ?", 
+  "Which SPP has ceo named YYY ?", 
+  "Which SPP has YYY named ceo ?"
+ ], 
+ "P914": [
+  "Which SPP has USK rating as YYY ?", 
+  "Which SPP uses USK rating as YYY ?", 
+  "Which SPP allows for YYY ?"
+ ], 
+ "P1416": [
+  "Which SPP is affiliated to YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P206": [
+  "Which SPP is located next to YYY ?", 
+  "Which SPP is adjacent to YYY ?", 
+  "Which SPP is on the shore of YYY ?"
+ ], 
+ "P1142": [
+  "Which SPP has YYY as its political ideology ?", 
+  "Which SPP has political figure of YYY ?", 
+  "Which SPP has YYY as a political party ?"
+ ], 
+ "P991": [
+  "Which SPP had YYY as its successful candidate ?", 
+  "Which SPP has candidate named YYY ?", 
+  "Which SPP has YYY a candidate ?"
+ ], 
+ "P750": [
+  "Which SPP has YYY as its distributor ?", 
+  "Which SPP has distributor YYY ?", 
+  "Which SPP has YYY as distributor ?"
+ ], 
+ "P437": [
+  "Which SPP was distributed via YYY ?", 
+  "Which SPP was spread through YYY ?", 
+  "Which SPP was given distribution through YYY ?"
+ ], 
+ "P200": [
+  "Which SPP has YYY as inflow source ?", 
+  "Which SPP has source of YYY ?", 
+  "Which SPP has YYY as source ?"
+ ], 
+ "P201": [
+  "Which SPP has YYY as outflow lake ?", 
+  "Which SPP has lake named YYY ?", 
+  "Which SPP has outflow lake of YYY ?"
+ ], 
+ "P1313": [
+  "Which SPP has YYY as office of head of government ?", 
+  "Which SPP has YYY as head ?", 
+  "Which SPP has head named YYY ?"
+ ], 
+ "P611": [
+  "Which SPP has YYY as religious affiliation ?", 
+  "Which SPP has religious link of YYY ?", 
+  "Which SPP has YYY as religious link ?"
+ ], 
+ "P1308": [
+  "Which SPP has YYY as officeholder ?", 
+  "Which SPP is holding ofice through YYY ?", 
+  "Which SPP has office holder called YYY ?"
+ ], 
+ "P138": [
+  "Which SPP is named after YYY ?", 
+  "Which SPP is named after YYY ?", 
+  "Which SPP was given name after YYY ?"
+ ], 
+ "P127": [
+  "Which SPP is owned by YYY ?", 
+  "Which SPP has YYY as its owner ?", 
+  "Which SPP has an owner that 's YYY ?"
+ ], 
+ "P126": [
+  "Which SPP is maintained by YYY ?", 
+  "Which SPP is kept by YYY ?", 
+  "Which SPP is established by YYY ?"
+ ], 
+ "P3275": [
+  "Which SPP has YYY as storyboard artist ?", 
+  "Which SPP has artist named YYY ?", 
+  "Which SPP has YYY as artist ?"
+ ], 
+ "P88": [
+  "Which SPP was commissioned by YYY ?", 
+  "Which SPP was supported by YYY ?", 
+  "Which SPP was encouraged by YYY ?"
+ ], 
+ "P123": [
+  "Which SPP was published by YYY ?", 
+  "Which SPP was the one published by YYY ?", 
+  "Which SPP had YYY as its publisher ?"
+ ], 
+ "P122": [
+  "Which SPP has YYY as the form of government ?", 
+  "Which SPP has YYY as government ?", 
+  "Which SPP has government named YYY ?"
+ ], 
+ "P121": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P1028": [
+  "Which SPP is donated by YYY ?", 
+  "Which SPP is contributed by YYY ?", 
+  "Which SPP is given by YYY ?"
+ ], 
+ "P81": [
+  "Which SPP is connected to YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P86": [
+  "Which SPP is composed by YYY ?", 
+  "Which SPP is made by YYY ?", 
+  "Which SPP is created by YYY ?"
+ ], 
+ "P129": [
+  "Which SPP interacts with YYY ?", 
+  "Which SPP reacts with YYY ?", 
+  "Which SPP is reacting with YYY ?"
+ ], 
+ "P84": [
+  "Which SPP was designed by YYY ?", 
+  "Which SPP was a product of a design by YYY ?", 
+  "Which SPP resulted from a design by YYY ?"
+ ], 
+ "P840": [
+  "Which SPP has its narrative located at YYY ?", 
+  "Which SPP has narrative at YYY ?", 
+  "Which SPP has narrative found at YYY ?"
+ ], 
+ "P841": [
+  "Which SPP has YYY as principal feast day ?", 
+  "Which SPP has YYY as feast day ?", 
+  "Which SPP contains YYY as feast day ?"
+ ], 
+ "P1542": [
+  "Which SPP is the cause of YYY ?", 
+  "Which SPP is caused by YYY ?", 
+  "Which SPP is generated by YYY ?"
+ ], 
+ "P880": [
+  "Which SPP has YYY as its CPU ?", 
+  "Which SPP has cpu named YYY ?", 
+  "Which SPP has cpu called YYY ?"
+ ], 
+ "P2548": [
+  "Which SPP has YYY as DNA gene orientation ?", 
+  "Which SPP has YYY as gene ?", 
+  "Which SPP is using YYY as gene ?"
+ ], 
+ "P972": [
+  "Which SPP has YYY as its catalog ?", 
+  "Which SPP has catalog of YYY ?", 
+  "Which SPP possesses YYY as catalog ?"
+ ], 
+ "P161": [
+  "Which SPP stars YYY as actor ?", 
+  "Which SPP has actor named YYY ?", 
+  "Which SPP has YYY as actor ?"
+ ], 
+ "P1071": [
+  "Which SPP was finally assembled at YYY ?", 
+  "Which SPP was assembled at YYY ?", 
+  "Which SPP was made at YYY ?"
+ ], 
+ "P1408": [
+  "Which SPP is licensed to broadcast to YYY ?", 
+  "Which SPP can broadcast to the YYY area ?", 
+  "Which SPP hold the License for YYY ?"
+ ], 
+ "P355": [
+  "Which SPP has YYY as its subsidiary ?", 
+  "Which SPP has a subsidiary of YYY ?", 
+  "Which SPP has subsidiary called YYY ?"
+ ], 
+ "P518": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P1399": [
+  "Which SPP was convicted of YYY ?", 
+  "Which SPP was criminal in YYY ?", 
+  "Which SPP was caught as criminal for YYY ?"
+ ], 
+ "P516": [
+  "Which SPP is powered by YYY ?", 
+  "Which SPP gets power from YYY ?", 
+  "Which SPP obtained power from YYY ?"
+ ], 
+ "P1403": [
+  "Which SPP has YYY as its original combination ?", 
+  "Which SPP has YYY as combination ?", 
+  "Which SPP has combination named YYY ?"
+ ], 
+ "P1456": [
+  "Which SPP has its list of monuments mentioned in YYY ?", 
+  "Which SPP has monuments in YYY ?", 
+  "Which SPP got monuments in YYY ?"
+ ], 
+ "P3189": [
+  "Which SPP is innervated by YYY ?", 
+  "Which SPP has YYY in nerves ?", 
+  "Which SPP has nerves with YYY ?"
+ ], 
+ "P2363": [
+  "Which SPP has YYY as NMHH film rating ?", 
+  "Which SPP has YYY as rating ?", 
+  "Which SPP has rating of YYY ?"
+ ], 
+ "P1013": [
+  "Which SPP used YYY as criterion ?", 
+  "Which SPP has criterion of YYY ?", 
+  "Which SPP contains criterion of YYY ?"
+ ], 
+ "P485": [
+  "Which SPP has archives are located at YYY ?", 
+  "Which SPP has archives in YYY ?", 
+  "Which SPP contained archives in YYY ?"
+ ], 
+ "P669": [
+  "Which SPP is located at YYY ?", 
+  "Which SPP is found at YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P552": [
+  "Which SPP has handedness as YYY ?", 
+  "Which SPP obtained handedness as YYY ?", 
+  "Which SPP got handedness as YYY ?"
+ ], 
+ "P3195": [
+  "Which SPP used YYY as league points system ?", 
+  "Which SPP is using YYY as system ?", 
+  "Which SPP has used YYY as system ?"
+ ], 
+ "P1312": [
+  "Which SPP has its facet polytope as YYY ?", 
+  "Which SPP has facet of YYY ?", 
+  "Which SPP contains facet of YYY ?"
+ ], 
+ "P3279": [
+  "Which SPP has YYY as statistical leader ?", 
+  "Which SPP has leader named YYY ?", 
+  "Which SPP has YYY as leader ?"
+ ], 
+ "P459": [
+  "Which SPP was determined by YYY ?", 
+  "Which SPP was determined through YYY ?", 
+  "Which SPP was obtained through YYY ?"
+ ], 
+ "P740": [
+  "Which SPP was formed at YYY ?", 
+  "Which SPP was created at YYY ?", 
+  "Which SPP was made at YYY ?"
+ ], 
+ "P6": [
+  "Which SPP is YYY a government head of ?", 
+  "Which SPP has head of YYY ?", 
+  "Which SPP has YYY s head ?"
+ ], 
+ "P190": [
+  "Which SPP is a sister city of YYY ?", 
+  "Which SPP is an acknowledged twin town to YYY ?", 
+  "Which SPP is YYY 's sister city ?"
+ ], 
+ "P453": [
+  "Which SPP casts YYY as a character ?", 
+  "Which SPP casted YYY ?", 
+  "Which SPP gave YYY a cast ?"
+ ], 
+ "P452": [
+  "Which SPP belongs to the industry of YYY ?", 
+  "Which SPP belongs to YYY ?", 
+  "Which SPP is linked with YYY ?"
+ ], 
+ "P749": [
+  "Which SPP has YYY as parent organization ?", 
+  "Which SPP has YYY as parent ?", 
+  "Which SPP has YYY as major organization ?"
+ ], 
+ "P195": [
+  "Which SPP belongs to YYY ?", 
+  "Which SPP is part of YYY ?", 
+  "Which SPP is contained in YYY ?"
+ ], 
+ "P98": [
+  "Which SPP is edited by YYY ?", 
+  "Which SPP is proofread by YYY ?", 
+  "Which SPP overlooks YYY ?"
+ ], 
+ "P113": [
+  "Which SPP has its airline hub at YYY ?", 
+  "Which SPP has airline in YYY ?", 
+  "Which SPP has YYY as airline ?"
+ ], 
+ "P110": [
+  "Which SPP was illustrated by YYY ?", 
+  "Which SPP had been illustrated by YYY ?", 
+  "Which SPP was given illustration through YYY ?"
+ ], 
+ "P3263": [
+  "Which SPP has YYY as its base ?", 
+  "Which SPP has base of YYY ?", 
+  "Which SPP has a base called YYY ?"
+ ], 
+ "P3075": [
+  "Which SPP has its official religion as YYY ?", 
+  "Which SPP has YYY as religion ?", 
+  "Which SPP has religion named YYY ?"
+ ], 
+ "P3190": [
+  "Which SPP innervates YYY ?", 
+  "Which SPP is innervated by YYY ?", 
+  "Which SPP has been innervated through YYY ?"
+ ], 
+ "P115": [
+  "Which SPP has YYY as its home venue ?", 
+  "Which SPP has YYY as home ?", 
+  "Which SPP has home called YYY ?"
+ ], 
+ "P91": [
+  "Which SPP has YYY as sexual orientation ?", 
+  "Which SPP has sexual position of YYY ?", 
+  "Which SPP has position for sex as YYY ?"
+ ], 
+ "P1884": [
+  "Which SPP has YYY as hair color ?", 
+  "Which SPP has hair color of YYY ?", 
+  "Which SPP is using hair color of YYY ?"
+ ], 
+ "P1885": [
+  "Which SPP has YYY as its cathedral ?", 
+  "Which SPP uses YYY as its cathedral ?", 
+  "Which SPP identifies YYY as its cathedral ?"
+ ], 
+ "P3174": [
+  "Which SPP was directed by YYY ?", 
+  "Which SPP was made by YYY ?", 
+  "Which SPP is created by using YYY ?"
+ ], 
+ "P97": [
+  "Which SPP is a recepient of YYY ?", 
+  "Which SPP receives YYY ?", 
+  "Which SPP is receiving YYY ?"
+ ], 
+ "P2978": [
+  "Which SPP has YYY as wheel arrangement ?", 
+  "Which SPP has a wheel arrangement of YYY ?", 
+  "Which SPP has its wheels arranged as YYY ?"
+ ], 
+ "P306": [
+  "Which SPP is installed on YYY ?", 
+  "Which SPP is installed at YYY ?", 
+  "Which SPP is working on YYY ?"
+ ], 
+ "P690": [
+  "Which SPP has YYY as space group ?", 
+  "Which SPP has space group named YYY ?", 
+  "Which SPP contains space group named YYY ?"
+ ], 
+ "P16": [
+  "Which SPP has YYY as its highway system ?", 
+  "Which SPP has system of YYY ?", 
+  "Which SPP has YYY as system ?"
+ ], 
+ "P17": [
+  "Which SPP is located in YYY ?", 
+  "Which SPP is found in YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P19": [
+  "Which SPP was born at YYY ?", 
+  "Which SPP was given birth at YYY ?", 
+  "Which SPP has birth place of YYY ?"
+ ], 
+ "P859": [
+  "Which SPP was sponsored by YYY ?", 
+  "Which SPP was funded by YYY ?", 
+  "Which SPP was supported by YYY ?"
+ ], 
+ "P1064": [
+  "Which SPP has YYY as track gauge ?", 
+  "Which SPP has gauge called YYY ?", 
+  "Which SPP has YYY as gauge ?"
+ ], 
+ "P1066": [
+  "Which SPP is a student of YYY ?", 
+  "Which SPP has YYY as student ?", 
+  "Which SPP has YYY as learner ?"
+ ], 
+ "P509": [
+  "Which SPP had YYY as cause of death ?", 
+  "Which SPP was dead due to YYY ?", 
+  "Which SPP died due to YYY ?"
+ ], 
+ "P184": [
+  "Which SPP has YYY as doctoral advisor ?", 
+  "Which SPP has advisor named YYY ?", 
+  "Which SPP has YYY as advisor ?"
+ ], 
+ "P112": [
+  "Which SPP was founded by YYY ?", 
+  "Which SPP was made by YYY ?", 
+  "Which SPP was created by YYY ?"
+ ], 
+ "P186": [
+  "Which SPP uses YYY as material for its making ?", 
+  "Which SPP uses YYY to make its product ?", 
+  "Which SPP uses the material YYY in its manufacturing process ?"
+ ], 
+ "P1532": [
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P7": [
+  "Which SPP had YYY as brother ?", 
+  "Which SPP is the brother of YYY ?", 
+  "Which SPP has a brother called YYY ?"
+ ], 
+ "P183": [
+  "Which SPP is endemic to YYY ?", 
+  "Which SPP lives solely in YYY ?", 
+  "Which SPP has YYY as its habitat ?"
+ ], 
+ "P344": [
+  "Which SPP has YYY as director of photography ?", 
+  "Which SPP has a director of photography that is YYY ?", 
+  "Which SPP has a YYY director of photography ?"
+ ], 
+ "P2515": [
+  "Which SPP has YYY as costume designer ?", 
+  "Which SPP has costume designer of YYY ?", 
+  "Which SPP has designer of YYY ?"
+ ], 
+ "P1576": [
+  "Which SPP has YYY as lifestyle ?", 
+  "Which SPP has lifestyle named YYY ?", 
+  "Which SPP has lifestyle called YYY ?"
+ ], 
+ "P9": [
+  "Which SPP had YYY as sister ?", 
+  "Which SPP has sister named YYY ?", 
+  "Which SPP has a sister known as YYY ?"
+ ], 
+ "P505": [
+  "Which SPP has YYY as its general manager ?", 
+  "Which SPP has manager of YYY ?", 
+  "Which SPP has YYY as manager ?"
+ ], 
+ "P504": [
+  "Which SPP has YYY as its home port ?", 
+  "Which SPP has port named YYY ?", 
+  "Which SPP has YYY as port ?"
+ ], 
+ "P1001": [
+  "Which SPP applies to the jurisdiction of YYY ?", 
+  "Which SPP is legally related with YYY ?", 
+  "Which SPP is legally connected to YYY ?"
+ ], 
+ "P469": [
+  "Which SPP flows through YYY ?", 
+  "Which SPP is flowing through YYY ?", 
+  "Which SPP moves through YYY ?"
+ ], 
+ "P1080": [
+  "Which SPP belongs to YYY ?", 
+  "Which SPP is the one belonging to YYY ?", 
+  "Which SPP is a belonging of YYY ?"
+ ], 
+ "P462": [
+  "Which SPP has YYY as color characteristics ?", 
+  "Which SPP has YYY as color ?", 
+  "Which SPP contains YYY as color ?"
+ ], 
+ "P463": [
+  "Which SPP is a member of YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P3179": [
+  "Which SPP has its territory overlap with YYY ?", 
+  "Which SPP has territory that overlaps with YYY ?", 
+  "Which SPP has part or all of the area associated with it overlapping with part or all of the area associated with YYY ?"
+ ], 
+ "P2354": [
+  "Which SPP contains YYY in its list ?", 
+  "Which SPP has a list that contains YYY ?", 
+  "Which SPP has in its list YYY ?"
+ ], 
+ "P466": [
+  "Which SPP is occupied by YYY ?", 
+  "Which SPP is contained by YYY ?", 
+  "Which SPP is possessed by YYY ?"
+ ], 
+ "P467": [
+  "Which SPP was legislated by YYY ?", 
+  "Which SPP did YYY legislate ?", 
+  "Which SPP was started by YYY ?"
+ ], 
+ "P358": [
+  "Which SPP has his discography mentioned in YYY ?", 
+  "Which SPP is mentioned in YYY ?", 
+  "Which SPP is described in YYY ?"
+ ], 
+ "P2453": [
+  "Which SPP was nominated for YYY ?", 
+  "Which SPP was nominating YYY ?", 
+  "Which SPP has nominated YYY ?"
+ ], 
+ "P264": [
+  "Which SPP has YYY as its record label ?", 
+  "Which SPP has record label of YYY ?", 
+  "Which SPP is containing record label of YYY ?"
+ ], 
+ "P1923": [
+  "Which SPP did YYY participate in ?", 
+  "Which SPP has participant named YYY ?", 
+  "Which SPP has participant called YYY ?"
+ ], 
+ "P684": [
+  "Which SPP has YYY as its orthologous gene ?", 
+  "Which SPP has YYY as the gene type as orthologous?", 
+  "Which SPP contains YYY as the orthologous type of gene ?"
+ ], 
+ "P108": [
+  "Which SPP was employed by YYY ?", 
+  "Which SPP was hired by YYY ?", 
+  "Which SPP was engaged by YYY ?"
+ ], 
+ "P2860": [
+  "Which SPP cites YYY ?", 
+  "Which SPP indicates YYY ?", 
+  "Which SPP shows YYY ?"
+ ], 
+ "P105": [
+  "Which SPP has YYY as its taxon rank ?", 
+  "Which SPP has rank of YYY ?", 
+  "Which SPP got rank of YYY ?"
+ ], 
+ "P106": [
+  "Which SPP has YYY as occupation ?", 
+  "Which SPP is working as YYY ?", 
+  "Which SPP has occupation named YYY ?"
+ ], 
+ "P101": [
+  "Which SPP is involved in work related to YYY ?", 
+  "Which SPP performs work related to YYY ?", 
+  "Which SPP is in the industry realte to YYY ?"
+ ], 
+ "P103": [
+  "Which SPP has YYY as native language ?", 
+  "Which SPP has YYY as language ?", 
+  "Which SPP has YYY as mother tongue ?"
+ ], 
+ "P102": [
+  "Which SPP was a member of YYY ?", 
+  "Which SPP was related with YYY ?", 
+  "Which SPP was working as member in YYY ?"
+ ], 
+ "P25": [
+  "Which SPP has YYY as mother ?", 
+  "Which SPP has mother named YYY ?", 
+  "Which SPP has a mother called YYY ?"
+ ], 
+ "P27": [
+  "Which SPP is a citizen of YYY ?", 
+  "Which SPP has citizenship of YYY ?", 
+  "Which SPP has YYY as citizenship ?"
+ ], 
+ "P26": [
+  "Which SPP has YYY as spouse ?", 
+  "Which SPP is married to YYY ?", 
+  "Which SPP has a spouse named YYY ?"
+ ], 
+ "P21": [
+  "Which SPP has YYY as gender ?", 
+  "Which SPP has gender of YYY ?", 
+  "Which SPP got YYY as gender ?"
+ ], 
+ "P20": [
+  "Which SPP has YYY as place of death ?", 
+  "Which SPP died at YYY ?", 
+  "Which SPP is found dead at YYY ?"
+ ], 
+ "P22": [
+  "Which SPP has YYY as father ?", 
+  "Which SPP has father named YYY ?", 
+  "Which SPP has YYY as father ?"
+ ], 
+ "P136": [
+  "Which SPP has YYY as genre ?", 
+  "Which SPP has genre named YYY ?", 
+  "Which SPP has YYY as genre ?"
+ ], 
+ "P828": [
+  "Which SPP is caused by YYY ?", 
+  "Which SPP is started through YYY ?", 
+  "Which SPP is a cause of YYY ?"
+ ], 
+ "P1383": [
+  "Which SPP contains YYY ?", 
+  "Which SPP has YYY ?", 
+  "Which SPP possessed YYY ?"
+ ], 
+ "P451": [
+  "Which SPP has YYY as relationship partner ?", 
+  "Which SPP has partner named YYY ?", 
+  "Which SPP has a relationship partner named YYY ?"
+ ], 
+ "P1039": [
+  "Which SPP has YYY as kinship type ?", 
+  "Which SPP is distantly related to YYY ?", 
+  "Which SPP has YYY as a distant relative ?"
+ ], 
+ "P1038": [
+  "Which SPP is a relative of YYY ?", 
+  "Which SPP has relative named YYY ?", 
+  "Which SPP has relative called YYY ?"
+ ], 
+ "P739": [
+  "Which SPP uses YYY as ammunition ?", 
+  "Which SPP has YYY as ammo ?", 
+  "Which SPP is using ammo called YYY ?"
+ ], 
+ "P2747": [
+  "Which SPP has Filmiroda rating as YYY ?", 
+  "Which SPP has rating of YYY ?", 
+  "Which SPP has YYY as rating ?"
+ ], 
+ "P376": [
+  "Which SPP is located on YYY ?", 
+  "Which SPP is found on YYY ?", 
+  "Which SPP is established on YYY ?"
+ ], 
+ "P805": [
+  "Which SPP is the subject of YYY ?", 
+  "Which SPP is subjected to YYY ?", 
+  "Which SPP has YYY as subject ?"
+ ], 
+ "P3148": [
+  "Which SPP repeals YYY ?", 
+  "Which SPP cancels YYY ?", 
+  "Which SPP invalidates YYY ?"
+ ], 
+ "P375": [
+  "Which SPP was launched in YYY ?", 
+  "Which SPP was started in YYY ?", 
+  "Which SPP began in YYY ?"
+ ], 
+ "P1037": [
+  "Which SPP is managed by YYY ?", 
+  "Which SPP is directed by YYY ?", 
+  "Which SPP is run by YYY ?"
+ ], 
+ "P411": [
+  "Which SPP has YYY as canonization status ?", 
+  "Which SPP achieved sainthood status of YYY ?", 
+  "Which SPP is ranked for sainthood at YYY ?"
+ ], 
+ "P802": [
+  "Which SPP was a notable student of YYY ?", 
+  "Which SPP is a student of YYY ?", 
+  "Which SPP is important student of YYY ?"
+ ], 
+ "P371": [
+  "Which SPP has YYY as its host ?", 
+  "Which SPP has host named YYY ?", 
+  "Which SPP has YYY as host ?"
+ ], 
+ "P149": [
+  "Which SPP has YYY as architectural style ?", 
+  "Which SPP has style named YYY ?", 
+  "Which SPP has YYY as style ?"
+ ], 
+ "P180": [
+  "Which SPP depicts YYY ?", 
+  "Which SPP is depicting YYY ?", 
+  "Which SPP has depicted YYY ?"
+ ], 
+ "P1445": [
+  "Which SPP represents a fictional universe description in YYY ?", 
+  "Which SPP portraits a fictional universe in YYY ?", 
+  "Which SPP gives us an image of a fictional universe in YYY ?"
+ ], 
+ "P769": [
+  "Which SPP has significant drug interaction with YYY ?", 
+  "Which SPP has interaction with YYY ?", 
+  "Which SPP has reaction with YYY ?"
+ ], 
+ "P768": [
+  "Which SPP respresents YYY electorally ?", 
+  "Which SPP represents YYY ?", 
+  "Which SPP is representing YYY ?"
+ ], 
+ "P2293": [
+  "Which SPP has genetic association with YYY ?", 
+  "Which SPP is associated with YYY ?", 
+  "Which SPP is linked with YYY ?"
+ ], 
+ "P765": [
+  "Which SPP is played on YYY ?", 
+  "Which SPP is performed on YYY ?", 
+  "Which SPP is working on YYY ?"
+ ], 
+ "P767": [
+  "Which SPP has YYY as its contributor ?", 
+  "Which SPP has contributor named YYY ?", 
+  "Which SPP has a contributor called YYY ?"
+ ], 
+ "P277": [
+  "Which SPP is developed in YYY ?", 
+  "Which SPP was created by YYY ?", 
+  "Which SPP is made for YYY ?"
+ ], 
+ "P276": [
+  "Which SPP is located at YYY ?", 
+  "Which SPP is found at YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P275": [
+  "Which SPP is released under YYY ?", 
+  "Which SPP is issued under YYY ?", 
+  "Which SPP is launched under YYY ?"
+ ], 
+ "P272": [
+  "Which SPP was produced by YYY ?", 
+  "Which SPP was created by YYY ?", 
+  "Which SPP was made by YYY ?"
+ ], 
+ "P3216": [
+  "Which SPP has YYY as ClassInd rating ?", 
+  "Which SPP incorporates the YYY ClassInd rating ?", 
+  "Which SPP holds the ClassInd rating of YYY ?"
+ ], 
+ "P170": [
+  "Which SPP was created by YYY ?", 
+  "Which SPP is an artistic achievement by YYY ?", 
+  "Which SPP is a work of art by YYY ?"
+ ], 
+ "P171": [
+  "Which SPP has its parent taxon as YYY ?", 
+  "Which SPP has a parent taxon of YYY ?", 
+  "Which SPP has , as its parent taxon , YYY ?"
+ ], 
+ "P172": [
+  "Which SPP has YYY as ethnic group ?", 
+  "Which SPP has ethnic group named YYY ?", 
+  "Which SPP has YYY as group ?"
+ ], 
+ "P1441": [
+  "Which SPP is present in YYY ?", 
+  "Which SPP is found in YYY ?", 
+  "Which SPP is contained in YYY ?"
+ ], 
+ "P175": [
+  "Which SPP was performed by YYY ?", 
+  "Which SPP was done by YYY ?", 
+  "Which SPP was enacted by YYY ?"
+ ], 
+ "P176": [
+  "Which SPP was manufactured by YYY ?", 
+  "Which SPP was made by YYY ?", 
+  "Which SPP was created by YYY ?"
+ ], 
+ "P177": [
+  "Which SPP crosses YYY ?", 
+  "Which SPP crosses through YYY ?", 
+  "Which SPP crosses across YYY ?"
+ ], 
+ "P1455": [
+  "Which SPP has his list of works mentioned in YYY ?", 
+  "Which SPP is mentioned in YYY ?", 
+  "Which SPP is identified in YYY ?"
+ ], 
+ "P291": [
+  "Which SPP was published in YYY ?", 
+  "Which SPP was printed in YYY ?", 
+  "Which SPP has been published in YYY ?"
+ ], 
+ "P38": [
+  "Which SPP has YYY as its currency ?", 
+  "Which SPP has YYY as currency ?", 
+  "Which SPP is using YYY as currency ?"
+ ], 
+ "P39": [
+  "Which SPP held the position of YYY ?", 
+  "Which SPP held YYY ?", 
+  "Which SPP contained YYY ?"
+ ], 
+ "P974": [
+  "Which SPP has YYY as its tributary ?", 
+  "Which SPP has YYY as stream ?", 
+  "Which SPP has YYY as river ?"
+ ], 
+ "P1431": [
+  "Which SPP has YYY as its executive producer ?", 
+  "Which SPP has producer of YYY ?", 
+  "Which SPP has YYY as producer ?"
+ ], 
+ "P1433": [
+  "Which SPP was published in YYY ?", 
+  "Which SPP was shown in YYY ?", 
+  "Which SPP was written in YYY ?"
+ ], 
+ "P30": [
+  "Which SPP is located in YYY ?", 
+  "Which SPP is found at YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P674": [
+  "Which SPP starts YYY ?", 
+  "Which SPP begins YYY ?", 
+  "Which SPP gives start to YYY ?"
+ ], 
+ "P36": [
+  "Which SPP has YYY as its capital ?", 
+  "Which SPP has capital named YYY ?", 
+  "Which SPP has YYY as capital ?"
+ ], 
+ "P3113": [
+  "Which SPP does not have YYY ?", 
+  "Which SPP is not having YYY ?", 
+  "Which SPP is lacking YYY ?"
+ ], 
+ "P178": [
+  "Which SPP was developed by YYY ?", 
+  "Which SPP was developed by YYY ?", 
+  "Which SPP was created by YYY ?"
+ ], 
+ "P400": [
+  "Which SPP was developed for YYY ?", 
+  "Which SPP was made for YYY ?", 
+  "Which SPP was created for YYY ?"
+ ], 
+ "P1454": [
+  "Which SPP has YYY as its legal form ?", 
+  "Which SPP has legal form of YYY ?", 
+  "Which SPP has a legal condition named YYY ?"
+ ], 
+ "P403": [
+  "Which SPP has YYY as its drain ?", 
+  "Which SPP has , as its drain , YYY ?", 
+  "Which SPP has YYY operating as its drain ?"
+ ], 
+ "P1040": [
+  "Which SPP was edited by YYY ?", 
+  "Which SPP was made by YYY ?", 
+  "Which SPP was created by YYY ?"
+ ], 
+ "P407": [
+  "Which SPP uses YYY as language ?", 
+  "Which SPP has language of YYY ?", 
+  "Which SPP has YYY as language ?"
+ ], 
+ "P361": [
+  "Which SPP is a part of YYY ?", 
+  "Which SPP is a component of YYY ?", 
+  "Which SPP is a portion of YYY ?"
+ ], 
+ "P658": [
+  "Which SPP contains YYY in its tracklist ?", 
+  "Which SPP contains YYY in list ?", 
+  "Which SPP has list with YYY ?"
+ ], 
+ "P364": [
+  "Which SPP has YYY as its original language ?", 
+  "Which SPP has mother tongue named YYY ?", 
+  "Which SPP has YYY as mother tongue ?"
+ ], 
+ "P366": [
+  "Which SPP has its general use as YYY ?", 
+  "Which SPP has YYY as its general use ?", 
+  "Which SPP has , as its general use , YYY ?"
+ ], 
+ "P2439": [
+  "Which SPP has YYY as the language associated with it ?", 
+  "Which SPP has as its associated language YYY ?", 
+  "Which SPP is associated with the language YYY ?"
+ ], 
+ "P3173": [
+  "Which SPP offers view of YYY ?", 
+  "Which SPP can view YYY ?", 
+  "Which SPP can be utilized for viewing YYY ?"
+ ], 
+ "P870": [
+  "Which SPP employs YYY as musical instrument ?", 
+  "Which SPP has YYY as instrument ?", 
+  "Which SPP is using YYY as instrument ?"
+ ], 
+ "P710": [
+  "Which SPP was YYY a participant of ?", 
+  "Which SPP has participant named YYY ?", 
+  "Which SPP got participation from YYY ?"
+ ], 
+ "P566": [
+  "Which SPP has its basionym as YYY ?", 
+  "Which SPP had YYY as its original name ?", 
+  "Which SPP was originally named YYY ?"
+ ], 
+ "P1344": [
+  "Which SPP was a participant of YYY ?", 
+  "Which SPP participated in YYY ?", 
+  "Which SPP took part in YYY ?"
+ ], 
+ "P560": [
+  "Which SPP has YYY as directional identifier ?", 
+  "Which SPP has directional identifier of YYY ?", 
+  "Which SPP has identifier of direction as YYY ?"
+ ], 
+ "P488": [
+  "Which SPP has YYY as its chairperson ?", 
+  "Which SPP has chairperson named YYY ?", 
+  "Which SPP has YYY as chairperson ?"
+ ], 
+ "P3320": [
+  "Which SPP has YYY as board member ?", 
+  "Which SPP has member named YYY ?", 
+  "Which SPP has YYY as member ?"
+ ], 
+ "P1533": [
+  "Which SPP is identical to YYY ?", 
+  "Which SPP is similar to YYY ?", 
+  "Which SPP is resembling YYY ?"
+ ], 
+ "P241": [
+  "Which SPP has YYY as its service branch ?", 
+  "Which SPP has YYY as branch ?", 
+  "Which SPP is using YYY as a branch ?"
+ ], 
+ "P119": [
+  "Which SPP has YYY as place of burial ?", 
+  "Which SPP has a YYY place of burial ?", 
+  "Which SPP has its place of burial as YYY ?"
+ ], 
+ "P163": [
+  "Which SPP has its flag named YYY ?", 
+  "Which SPP has YYY flag ?", 
+  "Which SPP named its flag YYY ?"
+ ], 
+ "P162": [
+  "Which SPP has been produced by YYY ?", 
+  "Which SPP was created by YYY ?", 
+  "Which SPP was made by YYY ?"
+ ], 
+ "P248": [
+  "Which SPP has been stated in YYY ?", 
+  "Which SPP is mentioned in YYY ?", 
+  "Which SPP is found in YYY ?"
+ ], 
+ "P166": [
+  "Which SPP received the award titled YYY ?", 
+  "Which SPP was awarded YYY ?", 
+  "Which SPP got award of YYY ?"
+ ], 
+ "P37": [
+  "Which SPP has its official language as YYY ?", 
+  "Which SPP uses the official language YYY ?", 
+  "Which SPP has the official language YYY ?"
+ ], 
+ "P286": [
+  "Which SPP has YYY as its head coach ?", 
+  "Which SPP has coach named YYY ?", 
+  "Which SPP has YYY as coach ?"
+ ], 
+ "P69": [
+  "Which SPP was educated at YYY ?", 
+  "Which SPP went to school at YYY ?", 
+  "Which SPP is an alumnus of YYY ?"
+ ], 
+ "P512": [
+  "Which SPP is the recepient of YYY as academic degree ?", 
+  "Which SPP has degree named YYY ?", 
+  "Which SPP has YYY as degree ?"
+ ], 
+ "P559": [
+  "Which SPP has YYY as terminus ?", 
+  "Which SPP has terminus as YYY ?", 
+  "Which SPP contains terminus as YYY ?"
+ ], 
+ "P1427": [
+  "Which SPP has start point at YYY ?", 
+  "Which SPP has YYY as start point ?", 
+  "Which SPP contains YYY as start point ?"
+ ], 
+ "P47": [
+  "Which SPP shares border with YYY ?", 
+  "Which SPP has similar border of YYY ?", 
+  "Which SPP has same borders like YYY ?"
+ ], 
+ "P1853": [
+  "Which SPP has YYY as blood group ?", 
+  "Which SPP has as its blood group YYY ?", 
+  "Which SPP is associated with YYY as its blood group ?"
+ ], 
+ "P35": [
+  "Which SPP has YYY as its head of state ?", 
+  "Which SPP is led by YYY as chief of state ?", 
+  "Which SPP has YYY as its leader ?"
+ ], 
+ "P2348": [
+  "Which SPP occurred in the era of YYY ?", 
+  "Which SPP occurred in YYY ?", 
+  "Which SPP took place in YYY ?"
+ ], 
+ "P40": [
+  "Which SPP has YYY as a child ?", 
+  "Which SPP has child named YYY ?", 
+  "Which SPP has YYY as child ?"
+ ], 
+ "P413": [
+  "Which SPP played the position of YYY ?", 
+  "Which SPP played YYY ?", 
+  "Which SPP performed YYY ?"
+ ], 
+ "P412": [
+  "Which SPP has voice type as YYY ?", 
+  "Which SPP has YYY as voice type ?", 
+  "Which SPP contains YYY as voice type ?"
+ ], 
+ "P1444": [
+  "Which SPP has YYY as its destination point ?", 
+  "Which SPP has YYY as destination ?", 
+  "Which SPP has destination named YYY ?"
+ ], 
+ "P410": [
+  "Which SPP holds YYY ?", 
+  "Which SPP individual holds YYY ?", 
+  "Which SPP achieved YYY ?"
+ ], 
+ "P417": [
+  "Which SPP has adopted YYY as patron saint ?", 
+  "Which SPP chose YYY as its patron saint ?", 
+  "Which SPP has a patron saint in YYY ?"
+ ], 
+ "P479": [
+  "Which SPP used YYY as input device ?", 
+  "Which SPP has a YYY input device ?", 
+  "Which SPP needs a YYY to use as a input device ?"
+ ], 
+ "P414": [
+  "Which SPP is traded at YYY ?", 
+  "Which SPP is trading at YYY ?", 
+  "Which SPP has been traded at YYY ?"
+ ], 
+ "P1462": [
+  "Which SPP is standardised by YYY ?", 
+  "Which SPP is given standard by YYY ?", 
+  "Which SPP is checked by YYY ?"
+ ], 
+ "P826": [
+  "Which SPP has musical key as YYY ?", 
+  "Which SPP has YYY as key ?", 
+  "Which SPP is using YYY as key ?"
+ ], 
+ "P1750": [
+  "Which SPP has YYY as name day ?", 
+  "Which SPP has name day of YYY ?", 
+  "Which SPP is using YYY as name day ?"
+ ], 
+ "P825": [
+  "Which SPP is dedicated to YYY ?", 
+  "Which SPP is given to YYY ?", 
+  "Which SPP is made for YYY ?"
+ ], 
+ "P157": [
+  "Which SPP was killed by YYY ?", 
+  "Which SPP was murdered by YYY ?", 
+  "Which SPP was assassinated YYY ?"
+ ], 
+ "P708": [
+  "Which SPP has YYY as its diocese ?", 
+  "Which SPP has YYY as its admin ?", 
+  "Which SPP has admin called YYY ?"
+ ], 
+ "P702": [
+  "Which SPP is encoded by YYY ?", 
+  "Which SPP is protected through YYY ?", 
+  "Which SPP was given code through YYY ?"
+ ], 
+ "P703": [
+  "Which SPP is found in YYY ?", 
+  "Which SPP is located in YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P655": [
+  "Which SPP has YYY as its translator ?", 
+  "Which SPP has translator named YYY ?", 
+  "Which SPP has translator called YYY ?"
+ ], 
+ "P2643": [
+  "Which SPP is described by Carnegie Classification of Institutes of Higher Education as YYY ?", 
+  "Which SPP is classified as YYY ?", 
+  "Which SPP is identified as YYY ?"
+ ], 
+ "P551": [
+  "Which SPP has residence at YYY ?", 
+  "Which SPP is living at YYY ?", 
+  "Which SPP is residing at YYY ?"
+ ], 
+ "P556": [
+  "Which SPP belongs to YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P629": [
+  "Which SPP is a edition/translation of YYY ?", 
+  "Which SPP is a version of YYY ?", 
+  "Which SPP is an edition of YYY ?"
+ ], 
+ "P159": [
+  "Which SPP has headquarters located at YYY ?", 
+  "Which SPP has headquarters in YYY ?", 
+  "Which SPP has YYY as location of headquarters ?"
+ ], 
+ "P3137": [
+  "Which SPP has YYY as its parent peak ?", 
+  "Which SPP has YYY as peak ?", 
+  "Which SPP has YYY as a parent peak ?"
+ ], 
+ "P664": [
+  "Which SPP was organized by YYY ?", 
+  "Which SPP was managed by YYY ?", 
+  "Which SPP has organizer named YYY ?"
+ ], 
+ "P1382": [
+  "Which SPP overlaps with YYY ?", 
+  "Which SPP is overlapping on YYY ?", 
+  "Which SPP has overlapped with YYY ?"
+ ], 
+ "P398": [
+  "Which SPP has YYY as its satellite ?", 
+  "Which SPP has YYY as satellite ?", 
+  "Which SPP possesses YYY as satellite ?"
+ ], 
+ "P85": [
+  "Which SPP has YYY as its anthem ?", 
+  "Which SPP uses YYY as its anthem ?", 
+  "Which SPP plays YYY as its national anthem ?"
+ ], 
+ "P495": [
+  "Which SPP was originated in YYY ?", 
+  "Which SPP has YYY as its origination point ?", 
+  "Which SPP originally came from YYY ?"
+ ], 
+ "P706": [
+  "Which SPP is located in YYY ?", 
+  "Which SPP is found at YYY ?", 
+  "Which SPP is present at YYY ?"
+ ], 
+ "P790": [
+  "Which SPP is approved by YYY ?", 
+  "Which SPP is given approval through YYY ?", 
+  "Which SPP has been approved through YYY ?"
+ ], 
+ "P408": [
+  "Which SPP has YYY as its software engine ?", 
+  "Which SPP has engine of YYY ?", 
+  "Which SPP possesses YYY as engine ?"
+ ], 
+ "P1027": [
+  "Which SPP is conferred by YYY ?", 
+  "Which SPP is granted by YYY ?", 
+  "Which SPP is presented by YYY ?"
+ ], 
+ "P58": [
+  "Which SPP has YYY as screenwriter ?", 
+  "Which SPP has YYY working as writer ?", 
+  "Which SPP has YYY as writer ?"
+ ], 
+ "P194": [
+  "Which SPP has YYY as its legislative body ?", 
+  "Which SPP has lagislative body of YYY ?", 
+  "Which SPP has legal body named YYY ?"
+ ], 
+ "P287": [
+  "Which SPP was designed by YYY ?", 
+  "Which SPP was created by YYY ?", 
+  "Which SPP was made by YYY ?"
+ ], 
+ "P54": [
+  "Which SPP is a member of YYY ?", 
+  "Which SPP is working as member of YYY ?", 
+  "Which SPP is participating in YYY ?"
+ ], 
+ "P196": [
+  "Which SPP has YYY as its minor planet group ?", 
+  "Which SPP has YYY in group ?", 
+  "Which SPP has group member named YYY ?"
+ ], 
+ "P57": [
+  "Which SPP has YYY as its director ?", 
+  "Which SPP has director named YYY ?", 
+  "Which SPP has a director YYY ?"
+ ], 
+ "P50": [
+  "Which SPP is written by YYY ?", 
+  "Which SPP was created by YYY ?", 
+  "Which SPP was authored by YYY ?"
+ ], 
+ "P1029": [
+  "Which SPP has YYY as crew member ?", 
+  "Which SPP has crew of YYY ?", 
+  "Which SPP is using YYY as crew ?"
+ ], 
+ "P3092": [
+  "Which SPP has YYY as a film crew member ?", 
+  "Which SPP has YYY as member ?", 
+  "Which SPP has a member named YYY ?"
+ ], 
+ "P53": [
+  "Which SPP belonged to YYY ?", 
+  "Which SPP is linked with YYY ?", 
+  "Which SPP is connected with YYY ?"
+ ], 
+ "P3093": [
+  "Which SPP was recovered by YYY ?", 
+  "Which SPP was obtained by YYY ?", 
+  "Which SPP was got recovery through YYY ?"
+ ], 
+ "P737": [
+  "Which SPP was influenced by YYY ?", 
+  "Which SPP got influence through YYY ?", 
+  "Which SPP had an impact through YYY ?"
+ ], 
+ "P3091": [
+  "Which SPP uses YYY as steed ?", 
+  "Which SPP has steed of YYY ?", 
+  "Which SPP is using YYY as a steed ?"
+ ], 
+ "P735": [
+  "Which SPP has YYY as given name ?", 
+  "Which SPP has name of YYY ?", 
+  "Which SPP has given name of YYY ?"
+ ], 
+ "P541": [
+  "Which SPP was contested for the office of YYY ?", 
+  "Which SPP was tested for YYY ?", 
+  "Which SPP was inspected for YYY ?"
+ ], 
+ "P2522": [
+  "Which SPP was victorious in YYY ?", 
+  "Which SPP got victory in YYY ?", 
+  "Which SPP got success in YYY ?"
+ ], 
+ "P2416": [
+  "Which SPP competed in YYY ?", 
+  "Which SPP was accomplished in YYY ?", 
+  "Which SPP was done in YYY ?"
+ ], 
+ "P2417": [
+  "Which SPP was won by YYY ?", 
+  "Which SPP was taken over by YYY ?", 
+  "Which SPP was defeated by YYY ?"
+ ], 
+ "P2061": [
+  "Which SPP has aspect ratio of YYY ?", 
+  "Which SPP has ratio of YYY ?", 
+  "Which SPP has YYY as ratio ?"
+ ], 
+ "P59": [
+  "Which SPP is a part of YYY ?", 
+  "Which SPP is a component of YYY ?", 
+  "Which SPP is a portion of YYY ?"
+ ], 
+ "P937": [
+  "Which SPP has YYY as work location ?", 
+  "Which SPP has work location of YYY ?", 
+  "Which SPP has YYY as location for work ?"
+ ], 
+ "P930": [
+  "Which SPP has electrification type as YYY ?", 
+  "Which SPP has electrification type of YYY ?", 
+  "Which SPP has YYY as the electrification type ?"
+ ], 
+ "P931": [
+  "Which SPP serves the place named YYY ?", 
+  "Which SPP is serving YYY ?", 
+  "Which SPP is showing YYY ?"
+ ], 
+ "P421": [
+  "Which SPP has YYY as time zone ?", 
+  "Which SPP has time zone of YYY ?", 
+  "Which SPP contains time zone of YYY ?"
+ ], 
+ "P636": [
+  "Which SPP has YYY as administration route ?", 
+  "Which SPP uses YYY as its administrative route ?", 
+  "Which SPP has YYY as its administration route ?"
+ ], 
+ "P397": [
+  "Which SPP has YYY as parent astronomical body ?", 
+  "Which SPP has YYY as parent ?", 
+  "Which SPP has parent named YYY ?"
+ ], 
+ "P144": [
+  "Which SPP is based on YYY ?", 
+  "Which SPP was adapted from YYY ?", 
+  "Which SPP was based on a work from YYY ?"
+ ], 
+ "P3094": [
+  "Which SPP develops from YYY ?", 
+  "Which SPP is made through YYY ?", 
+  "Which SPP is created by using YYY ?"
+ ], 
+ "P193": [
+  "Which SPP was the main contractor for YYY ?", 
+  "Which SPP built YYY ?", 
+  "Which SPP constructed YYY ?"
+ ], 
+ "P3264": [
+  "Which SPP has YYY as its radix ?", 
+  "Which SPP has a radix that is YYY ?", 
+  "Which SPP has a YYY radix ?"
+ ], 
+ "P915": [
+  "Which SPP was filmed at YYY ?", 
+  "Which SPP was shot at YYY ?", 
+  "Which SPP was recorded at YYY ?"
+ ], 
+ "P1200": [
+  "Which SPP has YYY as category of water basin ?", 
+  "Which SPP has YYY as water basin ?", 
+  "Which SPP has water basin named YYY ?"
+ ], 
+ "P1192": [
+  "Which SPP has YYY as connecting service ?", 
+  "Which SPP has service of YYY ?", 
+  "Which SPP is using YYY as service ?"
+ ], 
+ "P425": [
+  "Which SPP does YYY belong to ?", 
+  "Which SPP belongs to YYY ?", 
+  "Which SPP is belonging to YYY ?"
+ ], 
+ "P61": [
+  "Which SPP was invented by YYY ?", 
+  "Which SPP had YYY as its inventor ?", 
+  "Which SPP wouldnt be here without YYY ?"
+ ], 
+ "P427": [
+  "Which SPP has YYY as taxonomic type ?", 
+  "Which SPP possesses YYY as taxonomic type ?", 
+  "Which SPP taxonomic type 's are YYY ?"
+ ], 
+ "P140": [
+  "Which SPP has YYY as religious affiliation ?", 
+  "Which SPP is affiliated with YYY ?", 
+  "Which SPP is religiously connected with YYY ?"
+ ], 
+ "P189": [
+  "Which SPP was discovered at YYY ?", 
+  "Which SPP was found at YYY ?", 
+  "Which SPP was unearthed from YYY ?"
+ ], 
+ "P780": [
+  "Which SPP has YYY as one of its symptoms ?", 
+  "Which SPP has a symptom named YYY ?", 
+  "Which SPP has YYY as symptom ?"
+ ], 
+ "P2695": [
+  "Which SPP is found in YYY ?", 
+  "Which SPP is located in YYY ?", 
+  "Which SPP is present in YYY ?"
+ ], 
+ "P197": [
+  "Which SPP is adjacent to the YYY ?", 
+  "Which SPP is adjacent to YYY ?", 
+  "Which SPP is found adjacent to YYY ?"
+ ], 
+ "P3306": [
+  "Which SPP has been rated YYY by ICAA ?", 
+  "Which SPP was rated as YYY ?", 
+  "Which SPP was given YYY as rating ?"
+ ], 
+ "P1303": [
+  "Which SPP plays YYY ?", 
+  "Which SPP performs YYY ?", 
+  "Which SPP is playing YYY ?"
+ ], 
+ "P3301": [
+  "Which SPP is broadcasted by YYY ?", 
+  "Which SPP was broadcasted by YYY ?", 
+  "Which SPP is broadcasted by YYY ?"
+ ], 
+ "P3300": [
+  "Which SPP is directed by YYY ?", 
+  "Which SPP got direction from YYY ?", 
+  "Which SPP had been directed by YYY ?"
+ ], 
+ "P3259": [
+  "Which SPP has intangible cultural heritge as YYY ?", 
+  "Which SPP has heritage of YYY ?", 
+  "Which SPP has YYY as heritage ?"
+ ], 
+ "P1050": [
+  "Which SPP is affected by YYY ?", 
+  "Which SPP is affected due to YYY ?", 
+  "Which SPP is affected by YYY ?"
+ ], 
+ "P2321": [
+  "Which SPP has YYY included in its general classification ?", 
+  "Which SPP is classified through YYY ?", 
+  "Which SPP is identified through YYY ?"
+ ], 
+ "P1686": [
+  "Which SPP was awarded YYY for their work ?", 
+  "Which SPP was awarded YYY ?", 
+  "Which SPP was given YYY as award ?"
+ ], 
+ "P1057": [
+  "Which SPP has YYY as its chromosome location ?", 
+  "Which SPP has YYY as location ?", 
+  "Which SPP has location named YYY ?"
+ ], 
+ "P1056": [
+  "Which SPP manufactures YYY ?", 
+  "Which SPP creates YYY ?", 
+  "Which SPP makes YYY ?"
+ ], 
+ "P941": [
+  "Which SPP has YYY as source of inspiration ?", 
+  "Which SPP is inspired by YYY ?", 
+  "Which SPP got inspiration from YYY ?"
+ ], 
+ "P448": [
+  "Which SPP was launched at YYY ?", 
+  "Which SPP was made through YYY ?", 
+  "Which SPP was started through YYY ?"
+ ], 
+ "P789": [
+  "Which SPP has its edibility defined by YYY ?", 
+  "Which SPP is defined by YYY ?", 
+  "Which SPP is described by YYY ?"
+ ], 
+ "P1435": [
+  "Which SPP has heritage status as YYY ?", 
+  "Which SPP has status of YYY ?", 
+  "Which SPP has YYY as status ?"
+ ], 
+ "P118": [
+  "Which SPP plays in YYY ?", 
+  "Which SPP performs in YYY ?", 
+  "Which SPP took part in YYY ?"
+ ], 
+ "P1196": [
+  "Which SPP has YYY as death circumstances ?", 
+  "Which SPP died because of YYY  ?", 
+  "Which SPP died due to YYY ?"
+ ], 
+ "P449": [
+  "Which SPP was originally telecasted by YYY ?", 
+  "Which SPP was shown by YYY ?", 
+  "Which SPP was displayed through YYY ?"
+ ]
+}

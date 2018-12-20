@@ -1,0 +1,35 @@
+<html>
+<head>
+<style type="text/css">
+div {
+width:800px;
+}
+</style>
+</head>
+<body style='margin-top:50px;margin-left:150px;margin-right:50px;'>
+</br>
+<h1>Wikidata dialogues</h1>
+<div style="width:800px">
+{% for utterance in dialogues %}
+    {% if utterance['speaker'] == "USER" %}
+	    <div><b>USER: </b>{{utterance['utterance']}}
+    {% endif %}
+    {% if utterance['speaker'] == "SYSTEM" %}
+	    <div><b>SYSTEM: </b>{{utterance['utterance']}}
+    {% endif %}
+    </div>
+<!--    {% for field in utterance %}
+        {% if field != 'utterance' and field != 'ent_triples' and field != 'speaker' and field != 'active_set'%}
+            <div><b> {{field}} </b> : {{utterance[field]}}
+        {% endif %}
+    {% endfor %}
+-->
+    <div style="line-height:50%;">
+  	</br>
+	</br>
+    </div>
+{% endfor %}
+</div>
+</body>
+</html>
+    	

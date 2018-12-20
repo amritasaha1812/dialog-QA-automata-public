@@ -1,0 +1,2228 @@
+{
+ "P530": [
+  "Which OPP has XXX diplomatic relation with ?", 
+  "Which OPP has XXX diplomatic relation with ?", 
+  "Which OPP has XXX diplomatic relation with ?", 
+  "Which OPP has XXX diplomatic relation with ?", 
+  "Which OPP has XXX diplomatic relation with ?"
+ ], 
+ "P688": [
+  "Which OPP is encoded by XXX ?", 
+  "Which OPP is encoded by XXX ?", 
+  "Which OPP is encoded by XXX ?", 
+  "Which OPP is encoded by XXX ?", 
+  "Which OPP is encoded by XXX ?"
+ ], 
+ "P2079": [
+  "Which OPP is used for fabrication of XXX ?", 
+  "Which OPP is used for fabrication of XXX ?", 
+  "Which OPP is used for fabrication of XXX ?", 
+  "Which OPP is used for fabrication of XXX ?", 
+  "Which OPP is used for fabrication of XXX ?"
+ ], 
+ "P725": [
+  "Which OPP had the role of the voice actor in XXX ?", 
+  "Which OPP had the role of the voice actor in XXX ?", 
+  "Which OPP had the role of the voice actor in XXX ?", 
+  "Which OPP had the role of the voice actor in XXX ?", 
+  "Which OPP had the role of the voice actor in XXX ?"
+ ], 
+ "P2176": [
+  "Which OPP is used for treating XXX ?", 
+  "Which OPP is used for treating XXX ?", 
+  "Which OPP is used for treating XXX ?", 
+  "Which OPP is used for treating XXX ?", 
+  "Which OPP is used for treating XXX ?"
+ ], 
+ "P2175": [
+  "Which OPP is cured by XXX ?", 
+  "Which OPP is cured by XXX ?", 
+  "Which OPP is cured by XXX ?", 
+  "Which OPP is cured by XXX ?", 
+  "Which OPP is cured by XXX ?"
+ ], 
+ "P726": [
+  "Which OPP was the candidate of XXX ?", 
+  "Which OPP was the candidate of XXX ?", 
+  "Which OPP was the candidate of XXX ?", 
+  "Which OPP was the candidate of XXX ?", 
+  "Which OPP was the candidate of XXX ?"
+ ], 
+ "P682": [
+  "Which OPP is XXX involved in ?", 
+  "Which OPP is XXX involved in ?", 
+  "Which OPP is XXX involved in ?", 
+  "Which OPP is XXX involved in ?", 
+  "Which OPP is XXX involved in ?"
+ ], 
+ "P3085": [
+  "Which OPP was XXX the qualifying event for ?", 
+  "Which OPP was XXX the qualifying event for ?", 
+  "Which OPP was XXX the qualifying event for ?", 
+  "Which OPP was XXX the qualifying event for ?", 
+  "Which OPP was XXX the qualifying event for ?"
+ ], 
+ "P680": [
+  "Which OPP represents molecular function of XXX ?", 
+  "Which OPP represents molecular function of XXX ?", 
+  "Which OPP represents molecular function of XXX ?", 
+  "Which OPP represents molecular function of XXX ?", 
+  "Which OPP represents molecular function of XXX ?"
+ ], 
+ "P681": [
+  "Which OPP of cell is XXX present in ?", 
+  "Which OPP of cell is XXX present in ?", 
+  "Which OPP of cell is XXX present in ?", 
+  "Which OPP of cell is XXX present in ?", 
+  "Which OPP of cell is XXX present in ?"
+ ], 
+ "P3081": [
+  "Which OPP was damaged by the XXX ?", 
+  "Which OPP was damaged by the XXX ?", 
+  "Which OPP was damaged by the XXX ?", 
+  "Which OPP was damaged by the XXX ?", 
+  "Which OPP was damaged by the XXX ?"
+ ], 
+ "P437": [
+  "Which OPP was used as the method of distribution of XXX ?", 
+  "Which OPP was used as the method of distribution of XXX ?", 
+  "Which OPP was used as the method of distribution of XXX ?", 
+  "Which OPP was used as the method of distribution of XXX ?", 
+  "Which OPP was used as the method of distribution of XXX ?"
+ ], 
+ "P689": [
+  "Which OPP is afflicted by the XXX ?", 
+  "Which OPP is afflicted by the XXX ?", 
+  "Which OPP is afflicted by the XXX ?", 
+  "Which OPP is afflicted by the XXX ?", 
+  "Which OPP is afflicted by the XXX ?"
+ ], 
+ "P532": [
+  "Which OPP is the port of registry of XXX ?", 
+  "Which OPP is the port of registry of XXX ?", 
+  "Which OPP is the port of registry of XXX ?", 
+  "Which OPP is the port of registry of XXX ?", 
+  "Which OPP is the port of registry of XXX ?"
+ ], 
+ "P607": [
+  "Which OPP did XXX take part in ?", 
+  "Which OPP did XXX take part in ?", 
+  "Which OPP did XXX take part in ?", 
+  "Which OPP did XXX take part in ?", 
+  "Which OPP did XXX take part in ?"
+ ], 
+ "P1340": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P655": [
+  "Which OPP translated XXX ?", 
+  "Which OPP translated XXX ?", 
+  "Which OPP translated XXX ?", 
+  "Which OPP translated XXX ?", 
+  "Which OPP translated XXX ?"
+ ], 
+ "P1434": [
+  "Which OPP describes the fictional universe in XXX ?", 
+  "Which OPP describes the fictional universe in XXX ?", 
+  "Which OPP describes the fictional universe in XXX ?", 
+  "Which OPP describes the fictional universe in XXX ?", 
+  "Which OPP describes the fictional universe in XXX ?"
+ ], 
+ "P608": [
+  "Which OPP was XXX exhibited at ?", 
+  "Which OPP was XXX exhibited at ?", 
+  "Which OPP was XXX exhibited at ?", 
+  "Which OPP was XXX exhibited at ?", 
+  "Which OPP was XXX exhibited at ?"
+ ], 
+ "P609": [
+  "Which OPP is the terminus location of XXX ?", 
+  "Which OPP is the terminus location of XXX ?", 
+  "Which OPP is the terminus location of XXX ?", 
+  "Which OPP is the terminus location of XXX ?", 
+  "Which OPP is the terminus location of XXX ?"
+ ], 
+ "P425": [
+  "Which OPP is the field of the occupation of XXX ?", 
+  "Which OPP is the field of the occupation of XXX ?", 
+  "Which OPP is the field of the occupation of XXX ?", 
+  "Which OPP is the field of the occupation of XXX ?", 
+  "Which OPP is the field of the occupation of XXX ?"
+ ], 
+ "P135": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P136": [
+  "Which OPP is the genre for XXX ?", 
+  "Which OPP is the genre for XXX ?", 
+  "Which OPP is the genre for XXX ?", 
+  "Which OPP is the genre for XXX ?", 
+  "Which OPP is the genre for XXX ?"
+ ], 
+ "P2978": [
+  "Which OPP represents the wheel arrangement of XXX ?", 
+  "Which OPP represents the wheel arrangement of XXX ?", 
+  "Which OPP represents the wheel arrangement of XXX ?", 
+  "Which OPP represents the wheel arrangement of XXX ?", 
+  "Which OPP represents the wheel arrangement of XXX ?"
+ ], 
+ "P1376": [
+  "Which OPP has XXX as capital ?", 
+  "Which OPP has XXX as capital ?", 
+  "Which OPP has XXX as capital ?", 
+  "Which OPP has XXX as capital ?", 
+  "Which OPP has XXX as capital ?"
+ ], 
+ "P2239": [
+  "Which OPP serves as the first aid measure for XXX ?", 
+  "Which OPP serves as the first aid measure for XXX ?", 
+  "Which OPP serves as the first aid measure for XXX ?", 
+  "Which OPP serves as the first aid measure for XXX ?", 
+  "Which OPP serves as the first aid measure for XXX ?"
+ ], 
+ "P237": [
+  "Which OPP served as the coat of arms for XXX ?", 
+  "Which OPP served as the coat of arms for XXX ?", 
+  "Which OPP served as the coat of arms for XXX ?", 
+  "Which OPP served as the coat of arms for XXX ?", 
+  "Which OPP served as the coat of arms for XXX ?"
+ ], 
+ "P1308": [
+  "Which OPP holds an office in XXX ?", 
+  "Which OPP holds an office in XXX ?", 
+  "Which OPP holds an office in XXX ?", 
+  "Which OPP holds an office in XXX ?", 
+  "Which OPP holds an office in XXX ?"
+ ], 
+ "P837": [
+  "Which OPP does XXX occur on ?", 
+  "Which OPP does XXX occur on ?", 
+  "Which OPP does XXX occur on ?", 
+  "Which OPP does XXX occur on ?", 
+  "Which OPP does XXX occur on ?"
+ ], 
+ "P1027": [
+  "Which OPP confers the award named XXX ?", 
+  "Which OPP confers the award named XXX ?", 
+  "Which OPP confers the award named XXX ?", 
+  "Which OPP confers the award named XXX ?", 
+  "Which OPP confers the award named XXX ?"
+ ], 
+ "P2554": [
+  "Which OPP is the production designer of XXX ?", 
+  "Which OPP is the production designer of XXX ?", 
+  "Which OPP is the production designer of XXX ?", 
+  "Which OPP is the production designer of XXX ?", 
+  "Which OPP is the production designer of XXX ?"
+ ], 
+ "P805": [
+  "Which OPP has XXX as subject ?", 
+  "Which OPP has XXX as subject ?", 
+  "Which OPP has XXX as subject ?", 
+  "Which OPP has XXX as subject ?", 
+  "Which OPP has XXX as subject ?"
+ ], 
+ "P1346": [
+  "Which OPP was the winner of XXX ?", 
+  "Which OPP was the winner of XXX ?", 
+  "Which OPP was the winner of XXX ?", 
+  "Which OPP was the winner of XXX ?", 
+  "Which OPP was the winner of XXX ?"
+ ], 
+ "P789": [
+  "Which OPP category does XXX belong to ?", 
+  "Which OPP category does XXX belong to ?", 
+  "Which OPP category does XXX belong to ?", 
+  "Which OPP category does XXX belong to ?", 
+  "Which OPP category does XXX belong to ?"
+ ], 
+ "P520": [
+  "Which OPP is used as weapon by XXX ?", 
+  "Which OPP is used as weapon by XXX ?", 
+  "Which OPP is used as weapon by XXX ?", 
+  "Which OPP is used as weapon by XXX ?", 
+  "Which OPP is used as weapon by XXX ?"
+ ], 
+ "P1389": [
+  "Which OPP is a product certification of XXX ?", 
+  "Which OPP is a product certification of XXX ?", 
+  "Which OPP is a product certification of XXX ?", 
+  "Which OPP is a product certification of XXX ?", 
+  "Which OPP is a product certification of XXX ?"
+ ], 
+ "P289": [
+  "Which OPP represents the vessel classification of XXX ?", 
+  "Which OPP represents the vessel classification of XXX ?", 
+  "Which OPP represents the vessel classification of XXX ?", 
+  "Which OPP represents the vessel classification of XXX ?", 
+  "Which OPP represents the vessel classification of XXX ?"
+ ], 
+ "P1411": [
+  "Which OPP was awarded to XXX ?", 
+  "Which OPP was awarded to XXX ?", 
+  "Which OPP was awarded to XXX ?", 
+  "Which OPP was awarded to XXX ?", 
+  "Which OPP was awarded to XXX ?"
+ ], 
+ "P800": [
+  "Which OPP is notable scientific work of XXX ?", 
+  "Which OPP is notable scientific work of XXX ?", 
+  "Which OPP is notable scientific work of XXX ?", 
+  "Which OPP is notable scientific work of XXX ?", 
+  "Which OPP is notable scientific work of XXX ?"
+ ], 
+ "P1412": [
+  "Which OPP is spoken by XXX ?", 
+  "Which OPP is spoken by XXX ?", 
+  "Which OPP is spoken by XXX ?", 
+  "Which OPP is spoken by XXX ?", 
+  "Which OPP is spoken by XXX ?"
+ ], 
+ "P282": [
+  "Which OPP is the alphabet used in XXX ?", 
+  "Which OPP is the alphabet used in XXX ?", 
+  "Which OPP is the alphabet used in XXX ?", 
+  "Which OPP is the alphabet used in XXX ?", 
+  "Which OPP is the alphabet used in XXX ?"
+ ], 
+ "P169": [
+  "Which OPP is the chief executive officer of XXX ?", 
+  "Which OPP is the chief executive officer of XXX ?", 
+  "Which OPP is the chief executive officer of XXX ?", 
+  "Which OPP is the chief executive officer of XXX ?", 
+  "Which OPP is the chief executive officer of XXX ?"
+ ], 
+ "P1383": [
+  "Which OPP is contained in XXX ?", 
+  "Which OPP is contained in XXX ?", 
+  "Which OPP is contained in XXX ?", 
+  "Which OPP is contained in XXX ?", 
+  "Which OPP is contained in XXX ?"
+ ], 
+ "P1416": [
+  "Which OPP is XXX affiliated to ?", 
+  "Which OPP is XXX affiliated to ?", 
+  "Which OPP is XXX affiliated to ?", 
+  "Which OPP is XXX affiliated to ?", 
+  "Which OPP is XXX affiliated to ?"
+ ], 
+ "P206": [
+  "Which OPP is located next to XXX ?", 
+  "Which OPP is located next to XXX ?", 
+  "Which OPP is located next to XXX ?", 
+  "Which OPP is located next to XXX ?", 
+  "Which OPP is located next to XXX ?"
+ ], 
+ "P1142": [
+  "Which OPP is the political ideology of XXX ?", 
+  "Which OPP is the political ideology of XXX ?", 
+  "Which OPP is the political ideology of XXX ?", 
+  "Which OPP is the political ideology of XXX ?", 
+  "Which OPP is the political ideology of XXX ?"
+ ], 
+ "P991": [
+  "Which OPP was the successful candidate in XXX ?", 
+  "Which OPP was the successful candidate in XXX ?", 
+  "Which OPP was the successful candidate in XXX ?", 
+  "Which OPP was the successful candidate in XXX ?", 
+  "Which OPP was the successful candidate in XXX ?"
+ ], 
+ "P750": [
+  "Which OPP is the distributor of XXX ?", 
+  "Which OPP is the distributor of XXX ?", 
+  "Which OPP is the distributor of XXX ?", 
+  "Which OPP is the distributor of XXX ?", 
+  "Which OPP is the distributor of XXX ?"
+ ], 
+ "P921": [
+  "Which OPP was the main subject of XXX 's work ?", 
+  "Which OPP was the main subject of XXX 's work ?", 
+  "Which OPP was the main subject of XXX 's work ?", 
+  "Which OPP was the main subject of XXX 's work ?", 
+  "Which OPP was the main subject of XXX 's work ?"
+ ], 
+ "P2962": [
+  "Which OPP represents the chess title of XXX ?", 
+  "Which OPP represents the chess title of XXX ?", 
+  "Which OPP represents the chess title of XXX ?", 
+  "Which OPP represents the chess title of XXX ?", 
+  "Which OPP represents the chess title of XXX ?"
+ ], 
+ "P201": [
+  "Which OPP is the outflow of XXX ?", 
+  "Which OPP is the outflow of XXX ?", 
+  "Which OPP is the outflow of XXX ?", 
+  "Which OPP is the outflow of XXX ?", 
+  "Which OPP is the outflow of XXX ?"
+ ], 
+ "P931": [
+  "Which OPP is served by XXX ?", 
+  "Which OPP is served by XXX ?", 
+  "Which OPP is served by XXX ?", 
+  "Which OPP is served by XXX ?", 
+  "Which OPP is served by XXX ?"
+ ], 
+ "P611": [
+  "Which OPP is the religious affiliation of XXX ?", 
+  "Which OPP is the religious affiliation of XXX ?", 
+  "Which OPP is the religious affiliation of XXX ?", 
+  "Which OPP is the religious affiliation of XXX ?", 
+  "Which OPP is the religious affiliation of XXX ?"
+ ], 
+ "P610": [
+  "Which OPP is the highest point of XXX ?", 
+  "Which OPP is the highest point of XXX ?", 
+  "Which OPP is the highest point of XXX ?", 
+  "Which OPP is the highest point of XXX ?", 
+  "Which OPP is the highest point of XXX ?"
+ ], 
+ "P127": [
+  "Which OPP owned XXX ?", 
+  "Which OPP owned XXX ?", 
+  "Which OPP owned XXX ?", 
+  "Which OPP owned XXX ?", 
+  "Which OPP owned XXX ?"
+ ], 
+ "P126": [
+  "Which OPP was responsible for maintaining XXX ?", 
+  "Which OPP was responsible for maintaining XXX ?", 
+  "Which OPP was responsible for maintaining XXX ?", 
+  "Which OPP was responsible for maintaining XXX ?", 
+  "Which OPP was responsible for maintaining XXX ?"
+ ], 
+ "P88": [
+  "Which OPP commissioned XXX ?", 
+  "Which OPP commissioned XXX ?", 
+  "Which OPP commissioned XXX ?", 
+  "Which OPP commissioned XXX ?", 
+  "Which OPP commissioned XXX ?"
+ ], 
+ "P123": [
+  "Which OPP published XXX ?", 
+  "Which OPP published XXX ?", 
+  "Which OPP published XXX ?", 
+  "Which OPP published XXX ?", 
+  "Which OPP published XXX ?"
+ ], 
+ "P122": [
+  "Which OPP had the role of the subject 's government of XXX ?", 
+  "Which OPP had the role of the subject 's government of XXX ?", 
+  "Which OPP had the role of the subject 's government of XXX ?", 
+  "Which OPP had the role of the subject 's government of XXX ?", 
+  "Which OPP had the role of the subject 's government of XXX ?"
+ ], 
+ "P121": [
+  "Which OPP was operated by XXX ?", 
+  "Which OPP was operated by XXX ?", 
+  "Which OPP was operated by XXX ?", 
+  "Which OPP was operated by XXX ?", 
+  "Which OPP was operated by XXX ?"
+ ], 
+ "P1028": [
+  "Which OPP made a donation for XXX ?", 
+  "Which OPP made a donation for XXX ?", 
+  "Which OPP made a donation for XXX ?", 
+  "Which OPP made a donation for XXX ?", 
+  "Which OPP made a donation for XXX ?"
+ ], 
+ "P81": [
+  "Which OPP acted as a connecting line for XXX ?", 
+  "Which OPP acted as a connecting line for XXX ?", 
+  "Which OPP acted as a connecting line for XXX ?", 
+  "Which OPP acted as a connecting line for XXX ?", 
+  "Which OPP acted as a connecting line for XXX ?"
+ ], 
+ "P200": [
+  "Which OPP flows into XXX ?", 
+  "Which OPP flows into XXX ?", 
+  "Which OPP flows into XXX ?", 
+  "Which OPP flows into XXX ?", 
+  "Which OPP flows into XXX ?"
+ ], 
+ "P86": [
+  "Which OPP composed XXX ?", 
+  "Which OPP composed XXX ?", 
+  "Which OPP composed XXX ?", 
+  "Which OPP composed XXX ?", 
+  "Which OPP composed XXX ?"
+ ], 
+ "P3279": [
+  "Which OPP was the statistical leader of XXX ?", 
+  "Which OPP was the statistical leader of XXX ?", 
+  "Which OPP was the statistical leader of XXX ?", 
+  "Which OPP was the statistical leader of XXX ?", 
+  "Which OPP was the statistical leader of XXX ?"
+ ], 
+ "P84": [
+  "Which OPP designed the architecture of XXX ?", 
+  "Which OPP designed the architecture of XXX ?", 
+  "Which OPP designed the architecture of XXX ?", 
+  "Which OPP designed the architecture of XXX ?", 
+  "Which OPP designed the architecture of XXX ?"
+ ], 
+ "P840": [
+  "Which OPP is the narrative location of XXX ?", 
+  "Which OPP is the narrative location of XXX ?", 
+  "Which OPP is the narrative location of XXX ?", 
+  "Which OPP is the narrative location of XXX ?", 
+  "Which OPP is the narrative location of XXX ?"
+ ], 
+ "P841": [
+  "Which OPP is the feast day of XXX ?", 
+  "Which OPP is the feast day of XXX ?", 
+  "Which OPP is the feast day of XXX ?", 
+  "Which OPP is the feast day of XXX ?", 
+  "Which OPP is the feast day of XXX ?"
+ ], 
+ "P1542": [
+  "Which OPP is caused by XXX ?", 
+  "Which OPP is caused by XXX ?", 
+  "Which OPP is caused by XXX ?", 
+  "Which OPP is caused by XXX ?", 
+  "Which OPP is caused by XXX ?"
+ ], 
+ "P880": [
+  "Which OPP is used as CPU in XXX ?", 
+  "Which OPP is used as CPU in XXX ?", 
+  "Which OPP is used as CPU in XXX ?", 
+  "Which OPP is used as CPU in XXX ?", 
+  "Which OPP is used as CPU in XXX ?"
+ ], 
+ "P972": [
+  "Which OPP is the catalog for XXX ?", 
+  "Which OPP is the catalog for XXX ?", 
+  "Which OPP is the catalog for XXX ?", 
+  "Which OPP is the catalog for XXX ?", 
+  "Which OPP is the catalog for XXX ?"
+ ], 
+ "P248": [
+  "Which OPP is XXX stated in ?", 
+  "Which OPP is XXX stated in ?", 
+  "Which OPP is XXX stated in ?", 
+  "Which OPP is XXX stated in ?", 
+  "Which OPP is XXX stated in ?"
+ ], 
+ "P1071": [
+  "Which OPP is the location of final assembly of XXX ?", 
+  "Which OPP is the location of final assembly of XXX ?", 
+  "Which OPP is the location of final assembly of XXX ?", 
+  "Which OPP is the location of final assembly of XXX ?", 
+  "Which OPP is the location of final assembly of XXX ?"
+ ], 
+ "P1408": [
+  "Which OPP did XXX get a license to broadcast to ?", 
+  "Which OPP did XXX get a license to broadcast to ?", 
+  "Which OPP did XXX get a license to broadcast to ?", 
+  "Which OPP did XXX get a license to broadcast to ?", 
+  "Which OPP did XXX get a license to broadcast to ?"
+ ], 
+ "P355": [
+  "Which OPP is a subsidiary of XXX ?", 
+  "Which OPP is a subsidiary of XXX ?", 
+  "Which OPP is a subsidiary of XXX ?", 
+  "Which OPP is a subsidiary of XXX ?", 
+  "Which OPP is a subsidiary of XXX ?"
+ ], 
+ "P518": [
+  "Which OPP does XXX apply to a part of ?", 
+  "Which OPP does XXX apply to a part of ?", 
+  "Which OPP does XXX apply to a part of ?", 
+  "Which OPP does XXX apply to a part of ?", 
+  "Which OPP does XXX apply to a part of ?"
+ ], 
+ "P1399": [
+  "Which OPP was XXX convicted of ?", 
+  "Which OPP was XXX convicted of ?", 
+  "Which OPP was XXX convicted of ?", 
+  "Which OPP was XXX convicted of ?", 
+  "Which OPP was XXX convicted of ?"
+ ], 
+ "P516": [
+  "Which OPP was used to power XXX ?", 
+  "Which OPP was used to power XXX ?", 
+  "Which OPP was used to power XXX ?", 
+  "Which OPP was used to power XXX ?", 
+  "Which OPP was used to power XXX ?"
+ ], 
+ "P1403": [
+  "Which OPP is the original combination of XXX ?", 
+  "Which OPP is the original combination of XXX ?", 
+  "Which OPP is the original combination of XXX ?", 
+  "Which OPP is the original combination of XXX ?", 
+  "Which OPP is the original combination of XXX ?"
+ ], 
+ "P3189": [
+  "Which OPP innervates XXX ?", 
+  "Which OPP innervates XXX ?", 
+  "Which OPP innervates XXX ?", 
+  "Which OPP innervates XXX ?", 
+  "Which OPP innervates XXX ?"
+ ], 
+ "P734": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P1013": [
+  "Which OPP was the criterion used for XXX ?", 
+  "Which OPP was the criterion used for XXX ?", 
+  "Which OPP was the criterion used for XXX ?", 
+  "Which OPP was the criterion used for XXX ?", 
+  "Which OPP was the criterion used for XXX ?"
+ ], 
+ "P485": [
+  "Which OPP holds the archives of XXX ?", 
+  "Which OPP holds the archives of XXX ?", 
+  "Which OPP holds the archives of XXX ?", 
+  "Which OPP holds the archives of XXX ?", 
+  "Which OPP holds the archives of XXX ?"
+ ], 
+ "P669": [
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?"
+ ], 
+ "P552": [
+  "Which OPP represents the handedness of XXX ?", 
+  "Which OPP represents the handedness of XXX ?", 
+  "Which OPP represents the handedness of XXX ?", 
+  "Which OPP represents the handedness of XXX ?", 
+  "Which OPP represents the handedness of XXX ?"
+ ], 
+ "P186": [
+  "Which OPP is used to make XXX ?", 
+  "Which OPP is used to make XXX ?", 
+  "Which OPP is used to make XXX ?", 
+  "Which OPP is used to make XXX ?", 
+  "Which OPP is used to make XXX ?"
+ ], 
+ "P1312": [
+  "Which OPP is the facet polytope of XXX ?", 
+  "Which OPP is the facet polytope of XXX ?", 
+  "Which OPP is the facet polytope of XXX ?", 
+  "Which OPP is the facet polytope of XXX ?", 
+  "Which OPP is the facet polytope of XXX ?"
+ ], 
+ "P129": [
+  "Which OPP does XXX interact with ?", 
+  "Which OPP does XXX interact with ?", 
+  "Which OPP does XXX interact with ?", 
+  "Which OPP does XXX interact with ?", 
+  "Which OPP does XXX interact with ?"
+ ], 
+ "P740": [
+  "Which OPP is the location of formation of XXX ?", 
+  "Which OPP is the location of formation of XXX ?", 
+  "Which OPP is the location of formation of XXX ?", 
+  "Which OPP is the location of formation of XXX ?", 
+  "Which OPP is the location of formation of XXX ?"
+ ], 
+ "P2416": [
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?"
+ ], 
+ "P193": [
+  "Which OPP is the main building contractor of XXX ?", 
+  "Which OPP is the main building contractor of XXX ?", 
+  "Which OPP is the main building contractor of XXX ?", 
+  "Which OPP is the main building contractor of XXX ?", 
+  "Which OPP is the main building contractor of XXX ?"
+ ], 
+ "P190": [
+  "Which OPP is the sister city of XXX ?", 
+  "Which OPP is the sister city of XXX ?", 
+  "Which OPP is the sister city of XXX ?", 
+  "Which OPP is the sister city of XXX ?", 
+  "Which OPP is the sister city of XXX ?"
+ ], 
+ "P196": [
+  "Which OPP is the minor planet group of XXX ?", 
+  "Which OPP is the minor planet group of XXX ?", 
+  "Which OPP is the minor planet group of XXX ?", 
+  "Which OPP is the minor planet group of XXX ?", 
+  "Which OPP is the minor planet group of XXX ?"
+ ], 
+ "P452": [
+  "Which OPP is the industry to which XXX belongs ?", 
+  "Which OPP is the industry to which XXX belongs ?", 
+  "Which OPP is the industry to which XXX belongs ?", 
+  "Which OPP is the industry to which XXX belongs ?", 
+  "Which OPP is the industry to which XXX belongs ?"
+ ], 
+ "P749": [
+  "Which OPP is the parent organization of XXX ?", 
+  "Which OPP is the parent organization of XXX ?", 
+  "Which OPP is the parent organization of XXX ?", 
+  "Which OPP is the parent organization of XXX ?", 
+  "Which OPP is the parent organization of XXX ?"
+ ], 
+ "P195": [
+  "Which OPP contains XXX in its collection ?", 
+  "Which OPP contains XXX in its collection ?", 
+  "Which OPP contains XXX in its collection ?", 
+  "Which OPP contains XXX in its collection ?", 
+  "Which OPP contains XXX in its collection ?"
+ ], 
+ "P98": [
+  "Which OPP is the editor of XXX ?", 
+  "Which OPP is the editor of XXX ?", 
+  "Which OPP is the editor of XXX ?", 
+  "Which OPP is the editor of XXX ?", 
+  "Which OPP is the editor of XXX ?"
+ ], 
+ "P113": [
+  "Which OPP serves as an airline hub for XXX ?", 
+  "Which OPP serves as an airline hub for XXX ?", 
+  "Which OPP serves as an airline hub for XXX ?", 
+  "Which OPP serves as an airline hub for XXX ?", 
+  "Which OPP serves as an airline hub for XXX ?"
+ ], 
+ "P110": [
+  "Which OPP did the illustration of XXX ?", 
+  "Which OPP did the illustration of XXX ?", 
+  "Which OPP did the illustration of XXX ?", 
+  "Which OPP did the illustration of XXX ?", 
+  "Which OPP did the illustration of XXX ?"
+ ], 
+ "P3263": [
+  "Which OPP is the base of XXX ?", 
+  "Which OPP is the base of XXX ?", 
+  "Which OPP is the base of XXX ?", 
+  "Which OPP is the base of XXX ?", 
+  "Which OPP is the base of XXX ?"
+ ], 
+ "P3264": [
+  "Which OPP is the radix of XXX ?", 
+  "Which OPP is the radix of XXX ?", 
+  "Which OPP is the radix of XXX ?", 
+  "Which OPP is the radix of XXX ?", 
+  "Which OPP is the radix of XXX ?"
+ ], 
+ "P3190": [
+  "Which OPP is innervated by XXX ?", 
+  "Which OPP is innervated by XXX ?", 
+  "Which OPP is innervated by XXX ?", 
+  "Which OPP is innervated by XXX ?", 
+  "Which OPP is innervated by XXX ?"
+ ], 
+ "P115": [
+  "Which OPP is the home venue of XXX ?", 
+  "Which OPP is the home venue of XXX ?", 
+  "Which OPP is the home venue of XXX ?", 
+  "Which OPP is the home venue of XXX ?", 
+  "Which OPP is the home venue of XXX ?"
+ ], 
+ "P1884": [
+  "Which OPP is associated with hair of XXX ?", 
+  "Which OPP is associated with hair of XXX ?", 
+  "Which OPP is associated with hair of XXX ?", 
+  "Which OPP is associated with hair of XXX ?", 
+  "Which OPP is associated with hair of XXX ?"
+ ], 
+ "P1885": [
+  "Which OPP is the principal church of the religious district of XXX ?", 
+  "Which OPP is the principal church of the religious district of XXX ?", 
+  "Which OPP is the principal church of the religious district of XXX ?", 
+  "Which OPP is the principal church of the religious district of XXX ?", 
+  "Which OPP is the principal church of the religious district of XXX ?"
+ ], 
+ "P658": [
+  "Which OPP was contained in XXX ?", 
+  "Which OPP was contained in XXX ?", 
+  "Which OPP was contained in XXX ?", 
+  "Which OPP was contained in XXX ?", 
+  "Which OPP was contained in XXX ?"
+ ], 
+ "P97": [
+  "Which OPP was held by XXX ?", 
+  "Which OPP was held by XXX ?", 
+  "Which OPP was held by XXX ?", 
+  "Which OPP was held by XXX ?", 
+  "Which OPP was held by XXX ?"
+ ], 
+ "P16": [
+  "Which OPP serves as the highway system for XXX ?", 
+  "Which OPP serves as the highway system for XXX ?", 
+  "Which OPP serves as the highway system for XXX ?", 
+  "Which OPP serves as the highway system for XXX ?", 
+  "Which OPP serves as the highway system for XXX ?"
+ ], 
+ "P17": [
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?"
+ ], 
+ "P19": [
+  "Which OPP was XXX born in ?", 
+  "Which OPP was XXX born in ?", 
+  "Which OPP was XXX born in ?", 
+  "Which OPP was XXX born in ?", 
+  "Which OPP was XXX born in ?"
+ ], 
+ "P859": [
+  "Which OPP is the sponsor of XXX ?", 
+  "Which OPP is the sponsor of XXX ?", 
+  "Which OPP is the sponsor of XXX ?", 
+  "Which OPP is the sponsor of XXX ?", 
+  "Which OPP is the sponsor of XXX ?"
+ ], 
+ "P1064": [
+  "Which OPP does XXX have ?", 
+  "Which OPP does XXX have ?", 
+  "Which OPP does XXX have ?", 
+  "Which OPP does XXX have ?", 
+  "Which OPP does XXX have ?"
+ ], 
+ "P1066": [
+  "Which OPP was the teacher of XXX ?", 
+  "Which OPP was the teacher of XXX ?", 
+  "Which OPP was the teacher of XXX ?", 
+  "Which OPP was the teacher of XXX ?", 
+  "Which OPP was the teacher of XXX ?"
+ ], 
+ "P509": [
+  "Which OPP was the cause of death of XXX ?", 
+  "Which OPP was the cause of death of XXX ?", 
+  "Which OPP was the cause of death of XXX ?", 
+  "Which OPP was the cause of death of XXX ?", 
+  "Which OPP was the cause of death of XXX ?"
+ ], 
+ "P184": [
+  "Which OPP was the doctoral superviser of XXX ?", 
+  "Which OPP was the doctoral superviser of XXX ?", 
+  "Which OPP was the doctoral superviser of XXX ?", 
+  "Which OPP was the doctoral superviser of XXX ?", 
+  "Which OPP was the doctoral superviser of XXX ?"
+ ], 
+ "P1990": [
+  "Which OPP is one of the species kept in XXX ?", 
+  "Which OPP is one of the species kept in XXX ?", 
+  "Which OPP is one of the species kept in XXX ?", 
+  "Which OPP is one of the species kept in XXX ?", 
+  "Which OPP is one of the species kept in XXX ?"
+ ], 
+ "P3195": [
+  "Which OPP was used as league points system for XXX ?", 
+  "Which OPP was used as league points system for XXX ?", 
+  "Which OPP was used as league points system for XXX ?", 
+  "Which OPP was used as league points system for XXX ?", 
+  "Which OPP was used as league points system for XXX ?"
+ ], 
+ "P1532": [
+  "Which OPP did XXX play for ?", 
+  "Which OPP did XXX play for ?", 
+  "Which OPP did XXX play for ?", 
+  "Which OPP did XXX play for ?", 
+  "Which OPP did XXX play for ?"
+ ], 
+ "P7": [
+  "Which OPP is the brother of XXX ?", 
+  "Which OPP is the brother of XXX ?", 
+  "Which OPP is the brother of XXX ?", 
+  "Which OPP is the brother of XXX ?", 
+  "Which OPP is the brother of XXX ?"
+ ], 
+ "P183": [
+  "Which OPP is XXX endemic to ?", 
+  "Which OPP is XXX endemic to ?", 
+  "Which OPP is XXX endemic to ?", 
+  "Which OPP is XXX endemic to ?", 
+  "Which OPP is XXX endemic to ?"
+ ], 
+ "P344": [
+  "Which OPP directed the photography of XXX ?", 
+  "Which OPP directed the photography of XXX ?", 
+  "Which OPP directed the photography of XXX ?", 
+  "Which OPP directed the photography of XXX ?", 
+  "Which OPP directed the photography of XXX ?"
+ ], 
+ "P9": [
+  "Which OPP is the sister of XXX ?", 
+  "Which OPP is the sister of XXX ?", 
+  "Which OPP is the sister of XXX ?", 
+  "Which OPP is the sister of XXX ?", 
+  "Which OPP is the sister of XXX ?"
+ ], 
+ "P189": [
+  "Which OPP is the location of discovery of XXX ?", 
+  "Which OPP is the location of discovery of XXX ?", 
+  "Which OPP is the location of discovery of XXX ?", 
+  "Which OPP is the location of discovery of XXX ?", 
+  "Which OPP is the location of discovery of XXX ?"
+ ], 
+ "P3150": [
+  "Which OPP was XXX born on ?", 
+  "Which OPP was XXX born on ?", 
+  "Which OPP was XXX born on ?", 
+  "Which OPP was XXX born on ?", 
+  "Which OPP was XXX born on ?"
+ ], 
+ "P504": [
+  "Which OPP serves as the home port of XXX ?", 
+  "Which OPP serves as the home port of XXX ?", 
+  "Which OPP serves as the home port of XXX ?", 
+  "Which OPP serves as the home port of XXX ?", 
+  "Which OPP serves as the home port of XXX ?"
+ ], 
+ "P469": [
+  "Which OPP does XXX flow through ?", 
+  "Which OPP does XXX flow through ?", 
+  "Which OPP does XXX flow through ?", 
+  "Which OPP does XXX flow through ?", 
+  "Which OPP does XXX flow through ?"
+ ], 
+ "P1080": [
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?"
+ ], 
+ "P462": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P463": [
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?"
+ ], 
+ "P3179": [
+  "Which OPP has territory overlap with XXX ?", 
+  "Which OPP has territory overlap with XXX ?", 
+  "Which OPP has territory overlap with XXX ?", 
+  "Which OPP has territory overlap with XXX ?", 
+  "Which OPP has territory overlap with XXX ?"
+ ], 
+ "P2354": [
+  "Which OPP is contained in the list of XXX ?", 
+  "Which OPP is contained in the list of XXX ?", 
+  "Which OPP is contained in the list of XXX ?", 
+  "Which OPP is contained in the list of XXX ?", 
+  "Which OPP is contained in the list of XXX ?"
+ ], 
+ "P466": [
+  "Which OPP is an occupant of XXX ?", 
+  "Which OPP is an occupant of XXX ?", 
+  "Which OPP is an occupant of XXX ?", 
+  "Which OPP is an occupant of XXX ?", 
+  "Which OPP is an occupant of XXX ?"
+ ], 
+ "P467": [
+  "Which OPP was XXX legislated by ?", 
+  "Which OPP was XXX legislated by ?", 
+  "Which OPP was XXX legislated by ?", 
+  "Which OPP was XXX legislated by ?", 
+  "Which OPP was XXX legislated by ?"
+ ], 
+ "P1001": [
+  "Which OPP does the XXX belong to ?", 
+  "Which OPP does the XXX belong to ?", 
+  "Which OPP does the XXX belong to ?", 
+  "Which OPP does the XXX belong to ?", 
+  "Which OPP does the XXX belong to ?"
+ ], 
+ "P674": [
+  "Which OPP appears as a character in XXX ?", 
+  "Which OPP appears as a character in XXX ?", 
+  "Which OPP appears as a character in XXX ?", 
+  "Which OPP appears as a character in XXX ?", 
+  "Which OPP appears as a character in XXX ?"
+ ], 
+ "P748": [
+  "Which OPP is responsible for appointment of XXX ?", 
+  "Which OPP is responsible for appointment of XXX ?", 
+  "Which OPP is responsible for appointment of XXX ?", 
+  "Which OPP is responsible for appointment of XXX ?", 
+  "Which OPP is responsible for appointment of XXX ?"
+ ], 
+ "P1923": [
+  "Which OPP was a participant in XXX ?", 
+  "Which OPP was a participant in XXX ?", 
+  "Which OPP was a participant in XXX ?", 
+  "Which OPP was a participant in XXX ?", 
+  "Which OPP was a participant in XXX ?"
+ ], 
+ "P108": [
+  "Which OPP is XXX employed by ?", 
+  "Which OPP is XXX employed by ?", 
+  "Which OPP is XXX employed by ?", 
+  "Which OPP is XXX employed by ?", 
+  "Which OPP is XXX employed by ?"
+ ], 
+ "P194": [
+  "Which OPP is the legislative body for XXX ?", 
+  "Which OPP is the legislative body for XXX ?", 
+  "Which OPP is the legislative body for XXX ?", 
+  "Which OPP is the legislative body for XXX ?", 
+  "Which OPP is the legislative body for XXX ?"
+ ], 
+ "P2860": [
+  "Which OPP is cited by XXX ?", 
+  "Which OPP is cited by XXX ?", 
+  "Which OPP is cited by XXX ?", 
+  "Which OPP is cited by XXX ?", 
+  "Which OPP is cited by XXX ?"
+ ], 
+ "P105": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P291": [
+  "Which OPP is the place of publication of XXX ?", 
+  "Which OPP is the place of publication of XXX ?", 
+  "Which OPP is the place of publication of XXX ?", 
+  "Which OPP is the place of publication of XXX ?", 
+  "Which OPP is the place of publication of XXX ?"
+ ], 
+ "P106": [
+  "Which OPP is the profession of XXX ?", 
+  "Which OPP is the profession of XXX ?", 
+  "Which OPP is the profession of XXX ?", 
+  "Which OPP is the profession of XXX ?", 
+  "Which OPP is the profession of XXX ?"
+ ], 
+ "P101": [
+  "Which OPP is the field of work of XXX ?", 
+  "Which OPP is the field of work of XXX ?", 
+  "Which OPP is the field of work of XXX ?", 
+  "Which OPP is the field of work of XXX ?", 
+  "Which OPP is the field of work of XXX ?"
+ ], 
+ "P103": [
+  "Which OPP is the native language of XXX ?", 
+  "Which OPP is the native language of XXX ?", 
+  "Which OPP is the native language of XXX ?", 
+  "Which OPP is the native language of XXX ?", 
+  "Which OPP is the native language of XXX ?"
+ ], 
+ "P102": [
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?", 
+  "Which OPP was XXX a member of ?"
+ ], 
+ "P25": [
+  "Which OPP was the mother of XXX ?", 
+  "Which OPP was the mother of XXX ?", 
+  "Which OPP was the mother of XXX ?", 
+  "Which OPP was the mother of XXX ?", 
+  "Which OPP was the mother of XXX ?"
+ ], 
+ "P27": [
+  "Which OPP is the country of citizenship of XXX ?", 
+  "Which OPP is the country of citizenship of XXX ?", 
+  "Which OPP is the country of citizenship of XXX ?", 
+  "Which OPP is the country of citizenship of XXX ?", 
+  "Which OPP is the country of citizenship of XXX ?"
+ ], 
+ "P26": [
+  "Which OPP is the spouse of XXX ?", 
+  "Which OPP is the spouse of XXX ?", 
+  "Which OPP is the spouse of XXX ?", 
+  "Which OPP is the spouse of XXX ?", 
+  "Which OPP is the spouse of XXX ?"
+ ], 
+ "P21": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P20": [
+  "Which OPP is the place of death of XXX ?", 
+  "Which OPP is the place of death of XXX ?", 
+  "Which OPP is the place of death of XXX ?", 
+  "Which OPP is the place of death of XXX ?", 
+  "Which OPP is the place of death of XXX ?"
+ ], 
+ "P22": [
+  "Which OPP was the father of XXX ?", 
+  "Which OPP was the father of XXX ?", 
+  "Which OPP was the father of XXX ?", 
+  "Which OPP was the father of XXX ?", 
+  "Which OPP was the father of XXX ?"
+ ], 
+ "P3103": [
+  "Which OPP represents the tense of XXX ?", 
+  "Which OPP represents the tense of XXX ?", 
+  "Which OPP represents the tense of XXX ?", 
+  "Which OPP represents the tense of XXX ?", 
+  "Which OPP represents the tense of XXX ?"
+ ], 
+ "P647": [
+  "Which OPP drafted XXX ?", 
+  "Which OPP drafted XXX ?", 
+  "Which OPP drafted XXX ?", 
+  "Which OPP drafted XXX ?", 
+  "Which OPP drafted XXX ?"
+ ], 
+ "P1039": [
+  "Which OPP represents the type of kinship associated with XXX ?", 
+  "Which OPP represents the type of kinship associated with XXX ?", 
+  "Which OPP represents the type of kinship associated with XXX ?", 
+  "Which OPP represents the type of kinship associated with XXX ?", 
+  "Which OPP represents the type of kinship associated with XXX ?"
+ ], 
+ "P1038": [
+  "Which OPP is a relative of XXX ?", 
+  "Which OPP is a relative of XXX ?", 
+  "Which OPP is a relative of XXX ?", 
+  "Which OPP is a relative of XXX ?", 
+  "Which OPP is a relative of XXX ?"
+ ], 
+ "P739": [
+  "Which OPP is used as ammunition in XXX ?", 
+  "Which OPP is used as ammunition in XXX ?", 
+  "Which OPP is used as ammunition in XXX ?", 
+  "Which OPP is used as ammunition in XXX ?", 
+  "Which OPP is used as ammunition in XXX ?"
+ ], 
+ "P641": [
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?"
+ ], 
+ "P376": [
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?"
+ ], 
+ "P138": [
+  "Which OPP is XXX named after ?", 
+  "Which OPP is XXX named after ?", 
+  "Which OPP is XXX named after ?", 
+  "Which OPP is XXX named after ?", 
+  "Which OPP is XXX named after ?"
+ ], 
+ "P375": [
+  "Which OPP was used as space launch vehicle for XXX ?", 
+  "Which OPP was used as space launch vehicle for XXX ?", 
+  "Which OPP was used as space launch vehicle for XXX ?", 
+  "Which OPP was used as space launch vehicle for XXX ?", 
+  "Which OPP was used as space launch vehicle for XXX ?"
+ ], 
+ "P1037": [
+  "Which OPP is the manager of XXX ?", 
+  "Which OPP is the manager of XXX ?", 
+  "Which OPP is the manager of XXX ?", 
+  "Which OPP is the manager of XXX ?", 
+  "Which OPP is the manager of XXX ?"
+ ], 
+ "P1444": [
+  "Which OPP served as the destination point for the XXX ?", 
+  "Which OPP served as the destination point for the XXX ?", 
+  "Which OPP served as the destination point for the XXX ?", 
+  "Which OPP served as the destination point for the XXX ?", 
+  "Which OPP served as the destination point for the XXX ?"
+ ], 
+ "P802": [
+  "Which OPP was XXX the student of ?", 
+  "Which OPP was XXX the student of ?", 
+  "Which OPP was XXX the student of ?", 
+  "Which OPP was XXX the student of ?", 
+  "Which OPP was XXX the student of ?"
+ ], 
+ "P371": [
+  "Which OPP was the presenter of XXX ?", 
+  "Which OPP was the presenter of XXX ?", 
+  "Which OPP was the presenter of XXX ?", 
+  "Which OPP was the presenter of XXX ?", 
+  "Which OPP was the presenter of XXX ?"
+ ], 
+ "P180": [
+  "Which OPP is depicted in XXX ?", 
+  "Which OPP is depicted in XXX ?", 
+  "Which OPP is depicted in XXX ?", 
+  "Which OPP is depicted in XXX ?", 
+  "Which OPP is depicted in XXX ?"
+ ], 
+ "P410": [
+  "Which OPP was the military rank held by XXX ?", 
+  "Which OPP was the military rank held by XXX ?", 
+  "Which OPP was the military rank held by XXX ?", 
+  "Which OPP was the military rank held by XXX ?", 
+  "Which OPP was the military rank held by XXX ?"
+ ], 
+ "P769": [
+  "Which OPP shows a significant interaction with XXX ?", 
+  "Which OPP shows a significant interaction with XXX ?", 
+  "Which OPP shows a significant interaction with XXX ?", 
+  "Which OPP shows a significant interaction with XXX ?", 
+  "Which OPP shows a significant interaction with XXX ?"
+ ], 
+ "P768": [
+  "Which OPP did XXX represent ?", 
+  "Which OPP did XXX represent ?", 
+  "Which OPP did XXX represent ?", 
+  "Which OPP did XXX represent ?", 
+  "Which OPP did XXX represent ?"
+ ], 
+ "P2293": [
+  "Which OPP has genetic association with XXX ?", 
+  "Which OPP has genetic association with XXX ?", 
+  "Which OPP has genetic association with XXX ?", 
+  "Which OPP has genetic association with XXX ?", 
+  "Which OPP has genetic association with XXX ?"
+ ], 
+ "P765": [
+  "Which OPP is XXX played on ?", 
+  "Which OPP is XXX played on ?", 
+  "Which OPP is XXX played on ?", 
+  "Which OPP is XXX played on ?", 
+  "Which OPP is XXX played on ?"
+ ], 
+ "P767": [
+  "Which OPP contributed to XXX ?", 
+  "Which OPP contributed to XXX ?", 
+  "Which OPP contributed to XXX ?", 
+  "Which OPP contributed to XXX ?", 
+  "Which OPP contributed to XXX ?"
+ ], 
+ "P277": [
+  "Which OPP is used to develop XXX ?", 
+  "Which OPP is used to develop XXX ?", 
+  "Which OPP is used to develop XXX ?", 
+  "Which OPP is used to develop XXX ?", 
+  "Which OPP is used to develop XXX ?"
+ ], 
+ "P276": [
+  "Which OPP is the location of XXX ?", 
+  "Which OPP is the location of XXX ?", 
+  "Which OPP is the location of XXX ?", 
+  "Which OPP is the location of XXX ?", 
+  "Which OPP is the location of XXX ?"
+ ], 
+ "P275": [
+  "Which OPP is XXX released under ?", 
+  "Which OPP is XXX released under ?", 
+  "Which OPP is XXX released under ?", 
+  "Which OPP is XXX released under ?", 
+  "Which OPP is XXX released under ?"
+ ], 
+ "P197": [
+  "Which OPP is adjacent to XXX ?", 
+  "Which OPP is adjacent to XXX ?", 
+  "Which OPP is adjacent to XXX ?", 
+  "Which OPP is adjacent to XXX ?", 
+  "Which OPP is adjacent to XXX ?"
+ ], 
+ "P272": [
+  "Which OPP is responsible for production of XXX ?", 
+  "Which OPP is responsible for production of XXX ?", 
+  "Which OPP is responsible for production of XXX ?", 
+  "Which OPP is responsible for production of XXX ?", 
+  "Which OPP is responsible for production of XXX ?"
+ ], 
+ "P170": [
+  "Which OPP is the creater of XXX ?", 
+  "Which OPP is the creater of XXX ?", 
+  "Which OPP is the creater of XXX ?", 
+  "Which OPP is the creater of XXX ?", 
+  "Which OPP is the creater of XXX ?"
+ ], 
+ "P171": [
+  "Which OPP is a parent taxon of XXX ?", 
+  "Which OPP is a parent taxon of XXX ?", 
+  "Which OPP is a parent taxon of XXX ?", 
+  "Which OPP is a parent taxon of XXX ?", 
+  "Which OPP is a parent taxon of XXX ?"
+ ], 
+ "P172": [
+  "Which OPP does XXX have as ethnic origin ?", 
+  "Which OPP does XXX have as ethnic origin ?", 
+  "Which OPP does XXX have as ethnic origin ?", 
+  "Which OPP does XXX have as ethnic origin ?", 
+  "Which OPP does XXX have as ethnic origin ?"
+ ], 
+ "P1441": [
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?", 
+  "Which OPP is XXX present in ?"
+ ], 
+ "P175": [
+  "Which OPP is a performer for XXX ?", 
+  "Which OPP is a performer for XXX ?", 
+  "Which OPP is a performer for XXX ?", 
+  "Which OPP is a performer for XXX ?", 
+  "Which OPP is a performer for XXX ?"
+ ], 
+ "P176": [
+  "Which OPP is the manufacturer of XXX ?", 
+  "Which OPP is the manufacturer of XXX ?", 
+  "Which OPP is the manufacturer of XXX ?", 
+  "Which OPP is the manufacturer of XXX ?", 
+  "Which OPP is the manufacturer of XXX ?"
+ ], 
+ "P177": [
+  "Which OPP is crossed over by XXX ?", 
+  "Which OPP is crossed over by XXX ?", 
+  "Which OPP is crossed over by XXX ?", 
+  "Which OPP is crossed over by XXX ?", 
+  "Which OPP is crossed over by XXX ?"
+ ], 
+ "P358": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P38": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P39": [
+  "Which OPP was a position held by XXX ?", 
+  "Which OPP was a position held by XXX ?", 
+  "Which OPP was a position held by XXX ?", 
+  "Which OPP was a position held by XXX ?", 
+  "Which OPP was a position held by XXX ?"
+ ], 
+ "P974": [
+  "Which OPP is the tributary of XXX ?", 
+  "Which OPP is the tributary of XXX ?", 
+  "Which OPP is the tributary of XXX ?", 
+  "Which OPP is the tributary of XXX ?", 
+  "Which OPP is the tributary of XXX ?"
+ ], 
+ "P1431": [
+  "Which OPP is the excecutive producer of XXX ?", 
+  "Which OPP is the excecutive producer of XXX ?", 
+  "Which OPP is the excecutive producer of XXX ?", 
+  "Which OPP is the excecutive producer of XXX ?", 
+  "Which OPP is the excecutive producer of XXX ?"
+ ], 
+ "P1433": [
+  "Which OPP was XXX published in ?", 
+  "Which OPP was XXX published in ?", 
+  "Which OPP was XXX published in ?", 
+  "Which OPP was XXX published in ?", 
+  "Which OPP was XXX published in ?"
+ ], 
+ "P30": [
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?"
+ ], 
+ "P2453": [
+  "Which OPP was the nominee of XXX ?", 
+  "Which OPP was the nominee of XXX ?", 
+  "Which OPP was the nominee of XXX ?", 
+  "Which OPP was the nominee of XXX ?", 
+  "Which OPP was the nominee of XXX ?"
+ ], 
+ "P36": [
+  "Which OPP is the capital of XXX ?", 
+  "Which OPP is the capital of XXX ?", 
+  "Which OPP is the capital of XXX ?", 
+  "Which OPP is the capital of XXX ?", 
+  "Which OPP is the capital of XXX ?"
+ ], 
+ "P37": [
+  "Which OPP is the official language of XXX ?", 
+  "Which OPP is the official language of XXX ?", 
+  "Which OPP is the official language of XXX ?", 
+  "Which OPP is the official language of XXX ?", 
+  "Which OPP is the official language of XXX ?"
+ ], 
+ "P178": [
+  "Which OPP developed the XXX ?", 
+  "Which OPP developed the XXX ?", 
+  "Which OPP developed the XXX ?", 
+  "Which OPP developed the XXX ?", 
+  "Which OPP developed the XXX ?"
+ ], 
+ "P1455": [
+  "Which OPP is a work of XXX ?", 
+  "Which OPP is a work of XXX ?", 
+  "Which OPP is a work of XXX ?", 
+  "Which OPP is a work of XXX ?", 
+  "Which OPP is a work of XXX ?"
+ ], 
+ "P264": [
+  "Which OPP is the record label of XXX ?", 
+  "Which OPP is the record label of XXX ?", 
+  "Which OPP is the record label of XXX ?", 
+  "Which OPP is the record label of XXX ?", 
+  "Which OPP is the record label of XXX ?"
+ ], 
+ "P403": [
+  "Which OPP does XXX drain into ?", 
+  "Which OPP does XXX drain into ?", 
+  "Which OPP does XXX drain into ?", 
+  "Which OPP does XXX drain into ?", 
+  "Which OPP does XXX drain into ?"
+ ], 
+ "P404": [
+  "Which OPP is available for XXX ?", 
+  "Which OPP is available for XXX ?", 
+  "Which OPP is available for XXX ?", 
+  "Which OPP is available for XXX ?", 
+  "Which OPP is available for XXX ?"
+ ], 
+ "P57": [
+  "Which OPP directed XXX ?", 
+  "Which OPP directed XXX ?", 
+  "Which OPP directed XXX ?", 
+  "Which OPP directed XXX ?", 
+  "Which OPP directed XXX ?"
+ ], 
+ "P407": [
+  "Which OPP is the language of work for XXX ?", 
+  "Which OPP is the language of work for XXX ?", 
+  "Which OPP is the language of work for XXX ?", 
+  "Which OPP is the language of work for XXX ?", 
+  "Which OPP is the language of work for XXX ?"
+ ], 
+ "P361": [
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?", 
+  "Which OPP is XXX a part of ?"
+ ], 
+ "P816": [
+  "Which OPP does XXX decay to ?", 
+  "Which OPP does XXX decay to ?", 
+  "Which OPP does XXX decay to ?", 
+  "Which OPP does XXX decay to ?", 
+  "Which OPP does XXX decay to ?"
+ ], 
+ "P812": [
+  "Which OPP was the academic major of XXX ?", 
+  "Which OPP was the academic major of XXX ?", 
+  "Which OPP was the academic major of XXX ?", 
+  "Which OPP was the academic major of XXX ?", 
+  "Which OPP was the academic major of XXX ?"
+ ], 
+ "P1454": [
+  "Which OPP is the type of legal form of XXX ?", 
+  "Which OPP is the type of legal form of XXX ?", 
+  "Which OPP is the type of legal form of XXX ?", 
+  "Which OPP is the type of legal form of XXX ?", 
+  "Which OPP is the type of legal form of XXX ?"
+ ], 
+ "P366": [
+  "Which OPP represents the main use of XXX ?", 
+  "Which OPP represents the main use of XXX ?", 
+  "Which OPP represents the main use of XXX ?", 
+  "Which OPP represents the main use of XXX ?", 
+  "Which OPP represents the main use of XXX ?"
+ ], 
+ "P137": [
+  "Which OPP operates XXX ?", 
+  "Which OPP operates XXX ?", 
+  "Which OPP operates XXX ?", 
+  "Which OPP operates XXX ?", 
+  "Which OPP operates XXX ?"
+ ], 
+ "P2439": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P3173": [
+  "Which OPP does XXX offer view on ?", 
+  "Which OPP does XXX offer view on ?", 
+  "Which OPP does XXX offer view on ?", 
+  "Which OPP does XXX offer view on ?", 
+  "Which OPP does XXX offer view on ?"
+ ], 
+ "P870": [
+  "Which OPP is the instrumentation used in XXX ?", 
+  "Which OPP is the instrumentation used in XXX ?", 
+  "Which OPP is the instrumentation used in XXX ?", 
+  "Which OPP is the instrumentation used in XXX ?", 
+  "Which OPP is the instrumentation used in XXX ?"
+ ], 
+ "P710": [
+  "Which OPP was a participant of XXX ?", 
+  "Which OPP was a participant of XXX ?", 
+  "Which OPP was a participant of XXX ?", 
+  "Which OPP was a participant of XXX ?", 
+  "Which OPP was a participant of XXX ?"
+ ], 
+ "P566": [
+  "Which OPP is a basionym of XXX ?", 
+  "Which OPP is a basionym of XXX ?", 
+  "Which OPP is a basionym of XXX ?", 
+  "Which OPP is a basionym of XXX ?", 
+  "Which OPP is a basionym of XXX ?"
+ ], 
+ "P1344": [
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?", 
+  "Which OPP did XXX participate in ?"
+ ], 
+ "P2632": [
+  "Which OPP was the place of detention of XXX ?", 
+  "Which OPP was the place of detention of XXX ?", 
+  "Which OPP was the place of detention of XXX ?", 
+  "Which OPP was the place of detention of XXX ?", 
+  "Which OPP was the place of detention of XXX ?"
+ ], 
+ "P560": [
+  "Which OPP is a directional identifier of XXX ?", 
+  "Which OPP is a directional identifier of XXX ?", 
+  "Which OPP is a directional identifier of XXX ?", 
+  "Which OPP is a directional identifier of XXX ?", 
+  "Which OPP is a directional identifier of XXX ?"
+ ], 
+ "P488": [
+  "Which OPP was the chairperson of XXX ?", 
+  "Which OPP was the chairperson of XXX ?", 
+  "Which OPP was the chairperson of XXX ?", 
+  "Which OPP was the chairperson of XXX ?", 
+  "Which OPP was the chairperson of XXX ?"
+ ], 
+ "P3320": [
+  "Which OPP is a board member of XXX ?", 
+  "Which OPP is a board member of XXX ?", 
+  "Which OPP is a board member of XXX ?", 
+  "Which OPP is a board member of XXX ?", 
+  "Which OPP is a board member of XXX ?"
+ ], 
+ "P1533": [
+  "Which OPP is same as XXX ?", 
+  "Which OPP is same as XXX ?", 
+  "Which OPP is same as XXX ?", 
+  "Which OPP is same as XXX ?", 
+  "Which OPP is same as XXX ?"
+ ], 
+ "P241": [
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?"
+ ], 
+ "P119": [
+  "Which OPP is the place of burial of XXX ?", 
+  "Which OPP is the place of burial of XXX ?", 
+  "Which OPP is the place of burial of XXX ?", 
+  "Which OPP is the place of burial of XXX ?", 
+  "Which OPP is the place of burial of XXX ?"
+ ], 
+ "P163": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P162": [
+  "Which OPP produced XXX ?", 
+  "Which OPP produced XXX ?", 
+  "Which OPP produced XXX ?", 
+  "Which OPP produced XXX ?", 
+  "Which OPP produced XXX ?"
+ ], 
+ "P161": [
+  "Which OPP was casted in XXX ?", 
+  "Which OPP was casted in XXX ?", 
+  "Which OPP was casted in XXX ?", 
+  "Which OPP was casted in XXX ?", 
+  "Which OPP was casted in XXX ?"
+ ], 
+ "P166": [
+  "Which OPP was received by XXX ?", 
+  "Which OPP was received by XXX ?", 
+  "Which OPP was received by XXX ?", 
+  "Which OPP was received by XXX ?", 
+  "Which OPP was received by XXX ?"
+ ], 
+ "P3113": [
+  "Which OPP is not a part of XXX ?", 
+  "Which OPP is not a part of XXX ?", 
+  "Which OPP is not a part of XXX ?", 
+  "Which OPP is not a part of XXX ?", 
+  "Which OPP is not a part of XXX ?"
+ ], 
+ "P512": [
+  "Which OPP does XXX hold ?", 
+  "Which OPP does XXX hold ?", 
+  "Which OPP does XXX hold ?", 
+  "Which OPP does XXX hold ?", 
+  "Which OPP does XXX hold ?"
+ ], 
+ "P708": [
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?", 
+  "Which OPP does XXX belong to ?"
+ ], 
+ "P1427": [
+  "Which OPP is a start point of XXX ?", 
+  "Which OPP is a start point of XXX ?", 
+  "Which OPP is a start point of XXX ?", 
+  "Which OPP is a start point of XXX ?", 
+  "Which OPP is a start point of XXX ?"
+ ], 
+ "P47": [
+  "Which OPP shares border with XXX ?", 
+  "Which OPP shares border with XXX ?", 
+  "Which OPP shares border with XXX ?", 
+  "Which OPP shares border with XXX ?", 
+  "Which OPP shares border with XXX ?"
+ ], 
+ "P35": [
+  "Which OPP is the head of state of XXX ?", 
+  "Which OPP is the head of state of XXX ?", 
+  "Which OPP is the head of state of XXX ?", 
+  "Which OPP is the head of state of XXX ?", 
+  "Which OPP is the head of state of XXX ?"
+ ], 
+ "P2348": [
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?"
+ ], 
+ "P40": [
+  "Which OPP is a child of XXX ?", 
+  "Which OPP is a child of XXX ?", 
+  "Which OPP is a child of XXX ?", 
+  "Which OPP is a child of XXX ?", 
+  "Which OPP is a child of XXX ?"
+ ], 
+ "P413": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P412": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P411": [
+  "Which OPP represents the canonization status of XXX ?", 
+  "Which OPP represents the canonization status of XXX ?", 
+  "Which OPP represents the canonization status of XXX ?", 
+  "Which OPP represents the canonization status of XXX ?", 
+  "Which OPP represents the canonization status of XXX ?"
+ ], 
+ "P1445": [
+  "Which OPP has the description of XXX ?", 
+  "Which OPP has the description of XXX ?", 
+  "Which OPP has the description of XXX ?", 
+  "Which OPP has the description of XXX ?", 
+  "Which OPP has the description of XXX ?"
+ ], 
+ "P417": [
+  "Which OPP is the patron saint of XXX ?", 
+  "Which OPP is the patron saint of XXX ?", 
+  "Which OPP is the patron saint of XXX ?", 
+  "Which OPP is the patron saint of XXX ?", 
+  "Which OPP is the patron saint of XXX ?"
+ ], 
+ "P479": [
+  "Which OPP was the input device for XXX ?", 
+  "Which OPP was the input device for XXX ?", 
+  "Which OPP was the input device for XXX ?", 
+  "Which OPP was the input device for XXX ?", 
+  "Which OPP was the input device for XXX ?"
+ ], 
+ "P414": [
+  "Which OPP is XXX traded at ?", 
+  "Which OPP is XXX traded at ?", 
+  "Which OPP is XXX traded at ?", 
+  "Which OPP is XXX traded at ?", 
+  "Which OPP is XXX traded at ?"
+ ], 
+ "P1462": [
+  "Which OPP maintains XXX ?", 
+  "Which OPP maintains XXX ?", 
+  "Which OPP maintains XXX ?", 
+  "Which OPP maintains XXX ?", 
+  "Which OPP maintains XXX ?"
+ ], 
+ "P826": [
+  "Which OPP is the tonality of XXX ?", 
+  "Which OPP is the tonality of XXX ?", 
+  "Which OPP is the tonality of XXX ?", 
+  "Which OPP is the tonality of XXX ?", 
+  "Which OPP is the tonality of XXX ?"
+ ], 
+ "P3161": [
+  "Which OPP represents the grammatical mood of XXX ?", 
+  "Which OPP represents the grammatical mood of XXX ?", 
+  "Which OPP represents the grammatical mood of XXX ?", 
+  "Which OPP represents the grammatical mood of XXX ?", 
+  "Which OPP represents the grammatical mood of XXX ?"
+ ], 
+ "P1750": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P825": [
+  "Which OPP is XXX dedicated to ?", 
+  "Which OPP is XXX dedicated to ?", 
+  "Which OPP is XXX dedicated to ?", 
+  "Which OPP is XXX dedicated to ?", 
+  "Which OPP is XXX dedicated to ?"
+ ], 
+ "P157": [
+  "Which OPP was the killer of XXX ?", 
+  "Which OPP was the killer of XXX ?", 
+  "Which OPP was the killer of XXX ?", 
+  "Which OPP was the killer of XXX ?", 
+  "Which OPP was the killer of XXX ?"
+ ], 
+ "P559": [
+  "Which OPP is a terminus for XXX ?", 
+  "Which OPP is a terminus for XXX ?", 
+  "Which OPP is a terminus for XXX ?", 
+  "Which OPP is a terminus for XXX ?", 
+  "Which OPP is a terminus for XXX ?"
+ ], 
+ "P703": [
+  "Which OPP is XXX is found in ?", 
+  "Which OPP is XXX is found in ?", 
+  "Which OPP is XXX is found in ?", 
+  "Which OPP is XXX is found in ?", 
+  "Which OPP is XXX is found in ?"
+ ], 
+ "P702": [
+  "Which OPP encodes XXX ?", 
+  "Which OPP encodes XXX ?", 
+  "Which OPP encodes XXX ?", 
+  "Which OPP encodes XXX ?", 
+  "Which OPP encodes XXX ?"
+ ], 
+ "P2643": [
+  "Which OPP represents Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPP represents Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPP represents Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPP represents Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPP represents Carnegie Classification of Institutes of Higher Education for XXX ?"
+ ], 
+ "P551": [
+  "Which OPP was the residence of XXX ?", 
+  "Which OPP was the residence of XXX ?", 
+  "Which OPP was the residence of XXX ?", 
+  "Which OPP was the residence of XXX ?", 
+  "Which OPP was the residence of XXX ?"
+ ], 
+ "P629": [
+  "Which OPP is XXX edition or translation of ?", 
+  "Which OPP is XXX edition or translation of ?", 
+  "Which OPP is XXX edition or translation of ?", 
+  "Which OPP is XXX edition or translation of ?", 
+  "Which OPP is XXX edition or translation of ?"
+ ], 
+ "P159": [
+  "Which OPP is the headquarter location of XXX ?", 
+  "Which OPP is the headquarter location of XXX ?", 
+  "Which OPP is the headquarter location of XXX ?", 
+  "Which OPP is the headquarter location of XXX ?", 
+  "Which OPP is the headquarter location of XXX ?"
+ ], 
+ "P397": [
+  "Which OPP has XXX as parent astronomical body ?", 
+  "Which OPP has XXX as parent astronomical body ?", 
+  "Which OPP has XXX as parent astronomical body ?", 
+  "Which OPP has XXX as parent astronomical body ?", 
+  "Which OPP has XXX as parent astronomical body ?"
+ ], 
+ "P828": [
+  "Which OPP is the cause of XXX ?", 
+  "Which OPP is the cause of XXX ?", 
+  "Which OPP is the cause of XXX ?", 
+  "Which OPP is the cause of XXX ?", 
+  "Which OPP is the cause of XXX ?"
+ ], 
+ "P364": [
+  "Which OPP is the original language of creation of XXX ?", 
+  "Which OPP is the original language of creation of XXX ?", 
+  "Which OPP is the original language of creation of XXX ?", 
+  "Which OPP is the original language of creation of XXX ?", 
+  "Which OPP is the original language of creation of XXX ?"
+ ], 
+ "P664": [
+  "Which OPP is the organizer of XXX ?", 
+  "Which OPP is the organizer of XXX ?", 
+  "Which OPP is the organizer of XXX ?", 
+  "Which OPP is the organizer of XXX ?", 
+  "Which OPP is the organizer of XXX ?"
+ ], 
+ "P1382": [
+  "Which OPP partially overlaps with XXX ?", 
+  "Which OPP partially overlaps with XXX ?", 
+  "Which OPP partially overlaps with XXX ?", 
+  "Which OPP partially overlaps with XXX ?", 
+  "Which OPP partially overlaps with XXX ?"
+ ], 
+ "P398": [
+  "Which OPP is the child astronomical body of XXX ?", 
+  "Which OPP is the child astronomical body of XXX ?", 
+  "Which OPP is the child astronomical body of XXX ?", 
+  "Which OPP is the child astronomical body of XXX ?", 
+  "Which OPP is the child astronomical body of XXX ?"
+ ], 
+ "P85": [
+  "Which OPP represents the anthem for XXX ?", 
+  "Which OPP represents the anthem for XXX ?", 
+  "Which OPP represents the anthem for XXX ?", 
+  "Which OPP represents the anthem for XXX ?", 
+  "Which OPP represents the anthem for XXX ?"
+ ], 
+ "P495": [
+  "Which OPP is the country of origin of XXX ?", 
+  "Which OPP is the country of origin of XXX ?", 
+  "Which OPP is the country of origin of XXX ?", 
+  "Which OPP is the country of origin of XXX ?", 
+  "Which OPP is the country of origin of XXX ?"
+ ], 
+ "P706": [
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?"
+ ], 
+ "P400": [
+  "Which OPP represents the platform for XXX ?", 
+  "Which OPP represents the platform for XXX ?", 
+  "Which OPP represents the platform for XXX ?", 
+  "Which OPP represents the platform for XXX ?", 
+  "Which OPP represents the platform for XXX ?"
+ ], 
+ "P408": [
+  "Which OPP is the software engine employed by XXX ?", 
+  "Which OPP is the software engine employed by XXX ?", 
+  "Which OPP is the software engine employed by XXX ?", 
+  "Which OPP is the software engine employed by XXX ?", 
+  "Which OPP is the software engine employed by XXX ?"
+ ], 
+ "P793": [
+  "Which OPP is a significant event associated with XXX ?", 
+  "Which OPP is a significant event associated with XXX ?", 
+  "Which OPP is a significant event associated with XXX ?", 
+  "Which OPP is a significant event associated with XXX ?", 
+  "Which OPP is a significant event associated with XXX ?"
+ ], 
+ "P58": [
+  "Which OPP wrote the script for the XXX ?", 
+  "Which OPP wrote the script for the XXX ?", 
+  "Which OPP wrote the script for the XXX ?", 
+  "Which OPP wrote the script for the XXX ?", 
+  "Which OPP wrote the script for the XXX ?"
+ ], 
+ "P1995": [
+  "Which OPP is the medical specality concerned with XXX ?", 
+  "Which OPP is the medical specality concerned with XXX ?", 
+  "Which OPP is the medical specality concerned with XXX ?", 
+  "Which OPP is the medical specality concerned with XXX ?", 
+  "Which OPP is the medical specality concerned with XXX ?"
+ ], 
+ "P287": [
+  "Which OPP is the designer of XXX ?", 
+  "Which OPP is the designer of XXX ?", 
+  "Which OPP is the designer of XXX ?", 
+  "Which OPP is the designer of XXX ?", 
+  "Which OPP is the designer of XXX ?"
+ ], 
+ "P54": [
+  "Which OPP is XXX a member of ?", 
+  "Which OPP is XXX a member of ?", 
+  "Which OPP is XXX a member of ?", 
+  "Which OPP is XXX a member of ?", 
+  "Which OPP is XXX a member of ?"
+ ], 
+ "P450": [
+  "Which OPP is the space mission XXX is a member of ?", 
+  "Which OPP is the space mission XXX is a member of ?", 
+  "Which OPP is the space mission XXX is a member of ?", 
+  "Which OPP is the space mission XXX is a member of ?", 
+  "Which OPP is the space mission XXX is a member of ?"
+ ], 
+ "P50": [
+  "Which OPP authored XXX ?", 
+  "Which OPP authored XXX ?", 
+  "Which OPP authored XXX ?", 
+  "Which OPP authored XXX ?", 
+  "Which OPP authored XXX ?"
+ ], 
+ "P1029": [
+  "Which OPP was a crew member of XXX ?", 
+  "Which OPP was a crew member of XXX ?", 
+  "Which OPP was a crew member of XXX ?", 
+  "Which OPP was a crew member of XXX ?", 
+  "Which OPP was a crew member of XXX ?"
+ ], 
+ "P53": [
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?", 
+  "Which OPP did XXX belong to ?"
+ ], 
+ "P3093": [
+  "Which OPP was used for the recovery of XXX ?", 
+  "Which OPP was used for the recovery of XXX ?", 
+  "Which OPP was used for the recovery of XXX ?", 
+  "Which OPP was used for the recovery of XXX ?", 
+  "Which OPP was used for the recovery of XXX ?"
+ ], 
+ "P737": [
+  "Which OPP has influence on XXX ?", 
+  "Which OPP has influence on XXX ?", 
+  "Which OPP has influence on XXX ?", 
+  "Which OPP has influence on XXX ?", 
+  "Which OPP has influence on XXX ?"
+ ], 
+ "P3091": [
+  "Which OPP is ridden by XXX ?", 
+  "Which OPP is ridden by XXX ?", 
+  "Which OPP is ridden by XXX ?", 
+  "Which OPP is ridden by XXX ?", 
+  "Which OPP is ridden by XXX ?"
+ ], 
+ "P735": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P541": [
+  "Which OPP was contested for in the XXX ?", 
+  "Which OPP was contested for in the XXX ?", 
+  "Which OPP was contested for in the XXX ?", 
+  "Which OPP was contested for in the XXX ?", 
+  "Which OPP was contested for in the XXX ?"
+ ], 
+ "P2522": [
+  "Which OPP was won by XXX ?", 
+  "Which OPP was won by XXX ?", 
+  "Which OPP was won by XXX ?", 
+  "Which OPP was won by XXX ?", 
+  "Which OPP was won by XXX ?"
+ ], 
+ "P3095": [
+  "Which OPP is practised by XXX ?", 
+  "Which OPP is practised by XXX ?", 
+  "Which OPP is practised by XXX ?", 
+  "Which OPP is practised by XXX ?", 
+  "Which OPP is practised by XXX ?"
+ ], 
+ "P2417": [
+  "Which OPP figures in stage results of XXX ?", 
+  "Which OPP figures in stage results of XXX ?", 
+  "Which OPP figures in stage results of XXX ?", 
+  "Which OPP figures in stage results of XXX ?", 
+  "Which OPP figures in stage results of XXX ?"
+ ], 
+ "P2061": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P427": [
+  "Which OPP is the taxonomix type of XXX ?", 
+  "Which OPP is the taxonomix type of XXX ?", 
+  "Which OPP is the taxonomix type of XXX ?", 
+  "Which OPP is the taxonomix type of XXX ?", 
+  "Which OPP is the taxonomix type of XXX ?"
+ ], 
+ "P937": [
+  "Which OPP is the work location of XXX ?", 
+  "Which OPP is the work location of XXX ?", 
+  "Which OPP is the work location of XXX ?", 
+  "Which OPP is the work location of XXX ?", 
+  "Which OPP is the work location of XXX ?"
+ ], 
+ "P1576": [
+  "Which OPP serves as the lifestyle of XXX ?", 
+  "Which OPP serves as the lifestyle of XXX ?", 
+  "Which OPP serves as the lifestyle of XXX ?", 
+  "Which OPP serves as the lifestyle of XXX ?", 
+  "Which OPP serves as the lifestyle of XXX ?"
+ ], 
+ "P112": [
+  "Which OPP was the founder of XXX ?", 
+  "Which OPP was the founder of XXX ?", 
+  "Which OPP was the founder of XXX ?", 
+  "Which OPP was the founder of XXX ?", 
+  "Which OPP was the founder of XXX ?"
+ ], 
+ "P421": [
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?", 
+  "Which OPP is XXX located in ?"
+ ], 
+ "P636": [
+  "Which OPP is the route of administration of XXX ?", 
+  "Which OPP is the route of administration of XXX ?", 
+  "Which OPP is the route of administration of XXX ?", 
+  "Which OPP is the route of administration of XXX ?", 
+  "Which OPP is the route of administration of XXX ?"
+ ], 
+ "P3137": [
+  "Which OPP is the parent peak of XXX ?", 
+  "Which OPP is the parent peak of XXX ?", 
+  "Which OPP is the parent peak of XXX ?", 
+  "Which OPP is the parent peak of XXX ?", 
+  "Which OPP is the parent peak of XXX ?"
+ ], 
+ "P790": [
+  "Which OPP is resposible for approval of XXX ?", 
+  "Which OPP is resposible for approval of XXX ?", 
+  "Which OPP is resposible for approval of XXX ?", 
+  "Which OPP is resposible for approval of XXX ?", 
+  "Which OPP is resposible for approval of XXX ?"
+ ], 
+ "P144": [
+  "Which OPP is XXX based on ?", 
+  "Which OPP is XXX based on ?", 
+  "Which OPP is XXX based on ?", 
+  "Which OPP is XXX based on ?", 
+  "Which OPP is XXX based on ?"
+ ], 
+ "P3094": [
+  "Which OPP develops from XXX ?", 
+  "Which OPP develops from XXX ?", 
+  "Which OPP develops from XXX ?", 
+  "Which OPP develops from XXX ?", 
+  "Which OPP develops from XXX ?"
+ ], 
+ "P149": [
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?", 
+  "Which OPP is associated with XXX ?"
+ ], 
+ "P306": [
+  "Which OPP is XXX installed on ?", 
+  "Which OPP is XXX installed on ?", 
+  "Which OPP is XXX installed on ?", 
+  "Which OPP is XXX installed on ?", 
+  "Which OPP is XXX installed on ?"
+ ], 
+ "P915": [
+  "Which OPP was used for filming of XXX ?", 
+  "Which OPP was used for filming of XXX ?", 
+  "Which OPP was used for filming of XXX ?", 
+  "Which OPP was used for filming of XXX ?", 
+  "Which OPP was used for filming of XXX ?"
+ ], 
+ "P1192": [
+  "Which OPP served as the connective service for XXX ?", 
+  "Which OPP served as the connective service for XXX ?", 
+  "Which OPP served as the connective service for XXX ?", 
+  "Which OPP served as the connective service for XXX ?", 
+  "Which OPP served as the connective service for XXX ?"
+ ], 
+ "P451": [
+  "Which OPP is the partner of XXX ?", 
+  "Which OPP is the partner of XXX ?", 
+  "Which OPP is the partner of XXX ?", 
+  "Which OPP is the partner of XXX ?", 
+  "Which OPP is the partner of XXX ?"
+ ], 
+ "P61": [
+  "Which OPP discovered or invented XXX ?", 
+  "Which OPP discovered or invented XXX ?", 
+  "Which OPP discovered or invented XXX ?", 
+  "Which OPP discovered or invented XXX ?", 
+  "Which OPP discovered or invented XXX ?"
+ ], 
+ "P676": [
+  "Which OPP is a lyricsist of XXX ?", 
+  "Which OPP is a lyricsist of XXX ?", 
+  "Which OPP is a lyricsist of XXX ?", 
+  "Which OPP is a lyricsist of XXX ?", 
+  "Which OPP is a lyricsist of XXX ?"
+ ], 
+ "P140": [
+  "Which OPP served as the religion of XXX ?", 
+  "Which OPP served as the religion of XXX ?", 
+  "Which OPP served as the religion of XXX ?", 
+  "Which OPP served as the religion of XXX ?", 
+  "Which OPP served as the religion of XXX ?"
+ ], 
+ "P6": [
+  "Which OPP is the head of government of XXX ?", 
+  "Which OPP is the head of government of XXX ?", 
+  "Which OPP is the head of government of XXX ?", 
+  "Which OPP is the head of government of XXX ?", 
+  "Which OPP is the head of government of XXX ?"
+ ], 
+ "P2695": [
+  "Which OPP is the locality where XXX originated or was first defined ?", 
+  "Which OPP is the locality where XXX originated or was first defined ?", 
+  "Which OPP is the locality where XXX originated or was first defined ?", 
+  "Which OPP is the locality where XXX originated or was first defined ?", 
+  "Which OPP is the locality where XXX originated or was first defined ?"
+ ], 
+ "P69": [
+  "Which OPP was XXX educated at ?", 
+  "Which OPP was XXX educated at ?", 
+  "Which OPP was XXX educated at ?", 
+  "Which OPP was XXX educated at ?", 
+  "Which OPP was XXX educated at ?"
+ ], 
+ "P1303": [
+  "Which OPP is played by XXX ?", 
+  "Which OPP is played by XXX ?", 
+  "Which OPP is played by XXX ?", 
+  "Which OPP is played by XXX ?", 
+  "Which OPP is played by XXX ?"
+ ], 
+ "P3301": [
+  "Which OPP broadcasts XXX ?", 
+  "Which OPP broadcasts XXX ?", 
+  "Which OPP broadcasts XXX ?", 
+  "Which OPP broadcasts XXX ?", 
+  "Which OPP broadcasts XXX ?"
+ ], 
+ "P1313": [
+  "Which OPP serves as the political office that is fulfilled by the head of the government of XXX ?", 
+  "Which OPP serves as the political office that is fulfilled by the head of the government of XXX ?", 
+  "Which OPP serves as the political office that is fulfilled by the head of the government of XXX ?", 
+  "Which OPP serves as the political office that is fulfilled by the head of the government of XXX ?", 
+  "Which OPP serves as the political office that is fulfilled by the head of the government of XXX ?"
+ ], 
+ "P1050": [
+  "Which OPP medically affected XXX ?", 
+  "Which OPP medically affected XXX ?", 
+  "Which OPP medically affected XXX ?", 
+  "Which OPP medically affected XXX ?", 
+  "Which OPP medically affected XXX ?"
+ ], 
+ "P780": [
+  "Which OPP is caused due to XXX ?", 
+  "Which OPP is caused due to XXX ?", 
+  "Which OPP is caused due to XXX ?", 
+  "Which OPP is caused due to XXX ?", 
+  "Which OPP is caused due to XXX ?"
+ ], 
+ "P1686": [
+  "Which OPP was the basis for which XXX was awarded ?", 
+  "Which OPP was the basis for which XXX was awarded ?", 
+  "Which OPP was the basis for which XXX was awarded ?", 
+  "Which OPP was the basis for which XXX was awarded ?", 
+  "Which OPP was the basis for which XXX was awarded ?"
+ ], 
+ "P1057": [
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?", 
+  "Which OPP is XXX located on ?"
+ ], 
+ "P1056": [
+  "Which OPP is produced by XXX ?", 
+  "Which OPP is produced by XXX ?", 
+  "Which OPP is produced by XXX ?", 
+  "Which OPP is produced by XXX ?", 
+  "Which OPP is produced by XXX ?"
+ ], 
+ "P941": [
+  "Which OPP was XXX inspired by ?", 
+  "Which OPP was XXX inspired by ?", 
+  "Which OPP was XXX inspired by ?", 
+  "Which OPP was XXX inspired by ?", 
+  "Which OPP was XXX inspired by ?"
+ ], 
+ "P448": [
+  "Which OPP was the launch site of XXX ?", 
+  "Which OPP was the launch site of XXX ?", 
+  "Which OPP was the launch site of XXX ?", 
+  "Which OPP was the launch site of XXX ?", 
+  "Which OPP was the launch site of XXX ?"
+ ], 
+ "P684": [
+  "Which OPP is an orthologous gene for XXX ?", 
+  "Which OPP is an orthologous gene for XXX ?", 
+  "Which OPP is an orthologous gene for XXX ?", 
+  "Which OPP is an orthologous gene for XXX ?", 
+  "Which OPP is an orthologous gene for XXX ?"
+ ], 
+ "P1435": [
+  "Which OPP represents the heritage status given to XXX ?", 
+  "Which OPP represents the heritage status given to XXX ?", 
+  "Which OPP represents the heritage status given to XXX ?", 
+  "Which OPP represents the heritage status given to XXX ?", 
+  "Which OPP represents the heritage status given to XXX ?"
+ ], 
+ "P118": [
+  "Which OPP is the league played by XXX ?", 
+  "Which OPP is the league played by XXX ?", 
+  "Which OPP is the league played by XXX ?", 
+  "Which OPP is the league played by XXX ?", 
+  "Which OPP is the league played by XXX ?"
+ ], 
+ "P1196": [
+  "Which OPP was associated with death of XXX ?", 
+  "Which OPP was associated with death of XXX ?", 
+  "Which OPP was associated with death of XXX ?", 
+  "Which OPP was associated with death of XXX ?", 
+  "Which OPP was associated with death of XXX ?"
+ ], 
+ "P449": [
+  "Which OPP is the original network XXX was aired on ?", 
+  "Which OPP is the original network XXX was aired on ?", 
+  "Which OPP is the original network XXX was aired on ?", 
+  "Which OPP is the original network XXX was aired on ?", 
+  "Which OPP is the original network XXX was aired on ?"
+ ]
+}

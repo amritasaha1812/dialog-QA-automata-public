@@ -1,0 +1,1707 @@
+{
+ "P530": [
+  "Which SPPS are not related with YYY ?", 
+  "Which SPPS are not related with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P688": [
+  "Which SPPS codes are not for YYY ?", 
+  "Which SPPS codes are not for YYY ?", 
+  "Which SPPS do not produce the gene YYY ?"
+ ], 
+ "P2079": [
+  "Which SPPS do n't have fabrication method named YYY ?", 
+  "Which SPPS do n't have fabrication method named YYY ?", 
+  "Which SPPS have not used YYY as fabrication ?"
+ ], 
+ "P725": [
+  "Which SPPS did not lip-synch to YYY 's voice ?", 
+  "Which SPPS did not lip-synch to YYY 's voice ?", 
+  "Which SPPS did not have YYY as a voice stand-in ?"
+ ], 
+ "P2176": [
+  "Which SPPS can not be treated by YYY ?", 
+  "Which SPPS can not be treated by YYY ?", 
+  "Which SPPS is not treated by YYY ?"
+ ], 
+ "P2175": [
+  "Which SPPS are not used for treating YYY ?", 
+  "Which SPPS cannot be used to treat YYY ?", 
+  "Which SPPS can not treat YYY ?"
+ ], 
+ "P726": [
+  "Which SPPS do not have a candidate named YYY ?", 
+  "Which SPPS do not have a candidate named YYY ?", 
+  "Which SPPS do not have YYY as candidate ?"
+ ], 
+ "P682": [
+  "Which SPPS have no involvement in YYY ?", 
+  "Which SPPS have no involvement with YYY ?", 
+  "Which SPPS are not involved in YYY ?"
+ ], 
+ "P3085": [
+  "Which SPPS are n't qualified for YYY ?", 
+  "Which SPPS are n't qualified for YYY ?", 
+  "Which SPPS are n't given qualification of YYY ?"
+ ], 
+ "P680": [
+  "Which SPPS do not have functions as YYY ?", 
+  "Which SPPS do not have YYY like functions ?", 
+  "Which SPPS do not have YYY as functions ?"
+ ], 
+ "P681": [
+  "Which SPPS do not have cell component named YYY ?", 
+  "Which SPPS do not have cell component named YYY ?", 
+  "Which SPPS do not have YYY as component of cell ?"
+ ], 
+ "P3080": [
+  "Which SPPS were not designed by YYY ?", 
+  "Which SPPS were not designed by YYY ?", 
+  "Which SPPS are n't credited to YYY ?"
+ ], 
+ "P3081": [
+  "Which SPPS did not damage YYY ?", 
+  "Which SPPS did not damage YYY ?", 
+  "Which SPPS did not cause YYY damage ?"
+ ], 
+ "P437": [
+  "Which SPPS were not spread through YYY ?", 
+  "Which SPPS did not spread through YYY ?", 
+  "Which SPPS were not given distribution through YYY ?"
+ ], 
+ "P689": [
+  "Which SPPS are not afflicting YYY ?", 
+  "Which SPPS are not afflicting YYY ?", 
+  "Which SPPS have not afflicted YYY ?"
+ ], 
+ "P607": [
+  "Which SPPS were not consumed in YYY ?", 
+  "Which SPPS were not consumed in YYY ?", 
+  "Which SPPS have not been utilized in YYY ?"
+ ], 
+ "P1340": [
+  "Which SPPS do n't have a YYY eye color ?", 
+  "Which SPPS do n't have a YYY eye color ?", 
+  "Which SPPS do n't have eyes colored YYY ?"
+ ], 
+ "P1434": [
+  "Which SPPS are not describing YYY ?", 
+  "Which SPPS are not describing YYY ?", 
+  "Which SPPS are not explaining YYY ?"
+ ], 
+ "P608": [
+  "Which SPPS were not shown at YYY ?", 
+  "Which SPPS were not shown at YYY ?", 
+  "Which SPPS were not demonstrated at YYY ?"
+ ], 
+ "P609": [
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P937": [
+  "Which SPPS do not have work location of YYY ?", 
+  "Which SPPS do not have work location of YYY ?", 
+  "Which SPPS do not have YYY as location for work ?"
+ ], 
+ "P135": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS arent linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P136": [
+  "Which SPPS do not have genre named YYY ?", 
+  "Which SPPS's genre is not YYY ?", 
+  "Which SPPS does not have YYY as genre ?"
+ ], 
+ "P137": [
+  "Which SPPS were not performed by YYY ?", 
+  "Which SPPS were not performed by YYY ?", 
+  "Which SPPS were not launched by YYY ?"
+ ], 
+ "P3156": [
+  "Which SPPS do not have rating as YYY ?", 
+  "Which SPPS do not have YYY as the rating as ?", 
+  "Which SPPS are not rated as YYY ?"
+ ], 
+ "P1376": [
+  "Which SPPS do not have a capital city of YYY ?", 
+  "Which SPPS's capital city is not YYY ?", 
+  "Which SPPS do not have YYY has their capital ?"
+ ], 
+ "P2239": [
+  "Which SPPS are not using aid from YYY ?", 
+  "Which SPPS did not use aid from YYY ?", 
+  "Which SPPS are not getting first aid from YYY ?"
+ ], 
+ "P404": [
+  "Which SPPS do not have game mode of YYY ?", 
+  "Which SPPS do not have game mode of YYY ?", 
+  "Which SPPS do not contain YYY as game mode ?"
+ ], 
+ "P641": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS do not have a link with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P237": [
+  "Which SPPS do n't have YYY as their coat of arms?", 
+  "Which SPPS's coat of arms is not YYY ?", 
+  "Which SPPS do n't have their coat of arms named as YYY ?"
+ ], 
+ "P1308": [
+  "Which SPPS are not holding office through YYY ?", 
+  "Which SPPS do not hold office through YYY ?", 
+  "Which SPPS have not office holder called YYY ?"
+ ], 
+ "P1040": [
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P1027": [
+  "Which SPPS are not granted by YYY ?", 
+  "Which SPPS are not granted by YYY ?", 
+  "Which SPPS are not presented by YYY ?"
+ ], 
+ "P2554": [
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P734": [
+  "Which SPPS does not have family name of YYY ?", 
+  "Which SPPS does not have family name of YYY ?", 
+  "Which SPPS does not have YYY as name of family ?"
+ ], 
+ "P805": [
+  "Which SPPS are not subjected to YYY ?", 
+  "Which SPPS are not subjected to YYY ?", 
+  "Which SPPS have not had YYY as subject ?"
+ ], 
+ "P1346": [
+  "Which SPPS were not obtained by YYY ?", 
+  "Which SPPS were not obtained by YYY ?", 
+  "Which SPPS did not make YYY as victorious ?"
+ ], 
+ "P676": [
+  "Which SPPS were not written by YYY ?", 
+  "Which SPPS were not written by YYY ?", 
+  "Which SPPS were not composed by YYY ?"
+ ], 
+ "P3095": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P816": [
+  "Which SPPS do not decay to form YYY ?", 
+  "Which SPPS do not form YYY on decaying ?", 
+  "Which SPPS do not decay to YYY ?"
+ ], 
+ "P1995": [
+  "Which SPPS are not the ones associated with YYY ?", 
+  "Which SPPS are not the ones associated with YYY ?", 
+  "Which SPPS do not have an association with YYY ?"
+ ], 
+ "P195": [
+  "Which SPPS are not parts of YYY ?", 
+  "Which SPPS are not parts of YYY ?", 
+  "Which SPPS are n't contained in YYY ?"
+ ], 
+ "P520": [
+  "Which SPPS are not loaded with YYY ?", 
+  "Which SPPS arent loaded with YYY ?", 
+  "Which SPPS do not supply YYY ?"
+ ], 
+ "P1389": [
+  "Which SPPS do not have certification of YYY ?", 
+  "Which SPPS dont have certification of YYY ?", 
+  "Which SPPS do not have YYY as certification ?"
+ ], 
+ "P289": [
+  "Which SPPS are n't classified as YYY ?", 
+  "Which SPPS aren't classified as YYY ?", 
+  "Which SPPS do n't belong to the classification YYY ?"
+ ], 
+ "P1411": [
+  "Which SPPS were not given nomination for YYY ?", 
+  "Which SPPS werent given nomination for YYY ?", 
+  "Which SPPS were not forwarded for YYY ?"
+ ], 
+ "P800": [
+  "Which SPPS do not have YYY as work ?", 
+  "Which SPPS donot have YYY as work ?", 
+  "Which SPPS dont have YYY as important work ?"
+ ], 
+ "P1412": [
+  "Which SPPS do not have language named YYY ?", 
+  "Which SPPS dont have language named YYY ?", 
+  "Which SPPS donot have language called YYY ?"
+ ], 
+ "P282": [
+  "Which SPPS do not have writing program as YYY ?", 
+  "Which SPPS dont have their writing program as YYY ?", 
+  "Which SPPS donot have YYY as writing program ?"
+ ], 
+ "P169": [
+  "Which SPPS do not have ceo named YYY ?", 
+  "Which SPPS do not have ceo named YYY ?", 
+  "Which SPPS do not have YYY named ceo ?"
+ ], 
+ "P914": [
+  "Which SPPS do not use USK rating as YYY ?", 
+  "Which SPPS do not use YYY type USK rating ?", 
+  "Which SPPS do not allows for YYY type USK rating ?"
+ ], 
+ "P915": [
+  "Which SPPS were not shot at YYY ?", 
+  "Which SPPS were not shot at YYY ?", 
+  "Which SPPS were not recorded at YYY ?"
+ ], 
+ "P206": [
+  "Which SPPS are not adjacent to YYY ?", 
+  "Which SPPS arent adjacent to YYY ?", 
+  "Which SPPS are not found next to YYY ?"
+ ], 
+ "P1142": [
+  "Which SPPS are not the political figures of YYY ?", 
+  "Which SPPS arent the political figures of YYY ?", 
+  "Which SPPS are not a part of YYY politically ?"
+ ], 
+ "P991": [
+  "Which SPPS do not have candidates named YYY ?", 
+  "Which SPPS do not have candidates named YYY ?", 
+  "Which SPPS do not have YYY as candidates ?"
+ ], 
+ "P750": [
+  "Which SPPS are not the distributors of YYY ?", 
+  "Which SPPS do not serve as distributors of YYY ?", 
+  "Which SPPS do not distribute YYY ?"
+ ], 
+ "P921": [
+  "Which SPPS did not have YYY as their primary topic of work ?", 
+  "Which SPPS did not have YYY as their primary topic of work ?", 
+  "Which SPPS did not have YYY as their main subject ?"
+ ], 
+ "P1303": [
+  "Which SPPS did not perform YYY ?", 
+  "Which SPPS did not perform YYY ?", 
+  "Which SPPS did not play YYY ?"
+ ], 
+ "P201": [
+  "Which SPPS do not have lake named YYY ?", 
+  "Which SPPS dont have lake named YYY ?", 
+  "Which SPPS do not have outflow lake of YYY ?"
+ ], 
+ "P2860": [
+  "Which SPPS did not refer to YYY ?", 
+  "Which SPPS did not cite YYY ?", 
+  "Which SPPS did not give reference to YYY ?"
+ ], 
+ "P611": [
+  "Which SPPS do not have religious link to YYY ?", 
+  "Which SPPS do not have any religious connections to YYY ?", 
+  "Which SPPS do not have YYY as religious link ?"
+ ], 
+ "P610": [
+  "Which SPPS do n't have a highest point of YYY ?", 
+  "Which SPPS 's highest point is not YYY ?", 
+  "Which SPPS do n't have YYY as their most elevated point ?"
+ ], 
+ "P127": [
+  "Which SPPS do not have YYY as their owner ?", 
+  "Which SPPS 's owner is not YYY ?", 
+  "Which SPPS do not have an owner named YYY ?"
+ ], 
+ "P126": [
+  "Which SPPS are not kept by YYY ?", 
+  "Which SPPS arent kept by YYY ?", 
+  "Which SPPS are not established by YYY ?"
+ ], 
+ "P3275": [
+  "Which SPPS do not have artist name YYY ?", 
+  "Which SPPS do not have artist name YYY ?", 
+  "Which SPPS do not have YYY as artist ?"
+ ], 
+ "P88": [
+  "Which SPPS were not supported by YYY ?", 
+  "Which SPPS were not supported by YYY ?", 
+  "Which SPPS were not encouraged by YYY ?"
+ ], 
+ "P123": [
+  "Which SPPS were not published by YYY ?", 
+  "Which SPPS werent published by YYY ?", 
+  "Which SPPS 's publisher's name is not YYY ?"
+ ], 
+ "P122": [
+  "Which SPPS do not have YYY as government ?", 
+  "Which SPPS dont have YYY as government ?", 
+  "Which SPPS do not have government named YYY ?"
+ ], 
+ "P121": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS arent associated with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P789": [
+  "Which SPPS are not defined by YYY ?", 
+  "Which SPPS are not defined by YYY ?", 
+  "Which SPPS are not descirbed by YYY ?"
+ ], 
+ "P1028": [
+  "Which SPPS are not contributed by YYY ?", 
+  "Which SPPS are not contributed by YYY ?", 
+  "Which SPPS are not given by YYY ?"
+ ], 
+ "P81": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P200": [
+  "Which SPPS do n't have source as YYY ?", 
+  "Which SPPS dont have source as YYY ?", 
+  "Which SPPS do n't have YYY as source ?"
+ ], 
+ "P86": [
+  "Which SPPS are not made by YYY ?", 
+  "Which SPPS are not made by YYY ?", 
+  "Which SPPS are not created by YYY ?"
+ ], 
+ "P129": [
+  "Which SPPS do not react with YYY ?", 
+  "Which SPPS do not react with YYY ?", 
+  "Which SPPS are not reacting with YYY ?"
+ ], 
+ "P84": [
+  "Which SPPS were not a product of a design by YYY ?", 
+  "Which SPPS were not a product of a design by YYY ?", 
+  "Which SPPS not resulted from a design by YYY ?"
+ ], 
+ "P840": [
+  "Which SPPS do n't Have narratives at YYY ?", 
+  "Which SPPS do n't Have narratives at YYY ?", 
+  "Which SPPS do n't have narratives found at YYY ?"
+ ], 
+ "P841": [
+  "Which SPPS do not have YYY as feast day ?", 
+  "Which SPPS do not have YYY as feast day ?", 
+  "Which SPPS do not contain YYY as feast day ?"
+ ], 
+ "P1542": [
+  "Which SPPS are not caused by YYY ?", 
+  "Which SPPS are not caused by YYY ?", 
+  "Which SPPS are not generated by YYY ?"
+ ], 
+ "P880": [
+  "Which SPPS do not have cpu named YYY ?", 
+  "Which SPPS do not have cpu named YYY ?", 
+  "Which SPPS do not have cpu called YYY ?"
+ ], 
+ "P2548": [
+  "Which SPPS do n't have YYY as gene ?", 
+  "Which SPPS do n't have YYY as gene ?", 
+  "Which SPPS are not using YYY as gene ?"
+ ], 
+ "P972": [
+  "Which SPPS do not have a catalog of YYY ?", 
+  "Which SPPS do not have a catalog of YYY ?", 
+  "Which SPPS do not possess YYY as a catalog ?"
+ ], 
+ "P248": [
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not identified in YYY ?"
+ ], 
+ "P1071": [
+  "Which SPPS were not assembled at YYY ?", 
+  "Which SPPS were not assembled at YYY ?", 
+  "Which SPPS were not made at YYY ?"
+ ], 
+ "P1408": [
+  "Which SPPS can not broadcast to the YYY area ?", 
+  "Which SPPS can not broadcast to the YYY area ?", 
+  "Which SPPS do not hold the License for YYY ?"
+ ], 
+ "P355": [
+  "Which SPPS do n't have a subsidiary of YYY ?", 
+  "Which SPPS do n't have a subsidiary of YYY ?", 
+  "Which SPPS do n't have subsidiaries called YYY ?"
+ ], 
+ "P518": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P1399": [
+  "Which SPPS were not criminal in YYY ?", 
+  "Which SPPS were not criminal in YYY ?", 
+  "Which SPPS were not caught as criminal for YYY ?"
+ ], 
+ "P291": [
+  "Which SPPS were not printed in YYY ?", 
+  "Which SPPS were not printed in YYY ?", 
+  "Which SPPS have not been published in YYY ?"
+ ], 
+ "P1403": [
+  "Which SPPS do not have YYY as combination ?", 
+  "Which SPPS do not have YYY as combination ?", 
+  "Which SPPS do not have combinations named YYY ?"
+ ], 
+ "P1456": [
+  "Which SPPS do not have monuments in YYY ?", 
+  "Which SPPS do not have monuments in YYY ?", 
+  "Which SPPS do not have monuments in YYY ?"
+ ], 
+ "P3189": [
+  "Which SPPS did not have YYY as their nerves ?", 
+  "Which SPPS are not innervated by YYY ?", 
+  "Which SPPS do not possess YYY as their nerves ?"
+ ], 
+ "P2363": [
+  "Which SPPS do not have YYY as rating ?", 
+  "Which SPPS dont have YYY as rating ?", 
+  "Which SPPS dont have rating of YYY ?"
+ ], 
+ "P1013": [
+  "Which SPPS has no criterion of YYY ?", 
+  "Which SPPS has no criterion of YYY ?", 
+  "Which SPPS do n't contains criterion of YYY ?"
+ ], 
+ "P485": [
+  "Which SPPS has no archive in YYY ?", 
+  "Which SPPS has no archive in YYY ?", 
+  "Which SPPS did n't contain archives in YYY ?"
+ ], 
+ "P669": [
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P552": [
+  "Which SPPS did not obtain handedness as YYY ?", 
+  "Which SPPS did not obtain handedness as YYY ?", 
+  "Which SPPS did not have handedness as YYY ?"
+ ], 
+ "P186": [
+  "Which SPPS do not use YYY to make their product ?", 
+  "Which SPPS do not use YYY to make their product ?", 
+  "Which SPPS do not use the material YYY in their manufacturing process ?"
+ ], 
+ "P1312": [
+  "Which SPPS do n't have facets of YYY ?", 
+  "Which SPPS do n't have facets of YYY ?", 
+  "Which SPPS do n't contain facets of YYY ?"
+ ], 
+ "P1313": [
+  "Which SPPS do not have YYY as head ?", 
+  "Which SPPS 's head is not YYY ?", 
+  "Which SPPS do not have a head named YYY ?"
+ ], 
+ "P459": [
+  "Which SPPS were not determined through YYY ?", 
+  "Which SPPS were not determined through YYY ?", 
+  "Which SPPS were not obtained through YYY ?"
+ ], 
+ "P740": [
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not made by YYY ?"
+ ], 
+ "P6": [
+  "Which SPPS do not have heads of YYY ?", 
+  "Which SPPS do not have heads of YYY ?", 
+  "Which SPPS do not have YYY s heads ?"
+ ], 
+ "P190": [
+  "Which SPPS are not an acknowledged twin town to YYY ?", 
+  "Which SPPS are not an acknowledged twin town to YYY ?", 
+  "Which SPPS are not YYY 's sister cities ?"
+ ], 
+ "P453": [
+  "Which SPPS did not cast YYY ?", 
+  "Which SPPS did not cast YYY ?", 
+  "Which SPPS did not give YYY a cast ?"
+ ], 
+ "P452": [
+  "Which SPPS do not belong to YYY ?", 
+  "Which SPPS do not belong to YYY ?", 
+  "Which SPPS are not linked with YYY ?"
+ ], 
+ "P749": [
+  "Which SPPS do not have YYY as parent ?", 
+  "Which SPPS donot have YYY as parent ?", 
+  "Which SPPS dont have YYY as major organization ?"
+ ], 
+ "P748": [
+  "Which SPPS were not placed in office by YYY ?", 
+  "Which SPPS were not placed in office by YYY ?", 
+  "Which SPPS are not YYY 's appointees ?"
+ ], 
+ "P98": [
+  "Which SPPS are not proofread by YYY ?", 
+  "Which SPPS are not proofread by YYY ?", 
+  "Which SPPS do not overlook YYY ?"
+ ], 
+ "P113": [
+  "Which SPPS do not have airline in YYY ?", 
+  "Which SPPS do not have airline in YYY ?", 
+  "Which SPPS do not have YYY as airline ?"
+ ], 
+ "P110": [
+  "Which SPPS was not given illustration through YYY ?", 
+  "Which SPPS was not given illustration through YYY ?", 
+  "Which SPPS were not illustrated by YYY ?"
+ ], 
+ "P3263": [
+  "Which SPPS do n't have base of YYY ?", 
+  "Which SPPS do n't have base of YYY ?", 
+  "Which SPPS do n't have a base called YYY ?"
+ ], 
+ "P3075": [
+  "Which SPPS do not have YYY as religion ?", 
+  "Which SPPS do not have YYY as religion ?", 
+  "Which SPPS do not have religion named YYY ?"
+ ], 
+ "P3190": [
+  "Which SPPS are not innervated by YYY ?", 
+  "Which SPPS are not innervated by YYY ?", 
+  "Which SPPS have not been innervated through YYY ?"
+ ], 
+ "P115": [
+  "Which SPPS do not have YYY as home ?", 
+  "Which SPPS do not have YYY as home ?", 
+  "Which SPPS do not live in a home called YYY ?"
+ ], 
+ "P91": [
+  "Which SPPS do not have sexual position of YYY ?", 
+  "Which SPPS do not have sexual position of YYY ?", 
+  "Which SPPS do not have position for sex as YYY ?"
+ ], 
+ "P1884": [
+  "Which SPPS do not have hair color of YYY ?", 
+  "Which SPPS do not have YYY as their hair color ?", 
+  "Which SPPS dont have hair color of YYY ?"
+ ], 
+ "P1885": [
+  "Which SPPS do not use YYY as their cathderal ?", 
+  "Which SPPS do not use YYY as their cathderal ?", 
+  "Which SPPS did not identify YYY as their cathderal ?"
+ ], 
+ "P3174": [
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P97": [
+  "Which SPPS did not receive YYY ?", 
+  "Which SPPS did not receive YYY ?", 
+  "Which SPPS didnt receive YYY ?"
+ ], 
+ "P2978": [
+  "Which SPPS do not have a wheel arrangement of the form YYY ?", 
+  "Which SPPS do not have YYY type wheel arrangement ?", 
+  "Which SPPS do not have their wheels arranged as per YYY ?"
+ ], 
+ "P2417": [
+  "Which SPPS were not taken over by YYY ?", 
+  "Which SPPS were not taken over by YYY ?", 
+  "Which SPPS were not defeated by YYY ?"
+ ], 
+ "P690": [
+  "Which SPPS do not have space group named YYY ?", 
+  "Which SPPS do not have space group named YYY ?", 
+  "Which SPPS do not contain space group named YYY ?"
+ ], 
+ "P16": [
+  "Which SPPS have not system of YYY ?", 
+  "Which SPPS have not system of YYY ?", 
+  "Which SPPS have not YYY as system ?"
+ ], 
+ "P17": [
+  "Which SPPS are not found in YYY ?", 
+  "Which SPPS are not found in YYY ?", 
+  "Which SPPS are not contained in YYY ?"
+ ], 
+ "P19": [
+  "Which SPPS were not given birth at YYY ?", 
+  "Which SPPS were not given birth at YYY ?", 
+  "Which SPPS do not have their birth place at YYY ?"
+ ], 
+ "P859": [
+  "Which SPPS were not funded by YYY ?", 
+  "Which SPPS were not funded by YYY ?", 
+  "Which SPPS were not supported by YYY ?"
+ ], 
+ "P1064": [
+  "Which SPPS do not have gauge called YYY ?", 
+  "Which SPPS do not have gauge called YYY ?", 
+  "Which SPPS do not have YYY as gauge ?"
+ ], 
+ "P1066": [
+  "Which SPPS do not have YYY as student ?", 
+  "Which SPPS do not have YYY as student ?", 
+  "Which SPPS do not have YYY as learner ?"
+ ], 
+ "P509": [
+  "Which SPPS were not dead due to YYY ?", 
+  "Which SPPS were not dead due to YYY ?", 
+  "Which SPPS not died due to YYY ?"
+ ], 
+ "P184": [
+  "Which SPPS do not have advisors named YYY ?", 
+  "Which SPPS dont have advisors named YYY ?", 
+  "Which SPPS do not have YYY as their advisor ?"
+ ], 
+ "P112": [
+  "Which SPPS were not founded by YYY ?", 
+  "Which SPPS were not founded by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P3195": [
+  "Which SPPS are not using YYY as system ?", 
+  "Which SPPS are not using YYY as system ?", 
+  "Which SPPS have not used YYY as system ?"
+ ], 
+ "P1532": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P7": [
+  "Which SPPS are not the brother of YYY ?", 
+  "Which SPPS are not the brother of YYY ?", 
+  "Which SPPS do not have a brother called YYY ?"
+ ], 
+ "P183": [
+  "Which SPPS do not live solely in YYY ?", 
+  "Which SPPS do not live solely in YYY ?", 
+  "Which SPPS do not have YYY at their habitat ?"
+ ], 
+ "P344": [
+  "Which SPPS do not have a director of photography that is YYY ?", 
+  "Which SPPS do not have a director of photography that is YYY ?", 
+  "Which SPPS do not have a YYY director of photography ?"
+ ], 
+ "P2515": [
+  "Which SPPS did not have YYY as the costume designer ?", 
+  "Which SPPS's costume designing was not done by YYY ?", 
+  "Which SPPS had their costume designing done by somebody other than YYY ?"
+ ], 
+ "P189": [
+  "Which SPPS were not found at YYY ?", 
+  "Which SPPS were not found at YYY ?", 
+  "Which SPPS were not unearthed form YYY ?"
+ ], 
+ "P9": [
+  "Which SPPS do not have sisters named YYY ?", 
+  "Which SPPS do not have sisters named YYY ?", 
+  "Which SPPS do not have a sister known as YYY ?"
+ ], 
+ "P505": [
+  "Which SPPS are not managed by YYY ?", 
+  "Which SPPS do not have YYY as thier general manager ?", 
+  "Which SPPS does not have YYY as manager ?"
+ ], 
+ "P3150": [
+  "Which SPPS do not have birthday as YYY ?", 
+  "Which SPPS do not have birthday as YYY ?", 
+  "Which SPPS were was not born on YYY ?"
+ ], 
+ "P504": [
+  "Which SPPS do not have port named YYY ?", 
+  "Which SPPS do not have any port named YYY ?", 
+  "Which SPPS dont have YYY as port ?"
+ ], 
+ "P469": [
+  "Which SPPS are not flowing through YYY ?", 
+  "Which SPPS are not flowing through YYY ?", 
+  "Which SPPS do not move through YYY ?"
+ ], 
+ "P1080": [
+  "Which SPPS are not the ones belonging to YYY ?", 
+  "Which SPPS are not the ones belonging to YYY ?", 
+  "Which SPPS are the belongings not of YYY ?"
+ ], 
+ "P462": [
+  "Which SPPS have not YYY as color ?", 
+  "Which SPPS have not YYY as color ?", 
+  "Which SPPS does not contain YYY as color ?"
+ ], 
+ "P463": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P1001": [
+  "Which SPPS are not legally related with YYY ?", 
+  "Which SPPS are not legally related with YYY ?", 
+  "Which SPPS are not legally connected to YYY ?"
+ ], 
+ "P466": [
+  "Which SPPS are not contained by YYY ?", 
+  "Which SPPS are not contained by YYY ?", 
+  "Which SPPS are not possessed by YYY ?"
+ ], 
+ "P467": [
+  "Which SPPS were not legislated by YYY ?", 
+  "Which SPPS was YYY not responsible for legislation ?", 
+  "Which SPPS wasnt legislated by YYY ?"
+ ], 
+ "P358": [
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not described in YYY ?"
+ ], 
+ "P674": [
+  "Which SPPS do not start YYY ?", 
+  "Which SPPS dont start YYY ?", 
+  "Which SPPS do not give rise to YYY ?"
+ ], 
+ "P264": [
+  "Which SPPS do not have the record label of YYY ?", 
+  "Which SPPS dont have the record label of YYY ?", 
+  "Which SPPS do not contain the record label of YYY ?"
+ ], 
+ "P1923": [
+  "Which SPPS dont have any participant named YYY ?", 
+  "Which SPPS do not have any participant named YYY ?", 
+  "Which SPPS did not get any participation from YYY ?"
+ ], 
+ "P108": [
+  "Which SPPS were not hired by YYY ?", 
+  "Which SPPS were not hired by YYY ?", 
+  "Which SPPS were not engaged by YYY ?"
+ ], 
+ "P38": [
+  "Which SPPS do n't have YYY as currency ?", 
+  "Which SPPS do n't have YYY as currency ?", 
+  "Which SPPS are n't using YYY as currency ?"
+ ], 
+ "P105": [
+  "Which SPPS dont have the rank of YYY ?", 
+  "Which SPPS do not have YYY as their rank ?", 
+  "Which SPPS do not have the rank of YYY ?"
+ ], 
+ "P106": [
+  "Which SPPS are not working as YYY ?", 
+  "Which SPPS are not working as YYY ?", 
+  "Which SPPS do not have occupation named YYY ?"
+ ], 
+ "P101": [
+  "Which SPPS performs work not related to YYY ?", 
+  "Which SPPS performs work not related to YYY ?", 
+  "Which SPPS is not in the industry related to YYY ?"
+ ], 
+ "P103": [
+  "Which SPPS do not have YYY as language ?", 
+  "Which SPPS dont have YYY as language ?", 
+  "Which SPPS 's mother tongue is not YYY ?"
+ ], 
+ "P102": [
+  "Which SPPS were not related with YYY ?", 
+  "Which SPPS were not related with YYY ?", 
+  "Which SPPS were not working as a member in YYY ?"
+ ], 
+ "P25": [
+  "Which SPPS do not have mother named YYY ?", 
+  "Which SPPS do not have mother named YYY ?", 
+  "Which SPPS do not have YYY as their mother?"
+ ], 
+ "P27": [
+  "Which SPPS do n't have nationality of YYY ?", 
+  "Which SPPS do n't have nationality of YYY ?", 
+  "Which SPPS do n't have YYY as nationality ?"
+ ], 
+ "P26": [
+  "Which SPPS are not married to YYY ?", 
+  "Which SPPS are not married to YYY ?", 
+  "Which SPPS do not have a spouse name YYY ?"
+ ], 
+ "P21": [
+  "Which SPPS do not have gender of YYY ?", 
+  "Which SPPS do not have gender of YYY ?", 
+  "Which SPPS do not have YYY as gender ?"
+ ], 
+ "P20": [
+  "Which SPPS did not die at YYY ?", 
+  "Which SPPS did not die at YYY ?", 
+  "Which SPPS are not found dead at YYY ?"
+ ], 
+ "P22": [
+  "Which SPPS do not have fathers named YYY ?", 
+  "Which SPPS do not have fathers named YYY ?", 
+  "Which SPPS do not have YYY as fathers ?"
+ ], 
+ "P837": [
+  "Which SPPS do not fall on YYY ?", 
+  "Which SPPS dont fall on YYY ?", 
+  "Which SPPS have not been falling on YYY ?"
+ ], 
+ "P1383": [
+  "Which SPPS do not have YYY ?", 
+  "Which SPPS do not have YYY ?", 
+  "Which SPPS did not possess YYY ?"
+ ], 
+ "P1039": [
+  "Which SPPS are not distantly related to YYY ?", 
+  "Which SPPS are not distantly related to YYY ?", 
+  "Which SPPS do not have YYY as a distant relative ?"
+ ], 
+ "P1038": [
+  "Which SPPS do not have relatives named YYY ?", 
+  "Which SPPS do not have relatives named YYY ?", 
+  "Which SPPS do not have relatives called YYY ?"
+ ], 
+ "P739": [
+  "Which SPPS do not have YYY as ammo ?", 
+  "Which SPPS dont have YYY as ammo ?", 
+  "Which SPPS are not using ammo called YYY ?"
+ ], 
+ "P2747": [
+  "Which SPPS do n't have rating of YYY ?", 
+  "Which SPPS do n't have rating of YYY ?", 
+  "Which SPPS do n't have YYY as rating ?"
+ ], 
+ "P376": [
+  "Which SPPS are not found on YYY ?", 
+  "Which SPPS are not found on YYY ?", 
+  "Which SPPS are not established on YYY ?"
+ ], 
+ "P138": [
+  "Which SPPS are not named after YYY ?", 
+  "Which SPPS are not named after YYY ?", 
+  "Which SPPS were not given names after YYY ?"
+ ], 
+ "P3148": [
+  "Which SPPS did not cancel YYY ?", 
+  "Which SPPS did not cancel YYY ?", 
+  "Which SPPS did not invalidate YYY ?"
+ ], 
+ "P375": [
+  "Which SPPS were not started in YYY ?", 
+  "Which SPPS were not started in YYY ?", 
+  "Which SPPS did not start in YYY ?"
+ ], 
+ "P1037": [
+  "Which SPPS are not directed by YYY ?", 
+  "Which SPPS are not directed by YYY ?", 
+  "Which SPPS are not run by YYY ?"
+ ], 
+ "P411": [
+  "Which SPPS not achieved sainthood status of YYY ?", 
+  "Which SPPS not achieved sainthood status of YYY ?", 
+  "Which SPPS are not ranked for sainthood at YYY ?"
+ ], 
+ "P802": [
+  "Which SPPS are not students of YYY ?", 
+  "Which SPPS are not students of YYY ?", 
+  "Which SPPS are not important students of YYY ?"
+ ], 
+ "P371": [
+  "Which SPPS is not hosted by YYY ?", 
+  "Which SPPS does not have a host named YYY ?", 
+  "Which SPPS does not have YYY as host ?"
+ ], 
+ "P3279": [
+  "Which SPPS do not have leaders named YYY ?", 
+  "Which SPPS do not have leaders named YYY ?", 
+  "Which SPPS do n't have YYY as leader ?"
+ ], 
+ "P180": [
+  "Which SPPS are not depicting YYY ?", 
+  "Which SPPS are not depicting YYY ?", 
+  "Which SPPS have not depicted YYY ?"
+ ], 
+ "P410": [
+  "Which SPPS individually dont hold YYY ?", 
+  "Which SPPS individually dont hold YYY ?", 
+  "Which SPPS have not achieved YYY ?"
+ ], 
+ "P769": [
+  "Which SPPS do not have interactions with YYY ?", 
+  "Which SPPS do not have interactions with YYY ?", 
+  "Which SPPS do not have reactions with YYY ?"
+ ], 
+ "P768": [
+  "Which SPPS does n't represent YYY ?", 
+  "Which SPPS does n't represent YYY ?", 
+  "Which SPPS are n't representing YYY ?"
+ ], 
+ "P2293": [
+  "Which SPPS are not associated with YYY ?", 
+  "Which SPPS are not associated with YYY ?", 
+  "Which SPPS are not linked with YYY ?"
+ ], 
+ "P765": [
+  "Which SPPS are not performed on YYY ?", 
+  "Which SPPS are not performed on YYY ?", 
+  "Which SPPS are not working on YYY ?"
+ ], 
+ "P767": [
+  "Which SPPS do not have contributor named YYY ?", 
+  "Which SPPS do not have contributor named YYY ?", 
+  "Which SPPS do not have contributor named YYY ?"
+ ], 
+ "P277": [
+  "Which SPPS are not created by YYY ?", 
+  "Which SPPS are not created by YYY ?", 
+  "Which SPPS are not made for YYY ?"
+ ], 
+ "P276": [
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P532": [
+  "Which SPPS do not have registry of YYY ?", 
+  "Which SPPS do not have registry of YYY ?", 
+  "Which SPPS do not have YYY as registry ?"
+ ], 
+ "P272": [
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not made by YYY ?"
+ ], 
+ "P3216": [
+  "Which SPPS do n't incorporate the YYY ClassInd rating ?", 
+  "Which SPPS do n't incorporate the YYY ClassInd rating ?", 
+  "Which SPPS do n't hold the ClassInd rating of YYY ?"
+ ], 
+ "P170": [
+  "Which SPPS are not artistic achievements by YYY ?", 
+  "Which SPPS are not artistic achievements by YYY ?", 
+  "Which SPPS are not works of art by YYY ?"
+ ], 
+ "P171": [
+  "Which SPPS does not have a parent taxon of YYY ?", 
+  "Which SPPS does not have a parent taxon of YYY ?", 
+  "Which SPPS does not have , as its parent taxon , YYY ?"
+ ], 
+ "P172": [
+  "Which SPPS do not have ethnic group named YYY ?", 
+  "Which SPPS do not have ethnic group named YYY ?", 
+  "Which SPPS do not have YYY as group ?"
+ ], 
+ "P1441": [
+  "Which SPPS are not found in YYY ?", 
+  "Which SPPS are not found in YYY ?", 
+  "Which SPPS are not contained in YYY ?"
+ ], 
+ "P175": [
+  "Which SPPS were n't performed by YYY ?", 
+  "Which SPPS were n't done by YYY ?", 
+  "Which SPPS were n't enacted by YYY ?"
+ ], 
+ "P176": [
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not made by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P177": [
+  "Which SPPS do not cross through YYY ?", 
+  "Which SPPS do not cross through YYY ?", 
+  "Which SPPS do not cross across YYY ?"
+ ], 
+ "P1455": [
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not mentioned in YYY ?", 
+  "Which SPPS are not identified in YYY ?"
+ ], 
+ "P516": [
+  "Which SPPS do not get powers from YYY ?", 
+  "Which SPPS do not get powers from YYY ?", 
+  "Which SPPS did not obtain powers from YYY ?"
+ ], 
+ "P1435": [
+  "Which SPPS do not have a status of YYY ?", 
+  "Which SPPS do not have a status of YYY ?", 
+  "Which SPPS have not YYY as status ?"
+ ], 
+ "P39": [
+  "Which SPPS did not held YYY ?", 
+  "Which SPPS did not held YYY ?", 
+  "Which SPPS did not contained YYY ?"
+ ], 
+ "P974": [
+  "Which SPPS do not have YYY as stream ?", 
+  "Which SPPS do not have YYY as stream ?", 
+  "Which SPPS do not have YYY as river ?"
+ ], 
+ "P1431": [
+  "Which SPPS do n't have producer of YYY ?", 
+  "Which SPPS do n't have producer of YYY ?", 
+  "Which SPPS do n't have YYY as producer ?"
+ ], 
+ "P1433": [
+  "Which SPPS were not shown in YYY ?", 
+  "Which SPPS were not shown in YYY ?", 
+  "Which SPPS were not written in YYY ?"
+ ], 
+ "P30": [
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P2453": [
+  "Which SPPS was not nominating YYY ?", 
+  "Which SPPS was not nominating YYY ?", 
+  "Which SPPS have not nominated YYY ?"
+ ], 
+ "P36": [
+  "Which SPPS do not have capitals named YYY ?", 
+  "Which SPPS do not have capitals named YYY ?", 
+  "Which SPPS do not have YYY as capital ?"
+ ], 
+ "P37": [
+  "Which SPPS do not use the official language YYY ?", 
+  "Which SPPS do not use the official language YYY ?", 
+  "Which SPPS do not have the official language YYY ?"
+ ], 
+ "P178": [
+  "Which SPPS were not developed by YYY ?", 
+  "Which SPPS were not developed by YYY ?", 
+  "Which SPPS were not created by YYY ?"
+ ], 
+ "P400": [
+  "Which SPPS were not made for YYY ?", 
+  "Which SPPS were not made for YYY ?", 
+  "Which SPPS were not created for YYY ?"
+ ], 
+ "P1454": [
+  "Which SPPS do not have legal form of YYY ?", 
+  "Which SPPS dont have legal form of YYY ?", 
+  "Which SPPS dont have a legal condition named YYY ?"
+ ], 
+ "P1576": [
+  "Which SPPS do not have lifestyle named YYY ?", 
+  "Which SPPS do not have lifestyle named YYY ?", 
+  "Which SPPS do not have lifestyle called YYY ?"
+ ], 
+ "P403": [
+  "Which SPPS do not have , as its drain , YYY ?", 
+  "Which SPPS do not have , as its drain , YYY ?", 
+  "Which SPPS do not have YYY operating as its drain ?"
+ ], 
+ "P655": [
+  "Which SPPS does n't have translator called YYY ?", 
+  "Which SPPS does n't have translator called YYY ?", 
+  "Which SPPS are without a translator named YYY ?"
+ ], 
+ "P407": [
+  "Which SPPS do not have a language of YYY ?", 
+  "Which SPPS do not have a language of YYY ?", 
+  "Which SPPS do not have YYY as language ?"
+ ], 
+ "P361": [
+  "Which SPPS are not a component of YYY ?", 
+  "Which SPPS are not a component of YYY ?", 
+  "Which SPPS are not a portion of YYY ?"
+ ], 
+ "P658": [
+  "Which SPPS do not contain YYY in list ?", 
+  "Which SPPS do not contain YYY in list ?", 
+  "Which SPPS have list without YYY ?"
+ ], 
+ "P364": [
+  "Which SPPS do n't have mother tongue named YYY ?", 
+  "Which SPPS do n't have mother tongue named YYY ?", 
+  "Which SPPS do n't have YYY as mother tongue ?"
+ ], 
+ "P366": [
+  "Which SPPS do n't have YYY as its general use ?", 
+  "Which SPPS do n't have YYY as its general use ?", 
+  "Which SPPS do n't have , as its general use , YYY ?"
+ ], 
+ "P2439": [
+  "Which SPPS do n't have as their associated language YYY ?", 
+  "Which SPPS do n't have as their associated language YYY ?", 
+  "Which SPPS are n't associated with the language YYY ?"
+ ], 
+ "P3173": [
+  "Which SPPS do not have its official religion as YYY ?", 
+  "Which SPPS do not have its official religion as YYY ?", 
+  "Which SPPS can not view YYY ?"
+ ], 
+ "P870": [
+  "Which SPPS do not have YYY as instrument ?", 
+  "Which SPPS do not have YYY as instrument ?", 
+  "Which SPPS are not using YYY as instrument ?"
+ ], 
+ "P710": [
+  "Which SPPS have not participant named YYY ?", 
+  "Which SPPS have not participant named YYY ?", 
+  "Which SPPS did not get participation from YYY ?"
+ ], 
+ "P566": [
+  "Which SPPS did not have YYY as their original name ?", 
+  "Which SPPS did not have YYY as their original name ?", 
+  "Which SPPS were not originally named YYY ?"
+ ], 
+ "P1344": [
+  "Which SPPS have not participated in YYY ?", 
+  "Which SPPS have not participated in YYY ?", 
+  "Which SPPS have not took part in YYY ?"
+ ], 
+ "P560": [
+  "Which SPPS do not have directional identifiers of YYY ?", 
+  "Which SPPS do not have directional identifiers of YYY ?", 
+  "Which SPPS do not have identifiers of direction as YYY ?"
+ ], 
+ "P488": [
+  "Which SPPS do not have chairperson named YYY ?", 
+  "Which SPPS do not have chairperson named YYY ?", 
+  "Which SPPS do not have YYY as chariperson ?"
+ ], 
+ "P3320": [
+  "Which SPPS do not have members named YYY ?", 
+  "Which SPPS do not have members named YYY ?", 
+  "Which SPPS do not have YYY as members ?"
+ ], 
+ "P1533": [
+  "Which SPPS are not similar to YYY ?", 
+  "Which SPPS are not similar to YYY ?", 
+  "Which SPPS are not resembling YYY ?"
+ ], 
+ "P241": [
+  "Which SPPS do not have YYY as branch ?", 
+  "Which SPPS do not have YYY as branch ?", 
+  "Which SPPS are not using YYY as a branch ?"
+ ], 
+ "P119": [
+  "Which SPPS do not have a YYY place of burial ?", 
+  "Which SPPS do not have a YYY place of burial ?", 
+  "Which SPPS do not have its place of burial as YYY ?"
+ ], 
+ "P163": [
+  "Which SPPS do n't have YYY flag ?", 
+  "Which SPPS do n't have YYY flag ?", 
+  "Which SPPS have not named its flag YYY ?"
+ ], 
+ "P162": [
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not made by YYY ?"
+ ], 
+ "P161": [
+  "Which SPPS does not have YYY as actor ?", 
+  "Which SPPS does not have YYY as actor ?", 
+  "Which SPPS are there with YYY not as actor ?"
+ ], 
+ "P166": [
+  "Which SPPS were not awarded YYY ?", 
+  "Which SPPS were not awarded YYY ?", 
+  "Which SPPS did not get award of YYY ?"
+ ], 
+ "P3113": [
+  "Which SPPS are not having YYY ?", 
+  "Which SPPS are not having YYY ?", 
+  "Which SPPS are not lacking YYY ?"
+ ], 
+ "P286": [
+  "Which SPPS do n't have coach named YYY ?", 
+  "Which SPPS do n't have coach named YYY ?", 
+  "Which SPPS do n't have YYY as coach ?"
+ ], 
+ "P69": [
+  "Which SPPS did n't go to school at YYY ?", 
+  "Which SPPS did n't go to school at YYY ?", 
+  "Which SPPS are not an alumnus of YYY ?"
+ ], 
+ "P512": [
+  "Which SPPS have degrees not named YYY ?", 
+  "Which SPPS have degrees not named YYY ?", 
+  "Which SPPS have not YYY as their degree ?"
+ ], 
+ "P559": [
+  "Which SPPS do not have terminus as YYY ?", 
+  "Which SPPS do not have terminus as YYY ?", 
+  "Which SPPS do not contain terminus as YYY ?"
+ ], 
+ "P1427": [
+  "Which SPPS do n't have YYY as start points ?", 
+  "Which SPPS do n't have YYY as start points ?", 
+  "Which SPPS do n't contain YYY as start point ?"
+ ], 
+ "P47": [
+  "Which SPPS do not have a similar border of YYY ?", 
+  "Which SPPS do not have a similar border of YYY ?", 
+  "Which SPPS does not have the same borders like YYY ?"
+ ], 
+ "P3264": [
+  "Which SPPS do not have a radix that is YYY ?", 
+  "Which SPPS do not have a radix that is YYY ?", 
+  "Which SPPS do not have a YYY radix ?"
+ ], 
+ "P1853": [
+  "Which SPPS do n't have as their blood group YYY ?", 
+  "Which SPPS do n't have as their blood group YYY ?", 
+  "Which SPPS are not associated with YYY as their blood group ?"
+ ], 
+ "P35": [
+  "Which SPPS are not led by YYY as chief of state ?", 
+  "Which SPPS are not led by YYY as chief of state ?", 
+  "Which SPPS do not have YYY as its leader ?"
+ ], 
+ "P2348": [
+  "Which SPPS did not occur in YYY ?", 
+  "Which SPPS did not occur in YYY ?", 
+  "Which SPPS to not place in YYY ?"
+ ], 
+ "P40": [
+  "Which SPPS does not have YYY as a child ?", 
+  "Which SPPS does not have YYY as a child ?", 
+  "Which SPPS are without YYY as a child ?"
+ ], 
+ "P413": [
+  "Which SPPS not played YYY ?", 
+  "Which SPPS not played YYY ?", 
+  "Which SPPS not performed YYY ?"
+ ], 
+ "P412": [
+  "Which SPPS does not have YYY as a voice type ?", 
+  "Which SPPS does not have YYY as a voice type ?", 
+  "Which SPPS does not contain YYY as voice type ?"
+ ], 
+ "P1444": [
+  "Which SPPS has not YYY as destination ?", 
+  "Which SPPS has not YYY as destination ?", 
+  "Which SPPS has not destination named YYY ?"
+ ], 
+ "P1445": [
+  "Which SPPS do n't give us an image of a fictional universe in YYY ?", 
+  "Which SPPS do n't give us an image of a fictional universe in YYY ?", 
+  "Which SPPS ca n't be used to represent a fictional universe in YYY ?"
+ ], 
+ "P417": [
+  "Which SPPS did not chose YYY as its patron saint ?", 
+  "Which SPPS did not chose YYY as its patron saint ?", 
+  "Which SPPS do not have a patron saint in YYY ?"
+ ], 
+ "P479": [
+  "Which SPPS do not have a YYY input device ?", 
+  "Which SPPS do not have a YYY input device ?", 
+  "Which SPPS do not need a YYY to use as input devices ?"
+ ], 
+ "P414": [
+  "Which SPPS are not trading at YYY ?", 
+  "Which SPPS are not trading at YYY ?", 
+  "Which SPPS have not been traded at YYY ?"
+ ], 
+ "P1462": [
+  "Which SPPS are not given standards by YYY ?", 
+  "Which SPPS arent given standards by YYY ?", 
+  "Which SPPS's standards are not checked by YYY ?"
+ ], 
+ "P826": [
+  "Which SPPS have not YYY as key ?", 
+  "Which SPPS have not YYY as key ?", 
+  "Which SPPS are not using YYY as key ?"
+ ], 
+ "P1750": [
+  "Which SPPS do not have a name day of YYY ?", 
+  "Which SPPS do not have a name day of YYY ?", 
+  "Which SPPS are not using YYY as name day ?"
+ ], 
+ "P825": [
+  "Which SPPS are not given to YYY ?", 
+  "Which SPPS are not given to YYY ?", 
+  "Which SPPS arent made for YYY ?"
+ ], 
+ "P157": [
+  "Which SPPS were not murdered by YYY ?", 
+  "Which SPPS were not murdered by YYY ?", 
+  "Which SPPS were not assassinated YYY ?"
+ ], 
+ "P708": [
+  "Which SPPS do not have YYY as their admin ?", 
+  "Which SPPS do not have YYY as their admin ?", 
+  "Which SPPS do not have admin called YYY ?"
+ ], 
+ "P193": [
+  "Which SPPS not built YYY ?", 
+  "Which SPPS not built YYY ?", 
+  "Which SPPS not constructed YYY ?"
+ ], 
+ "P703": [
+  "Which SPPS are not located in YYY ?", 
+  "Which SPPS are not located in YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P702": [
+  "Which SPPS are not protected thought YYY ?", 
+  "Which SPPS are not protected thought YYY ?", 
+  "Which SPPS were not given codes through YYY ?"
+ ], 
+ "P2643": [
+  "Which SPPS are not classified as YYY ?", 
+  "Which SPPS are not classified as YYY ?", 
+  "Which SPPS are not identified as YYY ?"
+ ], 
+ "P551": [
+  "Which SPPS are not living at YYY ?", 
+  "Which SPPS are not living at YYY ?", 
+  "Which SPPS are not residing at YYY ?"
+ ], 
+ "P556": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P629": [
+  "Which SPPS are not the versions of YYY ?", 
+  "Which SPPS are not the versions of YYY ?", 
+  "Which SPPS are not an edition of YYY ?"
+ ], 
+ "P159": [
+  "Which SPPS have no headquarter in YYY ?", 
+  "Which SPPS have no headquarter in YYY ?", 
+  "Which SPPS do n't have YYY as location of headquarters ?"
+ ], 
+ "P636": [
+  "Which SPPS are not route for YYY ?", 
+  "Which SPPS are not route for YYY ?", 
+  "Which SPPS do not have YYY as route ?"
+ ], 
+ "P397": [
+  "Which SPPS does not have YYY as parent ?", 
+  "Which SPPS does not have YYY as parent ?", 
+  "Which SPPS does not have parent named YYY ?"
+ ], 
+ "P828": [
+  "Which SPPS are not started through YYY ?", 
+  "Which SPPS are not started through YYY ?", 
+  "Which SPPS are not a cause of YYY ?"
+ ], 
+ "P664": [
+  "Which SPPS were not managed by YYY ?", 
+  "Which SPPS were not managed by YYY ?", 
+  "Which SPPS do not have manager named YYY ?"
+ ], 
+ "P1382": [
+  "Which SPPS are not overlapping on YYY ?", 
+  "Which SPPS are not overlapping on YYY ?", 
+  "Which SPPS have not overlapped through YYY ?"
+ ], 
+ "P398": [
+  "Which SPPS do not have YYY a satellite ?", 
+  "Which SPPS do not have YYY a satellite ?", 
+  "Which SPPS do not possess YYY as satellite ?"
+ ], 
+ "P85": [
+  "Which SPPS do not use YYY as their anthem ?", 
+  "Which SPPS do not use YYY as their anthem ?", 
+  "Which SPPS do not play YYY as their national anthem > ?"
+ ], 
+ "P495": [
+  "Which SPPS do n't have YYY as their origination points ?", 
+  "Which SPPS do n't have YYY as their origination points ?", 
+  "Which SPPS do n't originally come from YYY ?"
+ ], 
+ "P706": [
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not found at YYY ?", 
+  "Which SPPS are not present at YYY ?"
+ ], 
+ "P1990": [
+  "Which SPPS do not possess species of YYY ?", 
+  "Which SPPS do not possess species of YYY ?", 
+  "Which SPPS did not contained species of YYY ?"
+ ], 
+ "P408": [
+  "Which SPPS do not have YYY as engine ?", 
+  "Which SPPS dont have engine as YYY ?", 
+  "Please state which SPPS do not possesses YYY as engine ?"
+ ], 
+ "P793": [
+  "Which SPPS were not associated with YYY ?", 
+  "Which SPPS were not associated with YYY ?", 
+  "Which SPPS did n't have YYY as a key incident ?"
+ ], 
+ "P58": [
+  "Which SPPS do not have YYY working as writers ?", 
+  "Which SPPS do not have YYY working as writers ?", 
+  "Which SPPS do not have YYY as writers ?"
+ ], 
+ "P194": [
+  "Which SPPS do not have legislative bodies of YYY ?", 
+  "Which SPPS dont have legislative bodies of YYY ?", 
+  "Which SPPS dont own legal bodies named YYY ?"
+ ], 
+ "P287": [
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not made by YYY ?"
+ ], 
+ "P54": [
+  "Which SPPS are not working as members of YYY ?", 
+  "Which SPPS are not working as members of YYY ?", 
+  "Which SPPS are not participating in YYY ?"
+ ], 
+ "P196": [
+  "Which SPPS do n't have YYY in group ?", 
+  "Which SPPS do n't have YYY in group ?", 
+  "Which SPPS do n't have group member named YYY ?"
+ ], 
+ "P57": [
+  "Which SPPS do not have a director named YYY ?", 
+  "Which SPPS do not have a director named YYY ?", 
+  "Which SPPS do not have YYY as director ?"
+ ], 
+ "P50": [
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not created by YYY ?", 
+  "Which SPPS were not made by YYY ?"
+ ], 
+ "P1029": [
+  "Which SPPS do not have crew of YYY ?", 
+  "Which SPPS do not have crew of YYY ?", 
+  "Which SPPS are not using YYY as crew ?"
+ ], 
+ "P3092": [
+  "Which SPPS donot have YYY as member ?", 
+  "Which SPPS donot have YYY as member ?", 
+  "Which SPPS donot have a member named YYY ?"
+ ], 
+ "P53": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P3093": [
+  "Which SPPS were not obtained by YYY ?", 
+  "Which SPPS were not obtained by YYY ?", 
+  "Which SPPS did not get recovery through YYY ?"
+ ], 
+ "P737": [
+  "Which SPPS did not get influence through YYY ?", 
+  "Which SPPS did not get influence through YYY ?", 
+  "Which SPPS did not have an impact through YYY ?"
+ ], 
+ "P3091": [
+  "Which SPPS do not have steed instead of YYY ?", 
+  "Which SPPS do not have steed instead of YYY ?", 
+  "Which SPPS are not using YYY as a steed ?"
+ ], 
+ "P735": [
+  "Which SPPS do not have name of YYY ?", 
+  "Which SPPS do not have name of YYY ?", 
+  "Which SPPS do not have given name of YYY ?"
+ ], 
+ "P541": [
+  "Which SPPS were not contested for YYY ?", 
+  "Which SPPS did not contest for YYY ?", 
+  "Which SPPS did not run for YYY ?"
+ ], 
+ "P2522": [
+  "Which SPPS did not got victory in YYY ?", 
+  "Which SPPS did not got victory in YYY ?", 
+  "Which SPPS did not got success in YYY ?"
+ ], 
+ "P2416": [
+  "Which SPPS were not accomplished in YYY ?", 
+  "Which SPPS were not accomplished in YYY ?", 
+  "Which SPPS were not done in YYY ?"
+ ], 
+ "P3179": [
+  "Which SPPS have not territory that overlaps with YYY ?", 
+  "Which SPPS have not territory that overlaps with YYY ?", 
+  "Which SPPS have not part or all of the area associated with it overlapping with part of all of the area associated with YYY ?"
+ ], 
+ "P2061": [
+  "Which SPPS do n't have ratios of YYY ?", 
+  "Which SPPS do n't have ratios of YYY ?", 
+  "Which SPPS do n't have YYY as ratio ?"
+ ], 
+ "P59": [
+  "Which SPPS are not a component of YYY ?", 
+  "Which SPPS are not a component of YYY ?", 
+  "Which SPPS are not a portion of YYY ?"
+ ], 
+ "P425": [
+  "Which SPPS do not belong to YYY ?", 
+  "Which SPPS do not belong to YYY ?", 
+  "Which SPPS do not belong to YYY ?"
+ ], 
+ "P930": [
+  "Which SPPS do n't have type of YYY ?", 
+  "Which SPPS do n't have type of YYY ?", 
+  "Which SPPS do n't have YYY as type ?"
+ ], 
+ "P931": [
+  "Which SPPS are not serving YYY ?", 
+  "Which SPPS are not serving YYY ?", 
+  "Which SPPS are not showing YYY ?"
+ ], 
+ "P421": [
+  "Which SPPS has not time zone of YYY ?", 
+  "Which SPPS has not time zone of YYY ?", 
+  "Which SPPS does not contains time zone of YYY ?"
+ ], 
+ "P140": [
+  "Which SPPS are not affiliated with YYY ?", 
+  "Which SPPS are not affiliated with YYY ?", 
+  "Which SPPS are not religiously connected to YYY ?"
+ ], 
+ "P3137": [
+  "Which SPPS have not YYY as peak ?", 
+  "Which SPPS have not YYY as peak ?", 
+  "Which SPPS have not YYY as a parent peak ?"
+ ], 
+ "P790": [
+  "Which SPPS are not given approval through YYY ?", 
+  "Which SPPS are not given approval through YYY ?", 
+  "Which SPPS have not been approved through YYY ?"
+ ], 
+ "P144": [
+  "Which SPPS were not adapted from YYY ?", 
+  "Which SPPS were not adapted from YYY ?", 
+  "Which SPPS were not based on a work form YYY ?"
+ ], 
+ "P3094": [
+  "Which SPPS are not made through YYY ?", 
+  "Which SPPS are not made through YYY ?", 
+  "Which SPPS are not created by using YYY ?"
+ ], 
+ "P149": [
+  "Which SPPS do not have YYY style ?", 
+  "Which SPPS do not follow YYY style ?", 
+  "Which SPPS do not follow YYY type style ?"
+ ], 
+ "P306": [
+  "Which SPPS are n't installed at YYY ?", 
+  "Which SPPS are n't installed at YYY ?", 
+  "Which SPPS are n't working on YYY ?"
+ ], 
+ "P1416": [
+  "Which SPPS are not linked with YYY ?", 
+  "Which SPPS do not have any link with YYY ?", 
+  "Which SPPS are not connected with YYY ?"
+ ], 
+ "P1200": [
+  "Which SPPS do not have YYY as water basin ?", 
+  "Which SPPS do not have YYY as water basin ?", 
+  "Which SPPS do not have water basin named YYY ?"
+ ], 
+ "P1192": [
+  "Which SPPS do n't have service of YYY ?", 
+  "Which SPPS do n't have service of YYY ?", 
+  "Which SPPS are not using YYY as a service ?"
+ ], 
+ "P451": [
+  "Which SPPS did not have partner named YYY ?", 
+  "Which SPPS did not have partner named YYY ?", 
+  "Which SPPS do not have a relationship partner named YYY ?"
+ ], 
+ "P61": [
+  "Which SPPS do n't have YYY as its inventor ?", 
+  "Which SPPS do n't have YYY as its inventor ?", 
+  "Which SPPS would n't be here with YYY ?"
+ ], 
+ "P427": [
+  "Which SPPS doesnot possesse YYY as a taxonomic type ?", 
+  "Which SPPS doesnot possesse YYY as a taxonomic type ?", 
+  "Which SPPS taxonomic type 's are not YYY ?"
+ ], 
+ "P780": [
+  "Which SPPS do not have a symtom named YYY ?", 
+  "Which SPPS do not have a symtom named YYY ?", 
+  "Which SPPS do not have YYY as symptom ?"
+ ], 
+ "P2695": [
+  "Which SPPS are not located in YYY ?", 
+  "Which SPPS are not located in YYY ?", 
+  "Which SPPS are not present in YYY ?"
+ ], 
+ "P197": [
+  "Which SPPS are not found adjacent to YYY ?", 
+  "Which SPPS are not found adjacent to YYY ?", 
+  "Which SPPS are usually not adjacent to YYY ?"
+ ], 
+ "P3306": [
+  "Which SPPS were not rated as YYY ?", 
+  "Which SPPS were not rated as YYY ?", 
+  "Which SPPS were not given YYY as rating ?"
+ ], 
+ "P3301": [
+  "Which SPPS are not broadcasted by YYY ?", 
+  "Which SPPS arent broadcasted by YYY ?", 
+  "Which SPPS are not broadcasted by YYY ?"
+ ], 
+ "P3300": [
+  "Which SPPS are not directed by YYY ?", 
+  "Which SPPS did not have YYY as director ?", 
+  "Which SPPS had not been directed by YYY ?"
+ ], 
+ "P3259": [
+  "Which SPPS do not have heritage of YYY ?", 
+  "Which SPPS do not have heritage of YYY ?", 
+  "Which SPPS do not have YYY as heritage ?"
+ ], 
+ "P1050": [
+  "Which SPPS are not affected due to YYY ?", 
+  "Which SPPS are not affected due to YYY ?", 
+  "Which SPPS are not affected through YYY ?"
+ ], 
+ "P2321": [
+  "Which SPPS are not classified through YYY ?", 
+  "Which SPPS are not classified through YYY ?", 
+  "Which SPPS are not identified through YYY ?"
+ ], 
+ "P1686": [
+  "Which SPPS were not awarded YYY ?", 
+  "Which SPPS were not awarded YYY ?", 
+  "Which SPPS were not given YYY as award ?"
+ ], 
+ "P1196": [
+  "Which SPPS did not die because of YYY ?", 
+  "Which SPPS did not die due to YYY ?", 
+  "Which SPPS did not have YYY as the cause of death ?"
+ ], 
+ "P1057": [
+  "Which SPPS do not have YYY as location ?", 
+  "Which SPPS do not have YYY as location ?", 
+  "Which SPPS do not have YYY as a location ?"
+ ], 
+ "P1056": [
+  "Which SPPS did not create YYY ?", 
+  "Which SPPS didnt create YYY ?", 
+  "Which SPPS did not make YYY ?"
+ ], 
+ "P941": [
+  "Which SPPS are not inspired by YYY ?", 
+  "Which SPPS are not inspired by YYY ?", 
+  "Which SPPS did not get inspiration from YYY ?"
+ ], 
+ "P448": [
+  "Which SPPS were not made through YYY ?", 
+  "Which SPPS were not made through YYY ?", 
+  "Which SPPS were not started through YYY ?"
+ ], 
+ "P684": [
+  "Which SPPS do not have YYY as gene ?", 
+  "Which SPPS do not have YYY as gene ?", 
+  "Which SPPS do not contain YYY as gene ?"
+ ], 
+ "P275": [
+  "Which SPPS are not issued under YYY ?", 
+  "Which SPPS are not issued under YYY ?", 
+  "Which SPPS are not launched under YYY ?"
+ ], 
+ "P118": [
+  "Which SPPS did not perform in YYY ?", 
+  "Which SPPS didnot perform in YYY ?", 
+  "Which SPPS did not take part in YYY ?"
+ ], 
+ "P2354": [
+  "Which SPPS have not a list that contains YYY ?", 
+  "Which SPPS have not a list that contains YYY ?", 
+  "Which SPPS have not in its list YYY ?"
+ ], 
+ "P449": [
+  "Which SPPS were not displayed through YYY ?", 
+  "Which SPPS were not displayed through YYY ?", 
+  "Which SPPS were not telecasted by YYY ?"
+ ]
+}

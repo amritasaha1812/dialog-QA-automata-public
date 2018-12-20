@@ -1,0 +1,1592 @@
+{
+ "P530": [
+  "Which OPPS do not have diplomatic relations with XXX ?", 
+  "Which OPPS are not related with XXX ?", 
+  "Which OPPS are not diplomatically related with XXX ?"
+ ], 
+ "P688": [
+  "Which OPPS are not encoded by XXX ?", 
+  "Which OPPS does XXX not encode ?", 
+  "Which OPPS can you not find encoded by XXX ?"
+ ], 
+ "P689": [
+  "Which OPPS are not afflicted by the XXX ?", 
+  "Which OPPS do not have XXX afflicting them ?", 
+  "Which OPPS are not characterized by an affliction of the XXX ?"
+ ], 
+ "P725": [
+  "Which OPPS DID NOT HAVE THE ROLE OF THE VOICE ACTOR IN XXX ?", 
+  "Which OPPS WERE NOT THE VOICE ACTORS IN XXX ?", 
+  "Which OPPS DID NOT ASSUME THE ROLE OF THE VOICE ACTOR IN XXX ?"
+ ], 
+ "P2176": [
+  "Which OPPS ARE NOT USED FOR TREATING XXX ?", 
+  "Which OPPS ARE NOT USED FOR ELIMINATION OF XXX ?", 
+  "Which OPPS IS NOT HELPFUL IN TREATMENT OF XXX ?"
+ ], 
+ "P1376": [
+  "Which OPPS do not have XXX as capitals ?", 
+  "Which OPPS have capitals that are not XXX ?", 
+  "Which OPPS have capitals that are not named XXX ?"
+ ], 
+ "P726": [
+  "Which OPPS were not the candidates of XXX ?", 
+  "Which OPPS were not the aspirants of XXX ?", 
+  "Which OPPS were not the contestants of XXX ?"
+ ], 
+ "P682": [
+  "Which OPPS ARE NOT XXX INVOLVED IN ?", 
+  "Which OPPS DO NOT HAVE XXX ?", 
+  "Which OPPS DO NOT INVOLVED XXX ?"
+ ], 
+ "P3085": [
+  "Which OPPS were XXX not the qualifying events for ?", 
+  "Which OPPS were not qualified by XXX ?", 
+  "Which OPPS were not qualifications for XXX ?"
+ ], 
+ "P680": [
+  "Which OPPS do not represent molecular function of XXX ?", 
+  "Which OPPS do not show functions of XXX ?", 
+  "Which OPPS do not indicate function of XXX ?"
+ ], 
+ "P681": [
+  "Which OPPS of cell are XXX not present in ?", 
+  "Which OPPS in cell does not have XXX ?", 
+  "Which OPPS do not contain XXX in it ?"
+ ], 
+ "P532": [
+  "Which OPPS are not the ports of registries of XXX ?", 
+  "Which OPPS are not ports for XXX ?", 
+  "Which OPPS are not registries to XXX ?"
+ ], 
+ "P921": [
+  "Which OPPS were not the main subject of XXX 's work ?", 
+  "Which OPPS were not used in the work of XXX as its main subject ?", 
+  "Which OPPS did not serve as the central subjects of XXX 's work ?"
+ ], 
+ "P2079": [
+  "Which OPPS are not used for fabrications of XXX ?", 
+  "Which OPPS are not fabricating for XXX ?", 
+  "Which OPPS are not fabrications for XXX ?"
+ ], 
+ "P607": [
+  "Which OPPS did XXX not take part in ?", 
+  "Which OPPS do not have XXX as participant ?", 
+  "Which OPPS do not contain XXX as participants ?"
+ ], 
+ "P1037": [
+  "Which OPPS are not the managers of XXX ?", 
+  "Which OPPS ca n't manage XXX ?", 
+  "Which OPPS are not the bosses of XXX ?"
+ ], 
+ "P1340": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P608": [
+  "Which OPPS were XXX not exhibited at ?", 
+  "Which OPPS did not exhibit XXX ?", 
+  "Which OPPS does not show XXX ?"
+ ], 
+ "P609": [
+  "Which OPPS ARE NOT THE TERMINUS LOCATION OF XXX ?", 
+  "Which OPPS ARE NOT THE LOCATION OF XXX ?", 
+  "Which OPPS DO NOT SHOW THE LOCATION FOR XXX ?"
+ ], 
+ "P450": [
+  "Which OPPS are the space mission XXX not a member of ?", 
+  "Which OPPS are the space missions not containing XXX 's membership ?", 
+  "Which OPPS do not have XXX as a member of its space mission ."
+ ], 
+ "P425": [
+  "Which OPPS are not the field of the occupation of XXX ?", 
+  "Which OPPS are not occupation for XXX ?", 
+  "Which OPPS are not used as occupation for XXX ?"
+ ], 
+ "P135": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are XXX not associated with ?", 
+  "Which OPPS do not associate with XXX ?"
+ ], 
+ "P3150": [
+  "Which OPPS were XXX not born on ?", 
+  "Which OPPS did XXX not come to be on ?", 
+  "Which OPPS did XXX not begin on ?"
+ ], 
+ "P2978": [
+  "Which OPPS do not represent the wheel arrangements of XXX ?", 
+  "Which OPPS are not representative of the XXX wheel arrangements ?", 
+  "Which OPPS do not serve to represent XXX 's wheel arrangements ?"
+ ], 
+ "P2175": [
+  "Which OPPS were not cured by XXX ?", 
+  "Which OPPS require XXX not to be cured ?", 
+  "Which OPPS do XXX not cure ?"
+ ], 
+ "P2239": [
+  "Which OPPS do not serve as the first aid measures for XXX ?", 
+  "Which OPPS are not used as first aid measure for XXX ?", 
+  "Which OPPS are not first aids for XXX ?"
+ ], 
+ "P404": [
+  "Which OPPS are not available for XXX ?", 
+  "Which OPPS are not accessible for XXX ?", 
+  "Which OPPS can not be used with XXX ?"
+ ], 
+ "P237": [
+  "Which OPPS are not used as the coat of arms for XXX ?", 
+  "Which OPPS were not used as the coat of arms for XXX ?", 
+  "Which OPPS saw no use as the coat of arms for XXX ?"
+ ], 
+ "P610": [
+  "Which OPPS are not the highest points of XXX ?", 
+  "Which OPPS are the ones that not reached the highest point of XXX ?", 
+  "Which OPPS have not the records of highest points of XXX ?"
+ ], 
+ "P837": [
+  "Which OPPS does XXX not occur on ?", 
+  "Which OPPS are not occurrences for XXX ?", 
+  "Which OPPS did not result in occurrences for XXX ?"
+ ], 
+ "P793": [
+  "Which OPPS are not significant events associated with XXX ?", 
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?"
+ ], 
+ "P2554": [
+  "Which OPPS are not the production designers of XXX ?", 
+  "Which OPPS did not design the production for XXX ?", 
+  "Which OPPS were not the production designers for XXX ?"
+ ], 
+ "P805": [
+  "Which OPPS do not have XXX as subjects ?", 
+  "Which OPPS do not have subjects named XXX ?", 
+  "Which OPPS do not have subjects called XXX ?"
+ ], 
+ "P560": [
+  "Which OPPS are not a directional identifier of XXX ?", 
+  "Which OPPS are not identifying XXX ?", 
+  "Which OPPS are not able to identify XXX ?"
+ ], 
+ "P816": [
+  "Which OPPS did XXX not decay to ?", 
+  "Which OPPS are the ones XXX does not decays to ?", 
+  "Which OPPS do not decay into XXX ?"
+ ], 
+ "P1995": [
+  "Which OPPS are not the medical specialties concerned with XXX ?", 
+  "Which OPPS are not the medical specialties concerned with the condition XXX ?", 
+  "Which OPPS are not the specialties of medicine concerned with XXX ?"
+ ], 
+ "P520": [
+  "Which OPPS is not used as weapon by XXX ?", 
+  "Which OPPS is not a weapon for XXX ?", 
+  "Which OPPS is not utilized as weapon by XXX ?"
+ ], 
+ "P1389": [
+  "Which OPPS are not product certifications of XXX ?", 
+  "Which OPPS are not certified as XXX ?", 
+  "Which OPPS are not identified as XXX ?"
+ ], 
+ "P289": [
+  "Which OPPS do not represent the vessel classification of XXX ?", 
+  "Which OPPS do not represent the ship class of XXX ?", 
+  "Which OPPS do not represent the submarine class of XXX ?"
+ ], 
+ "P1411": [
+  "Which OPPS were n't awarded to XXX ?", 
+  "Which OPPS were n't nominated to XXX ?", 
+  "Which OPPS were n't awarded to XXX ?"
+ ], 
+ "P287": [
+  "Which OPPS are not the designers of XXX ?", 
+  "Which OPPS did not design XXX ?", 
+  "Which OPPS did not make designs of XXX ?"
+ ], 
+ "P1412": [
+  "Which OPPS are not spoken by XXX ?", 
+  "Which OPPS are the ones XXX does not speak in ?", 
+  "Which OPPS are not used by XXX for speaking ?"
+ ], 
+ "P282": [
+  "Which OPPS are not the alphabets used in XXX ?", 
+  "Which OPPS is not the alphabet XXX used ?", 
+  "Which OPPS is not the alphabet used in XXX ?"
+ ], 
+ "P169": [
+  "Which OPPS is not the chief executive officer of XXX ?", 
+  "Which OPPS of XXX are not the chief executive ?", 
+  "Which OPPS do not hold the office of CEO in XXX ?"
+ ], 
+ "P1383": [
+  "Which OPPS are not contained in XXX ?", 
+  "Which OPPS does XXX not hold ?", 
+  "Which OPPS do not currently reside in XXX ?"
+ ], 
+ "P3081": [
+  "Which OPPS were not damaged by the XXX ?", 
+  "Which OPPS did not get damaged by XXX ?", 
+  "Which OPPS were not the structures damaged by XXX ?"
+ ], 
+ "P206": [
+  "Which OPPS are not located next to XXX ?", 
+  "Which OPPS are not present near to XXX ?", 
+  "Which OPPS are not found near XXX ?"
+ ], 
+ "P1142": [
+  "Which OPPS are not the political ideologies of XXX ?", 
+  "Which OPPS are not the ideologies of XXX ?", 
+  "Which OPPS have not the political ideology of XXX ?"
+ ], 
+ "P991": [
+  "Which OPPS were not the successful candidate in XXX ?", 
+  "Which OPPS were not successful in XXX ?", 
+  "Which OPPS got no success in XXX ?"
+ ], 
+ "P448": [
+  "Which OPPS were not the launch sites of XXX ?", 
+  "Which OPPS were not the launch sites of XXX ?", 
+  "Which OPPS were not where XXX launched from ?"
+ ], 
+ "P437": [
+  "Which OPPS were not used as the method of distribution of XXX ?", 
+  "Which OPPS were not used as the means of distribution of XXX ?", 
+  "Which OPPS were not used to distribute XXX ?"
+ ], 
+ "P2962": [
+  "Which OPPS do not represent the chess titles of XXX ?", 
+  "Which OPPS do not hold the FIDE title of XXX ?", 
+  "Which OPPS did not XXX earn ?"
+ ], 
+ "P201": [
+  "Which OPPS are not the outflows of XXX ?", 
+  "Which OPPS are not called outflows of XXX ?", 
+  "Which OPPS are not regarded as outflows of XXX ?"
+ ], 
+ "P2860": [
+  "Which OPPS are not cited by XXX ?", 
+  "Which OPPS are not referenced by XXX ?", 
+  "Which OPPS are not quoted by XXX ?"
+ ], 
+ "P611": [
+  "Which OPPS are not the religious affiliations of XXX ?", 
+  "Which OPPS are not related with religions of XXX ?", 
+  "Which OPPS are not affiliated with religions of XXX ?"
+ ], 
+ "P1308": [
+  "Which OPPS do not hold offices in XXX ?", 
+  "Which OPPS are not officeholders in XXX ?", 
+  "Which OPPS are not incumbents in XXX ?"
+ ], 
+ "P127": [
+  "Which OPPS do not own XXX ?", 
+  "Which OPPS do not have XXX ?", 
+  "Which OPPS are not owners of XXX ?"
+ ], 
+ "P126": [
+  "Which OPPS were not responsible for maintaining XXX ?", 
+  "Which OPPS did not maintain XXX ?", 
+  "Which OPPS had not to maintain XXX ?"
+ ], 
+ "P88": [
+  "Which OPPS did not commission XXX ?", 
+  "Which OPPS did not request XXX ?", 
+  "Which OPPS were XXX not built for ?"
+ ], 
+ "P123": [
+  "Which OPPS not publish XXX ?", 
+  "Which OPPS did not make XXX available to the public ?", 
+  "Which OPPS did not bring XXX to the public 's attention ?"
+ ], 
+ "P122": [
+  "Which OPPS did not have the role of the subject 's government of XXX ?", 
+  "Which OPPS were not related with government in XXX ?", 
+  "Which OPPS were not linked with government in XXX ?"
+ ], 
+ "P121": [
+  "Which OPPS were not operated by XXX ?", 
+  "Which OPPS were not run by XXX ?", 
+  "Which OPPS were not flown by XXX ?"
+ ], 
+ "P39": [
+  "Which OPPS were not positions held by XXX ?", 
+  "Which OPPS were not held by XXX as positions ?", 
+  "Which OPPS were not positions of XXX ?"
+ ], 
+ "P81": [
+  "Which OPPS did not act as connecting lines for XXX ?", 
+  "Which OPPS are not connected to XXX ?", 
+  "Which OPPS did not lead to XXX ?"
+ ], 
+ "P200": [
+  "Which OPPS do not flow into XXX ?", 
+  "Which OPPS river do not flow into XXX ?", 
+  "Which OPPS do not inflow into XXX ?"
+ ], 
+ "P86": [
+  "Which OPPS did not compose XXX ?", 
+  "Which OPPS are not the songwriters of XXX ?", 
+  "Which OPPS are not the people who wrote the music of XXX ?"
+ ], 
+ "P129": [
+  "Which OPPS did XXX not interact with ?", 
+  "Which OPPS do not interact with XXX ?", 
+  "Which OPPS do not react with XXX ?"
+ ], 
+ "P84": [
+  "Which OPPS did not design the architecture of XXX ?", 
+  "Which OPPS did not design XXX ?", 
+  "Which OPPS did not create XXX ?"
+ ], 
+ "P840": [
+  "Which OPPS are not the narrative locations of XXX ?", 
+  "Which OPPS do not feature XXX as their narrative location ?", 
+  "Which OPPS have not a narrative location of XXX ?"
+ ], 
+ "P841": [
+  "Which OPPS are not the feast days of XXX ?", 
+  "Which OPPS are not feast dates of XXX ?", 
+  "Which OPPS are not principal feast dates of XXX ?"
+ ], 
+ "P248": [
+  "Which OPPS are XXX not stated in ?", 
+  "Which OPPS are not stated by XXX ?", 
+  "Which OPPS are not used as statement by XXX ?"
+ ], 
+ "P1542": [
+  "Which OPPS are not caused by XXX ?", 
+  "Which OPPS are not a result of XXX ?", 
+  "Which OPPS are not resulted in XXX ?"
+ ], 
+ "P769": [
+  "Which OPPS do not show a significant interation with XXX ?", 
+  "Which OPPS are not indicated by XXX ?", 
+  "Which OPPS are not related significantly by XXX ?"
+ ], 
+ "P57": [
+  "Which OPPS have not directed XXX ?", 
+  "Which OPPS were not the directors of XXX ?", 
+  "Which OPPS were not XXX 's director ?"
+ ], 
+ "P1071": [
+  "Which OPPS are n't the locations of final assembly of XXX ?", 
+  "Which OPPS are n't locations of XXX ?", 
+  "Which OPPS are n't final locations for XXX ?"
+ ], 
+ "P1408": [
+  "Which OPPS does XXX not get a license to broadcast to ?", 
+  "Which OPPS were XXX not licensed to broadcast to ?", 
+  "Which OPPS did XXX not receive licensing allowing it to broadcast to it ?"
+ ], 
+ "P355": [
+  "Which OPPS are not a subsidiary of XXX ?", 
+  "Which OPPS are not a branch of XXX ?", 
+  "Which OPPS are not a division of XXX ?"
+ ], 
+ "P518": [
+  "Which OPPS does XXX not apply to a part of ?", 
+  "Which OPPS is it that XXX does n't apply to a part of ?", 
+  "Which OPPS do not have a part of them than XXX applies to ?"
+ ], 
+ "P1399": [
+  "Which OPPS were XXX not convicted of ?", 
+  "Which OPPS have not resulted in conviction of XXX ?", 
+  "Which OPPS ended up in XXX not being convicted ?"
+ ], 
+ "P291": [
+  "Which OPPS are not the places of publication of XXX ?", 
+  "Which OPPS are not publication spot for XXX ?", 
+  "Which OPPS did not give publication to XXX ?"
+ ], 
+ "P1403": [
+  "Which OPPS are not the original combinations of XXX ?", 
+  "Which OPPS are not combinations for XXX ?", 
+  "Which OPPS are not real combinations for XXX ?"
+ ], 
+ "P3189": [
+  "Which OPPS do not innervate XXX ?", 
+  "Which OPPS do not supply XXX ?", 
+  "Which OPPS do not provide XXX ?"
+ ], 
+ "P3091": [
+  "Which OPPS are not ridden by XXX ?", 
+  "Which OPPS are not resisted by XXX ?", 
+  "Which OPPS are not eliminated by XXX ?"
+ ], 
+ "P1013": [
+  "Which OPPS were the criteria not used for XXX ?", 
+  "Which OPPS were not the basis for XXX ?", 
+  "Which OPPS were not the standards for XXX ?"
+ ], 
+ "P485": [
+  "Which OPPS do not hold the archives of XXX ?", 
+  "Which OPPS do not archive XXX ?", 
+  "Which OPPS do not maintain the archives for XXX ?"
+ ], 
+ "P669": [
+  "Which OPPS are XXX not located in ?", 
+  "Which OPPS are not locations for XXX ?", 
+  "Which OPPS do not have XXX ?"
+ ], 
+ "P3195": [
+  "Which OPPS were not used as league points systems for XXX ?", 
+  "Which OPPS were not used the league points sytem for XXX ?", 
+  "Which OPPS sports league system was not used for XXX ?"
+ ], 
+ "P1312": [
+  "Which OPPS are not the facet polytopes of XXX ?", 
+  "Which OPPS are not XXX 's facet polytopes ?", 
+  "Which OPPS are not defined as the facet polytopes of XXX ?"
+ ], 
+ "P1313": [
+  "Which OPPS do not serve as the political offices that are fulfilled by the head of the government of XXX ?", 
+  "Which OPPS are not held by heads of government of XXX that serves as the political office ?", 
+  "Which OPPS do not hold the political offices of head of government of XXX ?"
+ ], 
+ "P421": [
+  "Which OPPS ARE XXX NOT LOCATED IN ?", 
+  "Which OPPS ARE NOT LOCATION FOR XXX ?", 
+  "Which OPPS ARE NOT USED AS A LOCATION FOR XXX ?"
+ ], 
+ "P740": [
+  "Which OPPS are not the location of formation of XXX ?", 
+  "Which OPPS are not the locations of XXX formations ?", 
+  "Which OPPS are not the XXX formations locations ?"
+ ], 
+ "P6": [
+  "Which OPPS are not the heads of government of XXX ?", 
+  "Which OPPS are not heads of XXX ?", 
+  "Which OPPS are not high government authorities of XXX ?"
+ ], 
+ "P190": [
+  "Which OPPS are not the sister cities of XXX ?", 
+  "Which OPPS do not partner as the twin cities of XXX ?", 
+  "Which OPPS are not paired as the partner cities of XXX ?"
+ ], 
+ "P664": [
+  "Which OPPS are not the organizers of XXX ?", 
+  "Which OPPS are not the persons or institutions organizing XXX ?", 
+  "Which OPPS are not organizing XXX ?"
+ ], 
+ "P452": [
+  "Which OPPS are the industry to which XXX do n't belong ?", 
+  "Which OPPS branches ca n't XXX be associated with ?", 
+  "Which OPPS industries ca n't XXX be related to ?"
+ ], 
+ "P749": [
+  "Which OPPS are not the parent organizations of XXX ?", 
+  "Which OPPS are not parents of XXX ?", 
+  "Which OPPS are not main organizations for XXX ?"
+ ], 
+ "P195": [
+  "Which OPPS do not contain XXX in their collections ?", 
+  "Which OPPS do not possess XXX ?", 
+  "Which OPPS do not contain XXX ?"
+ ], 
+ "P98": [
+  "Which OPPS are not the editors of XXX ?", 
+  "Which OPPS do not edit XXX ?", 
+  "Which OPPS are not XXX 's editors ?"
+ ], 
+ "P113": [
+  "Which OPPS do not serve as an airline hub for XXX ?", 
+  "Which OPPS are not airline hubs for XXX ?", 
+  "Which OPPS are not used as airline hubs for XXX ?"
+ ], 
+ "P110": [
+  "Which OPPS did not do the illustrations of XXX ?", 
+  "Which OPPS did not perform the illustrations of XXX ?", 
+  "Which OPPS did not carry out the illustrations of XXX ?"
+ ], 
+ "P3263": [
+  "Which OPPS are not the bases of XXX ?", 
+  "Which OPPS are not bases for XXX ?", 
+  "Which OPPS are not foundations for XXX ?"
+ ], 
+ "P3264": [
+  "Which OPPS are not the radix of XXX ?", 
+  "Which OPPS are not number systems of XXX ?", 
+  "Which OPPS are not working as radix for XXX ?"
+ ], 
+ "P3095": [
+  "Which OPPS were not practised by XXX ?", 
+  "Which OPPS were not used by XXX ?", 
+  "Which OPPS were not used in practice by XXX ?"
+ ], 
+ "P115": [
+  "Which OPPS are not the home venues of XXX ?", 
+  "Which OPPS are not homes for XXX ?", 
+  "Which OPPS are not used as homes for XXX ?"
+ ], 
+ "P1884": [
+  "Which OPPS are not associated with hairs of XXX ?", 
+  "Which OPPS are not linked with hairs of XXX ?", 
+  "Which OPPS are not connected with hairs of XXX ?"
+ ], 
+ "P1885": [
+  "Which OPPS are not the principal churches of the religious district of XXX ?", 
+  "Which OPPS are not the cathedrals of the religious district of XXX ?", 
+  "Which OPPS do not serve as the principal churches for the religious district of XXX ?"
+ ], 
+ "P97": [
+  "Which OPPS were n't held by XXX ?", 
+  "Which OPPS were n't obtained by XXX ?", 
+  "Which OPPS were n't possessed by XXX ?"
+ ], 
+ "P306": [
+  "Which OPPS are XXX not installed on ?", 
+  "Which OPPS did n't install XXX ?", 
+  "Which OPPS have not installed XXX ?"
+ ], 
+ "P16": [
+  "Which OPPS do not serve as the highway systems for XXX ?", 
+  "Which OPPS are not the highway systems for XXX ?", 
+  "Which OPPS do not function as the highway systems for XXX ?"
+ ], 
+ "P17": [
+  "Which OPPS are not XXX present in ?", 
+  "Which OPPS are not XXX occuring in ?", 
+  "Which OPPS are not XXX found in ?"
+ ], 
+ "P19": [
+  "Which OPPS were XXX not born in ?", 
+  "Which OPPS were not the locations of birth for XXX ?", 
+  "Which OPPS were not the birth locations for XXX ?"
+ ], 
+ "P859": [
+  "Which OPPS are not the sponsors of XXX ?", 
+  "Which OPPS are not sponsored by XXX ?", 
+  "Which OPPS are currently not sponsoring XXX ?"
+ ], 
+ "P1064": [
+  "Which OPPS does XXX not have ?", 
+  "Which OPPS are not for XXX ?", 
+  "Which OPPS are not the size for XXX ?"
+ ], 
+ "P1066": [
+  "Which OPPS were not the teachers of XXX ?", 
+  "Which OPPS did not teach XXX ?", 
+  "Which OPPS did not provide teaching to XXX ?"
+ ], 
+ "P400": [
+  "Which OPPS do not represent the platforms for XXX ?", 
+  "Which OPPS do not represent the platforms for XXX ?", 
+  "Which OPPS computing platforms do not represent XXX ?"
+ ], 
+ "P509": [
+  "Which OPPS were not the cause of death of XXX ?", 
+  "Which OPPS did not cause the immediate death of XXX ?", 
+  "Which OPPS were not the reason XXX died ?"
+ ], 
+ "P184": [
+  "Which OPPS were not the doctoral supervisors of XXX ?", 
+  "Which OPPS were not the doctoral advisors of XXX ?", 
+  "Which OPPS were not the supervisors for doctorates of XXX ?"
+ ], 
+ "P112": [
+  "Which OPPS were not the founders of XXX ?", 
+  "Which OPPS did not found XXX ?", 
+  "Which OPPS did not start XXX ?"
+ ], 
+ "P186": [
+  "Which OPPS are n't used to make XXX ?", 
+  "Which OPPS are n't utilized in the making of XXX ?", 
+  "Which OPPS are n't employed in order to make XXX ?"
+ ], 
+ "P1532": [
+  "Which OPPS did the XXX not play for ?", 
+  "Which OPPS were not XXX 's sporting nationality ?", 
+  "Which OPPS was not the sports nationality of XXX ?"
+ ], 
+ "P7": [
+  "Which OPPS are not the brothers of XXX ?", 
+  "Which OPPS are not related with XXX as brothers ?", 
+  "Which OPPS are not known as brothers of XXX ?"
+ ], 
+ "P3190": [
+  "Which OPPS are not innervated by XXX ?", 
+  "Which OPPS are innervated not through XXX ?", 
+  "Which OPPS have not been innervated by XXX ?"
+ ], 
+ "P344": [
+  "Which OPPS did not direct the photography of XXX ?", 
+  "Which OPPS did not help in direction of XXX ?", 
+  "Which OPPS are not directors of XXX ?"
+ ], 
+ "P9": [
+  "Which OPPS are not the sisters of XXX ?", 
+  "Which OPPS are not the female siblings of XXX ?", 
+  "Which OPPS are not sisters to XXX ?"
+ ], 
+ "P189": [
+  "Which OPPS are not the locations of discovery of XXX ?", 
+  "Which OPPS are not discoveries of XXX ?", 
+  "Which OPPS are not located for XXX ?"
+ ], 
+ "P504": [
+  "Which OPPS do not serve as the home ports of XXX ?", 
+  "Which OPPS are not home ports of XXX ?", 
+  "Which OPPS are not used as home ports for XXX ?"
+ ], 
+ "P2354": [
+  "Which OPPS are not contained in the list of XXX ?", 
+  "Which OPPS are not within the list of XXX ?", 
+  "Which OPPS are not part of the list of XXX ?"
+ ], 
+ "P469": [
+  "Which OPPS does XXX not flow through ?", 
+  "Which OPPS do not flow XXX ?", 
+  "Which OPPS do not let flowing of XXX ?"
+ ], 
+ "P1080": [
+  "Which OPPS does XXX not belong to ?", 
+  "Which OPPS have XXX not belonging to it ?", 
+  "Which OPPS are the ones that XXX do not belong to ?"
+ ], 
+ "P26": [
+  "Which OPPS are not the spouses of XXX ?", 
+  "Which OPPS are not the spouses of XXX ?", 
+  "Which OPPS are not in relations with XXX ?"
+ ], 
+ "P462": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are XXX not known for ?", 
+  "Which OPPS can XXX not be identified with ?"
+ ], 
+ "P463": [
+  "Which OPPS were not XXX a member of ?", 
+  "Which OPPS were not XXX a member of ?", 
+  "Which OPPS do not include the member XXX ?"
+ ], 
+ "P1001": [
+  "Which OPPS does the XXX not belong to ?", 
+  "Which OPPS does not contain the XXX ?", 
+  "Which OPPS does not have XXX in it ?"
+ ], 
+ "P466": [
+  "Which OPPS are not occupants of XXX ?", 
+  "Which OPPS do n't claim XXX ?", 
+  "Which OPPS do n't occupy XXX ?"
+ ], 
+ "P467": [
+  "Which OPPS were XXX not legislated by ?", 
+  "Which OPPS did not legislate XXX ?", 
+  "Which OPPS did not enact XXX ?"
+ ], 
+ "P358": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not spoken by XXX ?", 
+  "Which OPPS are not XXX known for ?"
+ ], 
+ "P674": [
+  "Which OPPS do not appear as a character in XXX ?", 
+  "Which OPPS are not a character in XXX ?", 
+  "Which OPPS are not working as a character in XXX ?"
+ ], 
+ "P264": [
+  "Which OPPS are not the record labels of XXX ?", 
+  "Which OPPS are not branded and trademarked by the record label of XXX ?", 
+  "Which OPPS are not marketed by the record label of XXX ?"
+ ], 
+ "P1923": [
+  "Which OPPS were n't participants in XXX ?", 
+  "Which OPPS did n't participate in XXX ?", 
+  "Which OPPS did n't take part in XXX ?"
+ ], 
+ "P684": [
+  "Which OPPS are not an orthologous gene for XXX ?", 
+  "Which OPPS are not regarded as orthologous genes for XXX ?", 
+  "Which OPPS are not known as orthologous genes for XXX ?"
+ ], 
+ "P108": [
+  "Which OPPS are XXX not employed by ?", 
+  "Which OPPS are not the workplaces of XXX ?", 
+  "Which OPPS are not where XXX works at ?"
+ ], 
+ "P38": [
+  "Which OPPS are n't associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are n't connected with XXX ?"
+ ], 
+ "P105": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are n't linked with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P106": [
+  "Which OPPS are not the professions of XXX ?", 
+  "Which OPPS do not represent the work of XXX ?", 
+  "Which OPPS do not represent the job of XXX ?"
+ ], 
+ "P101": [
+  "Which OPPS are not the field of works of XXX ?", 
+  "Which OPPS are not XXX 's field of works ?", 
+  "Which OPPS do not serve as the field of works of XXX ?"
+ ], 
+ "P103": [
+  "Which OPPS are not the native languages of XXX ?", 
+  "Which OPPS are not used as mother tongues for XXX ?", 
+  "Which OPPS are not mother tongues for XXX ?"
+ ], 
+ "P102": [
+  "Which OPPS was XXX not a member of ?", 
+  "Which OPPS do not have a member named XXX ?", 
+  "Which OPPS do not have member called XXX ?"
+ ], 
+ "P25": [
+  "Which OPPS were not the mothers of XXX ?", 
+  "Which OPPS are not mothers of XXX ?", 
+  "Which OPPS not gave birth to XXX ?"
+ ], 
+ "P27": [
+  "Which OPPS are not the countries of citizenship of XXX ?", 
+  "Which OPPS have not given citizenship to XXX ?", 
+  "Which OPPS are not the citizenship countries of XXX ?"
+ ], 
+ "P1990": [
+  "Which OPPS are not one of the species kept in XXX ?", 
+  "Which OPPS are not species and stored in XXX ?", 
+  "Which OPPS are not stored in XXX and are species ?"
+ ], 
+ "P21": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not in the same taxonomic as XXX ?", 
+  "Which OPPS are not the same type of taxon as XXX ?"
+ ], 
+ "P20": [
+  "Which OPPS are not the places of death of XXX ?", 
+  "Which OPPS are not the spots of death of XXX ?", 
+  "Which OPPS are not the places where XXX died ?"
+ ], 
+ "P22": [
+  "Which OPPS were not the father of XXX ?", 
+  "Which OPPS are not the male parents of XXX ?", 
+  "Which OPPS did not father XXX ?"
+ ], 
+ "P136": [
+  "Which OPPS are not the genres for XXX ?", 
+  "Which OPPS are not XXX 's genres ?", 
+  "Which OPPS are not the genres applicable to XXX ?"
+ ], 
+ "P828": [
+  "Which OPPS are not the causes of XXX ?", 
+  "Which OPPS are not the underlying causes of XXX ?", 
+  "Which OPPS are not the reasons for XXX ?"
+ ], 
+ "P144": [
+  "Which OPPS are not XXX based on ?", 
+  "Which OPPS were not XXX adapted from ?", 
+  "Which OPPS were not XXX derived from ?"
+ ], 
+ "P647": [
+  "Which OPPS did not draft XXX ?", 
+  "Which OPPS were not the ones that drafted XXX ?", 
+  "Which OPPS were not the drafter of XXX ?"
+ ], 
+ "P1039": [
+  "Which OPPS do not represent the type of kinship associated with XXX ?", 
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P1038": [
+  "Which OPPS are not relatives of XXX ?", 
+  "Which OPPS are not related to XXX ?", 
+  "Which OPPS are not a direct family member of XXX ?"
+ ], 
+ "P739": [
+  "Which OPPS are not used as ammunition in XXX ?", 
+  "Which OPPS are not ammunition for XXX ?", 
+  "Which OPPS are not used as ammo for XXX ?"
+ ], 
+ "P641": [
+  "Which OPPS did XXX not participate in ?", 
+  "Which OPPS does not have a participant named XXX ?", 
+  "Which OPPS did not include XXX as particpant ?"
+ ], 
+ "P376": [
+  "Which OPPS are XXX not located in ?", 
+  "Which OPPS are XXX not located in ?", 
+  "Which OPPS are XXX not situated in ?"
+ ], 
+ "P138": [
+  "Which OPPS are XXX not named after ?", 
+  "Which OPPS do not have the same name as XXX ?", 
+  "Which OPPS do not bear the name of XXX ?"
+ ], 
+ "P375": [
+  "Which OPPS were not used as space launch vehicles for XXX ?", 
+  "Which OPPS were not the carrier rockets of XXX ?", 
+  "Which OPPS were not XXX 's launch vehicles ?"
+ ], 
+ "P800": [
+  "Which OPPS are not notable scientific works of XXX ?", 
+  "Which OPPS are XXX not notable for ?", 
+  "Which OPPS are not major works of XXX ?"
+ ], 
+ "P411": [
+  "Which OPPS do not represent the canonization status of XXX ?", 
+  "Which OPPS do not show the religion of XXX ?", 
+  "Which OPPS are not showing religion of XXX ?"
+ ], 
+ "P802": [
+  "Which OPPS IS N'T THE STUDENT OF XXX ?", 
+  "Which OPPS DO N'T HAVE STUDENT NAMED XXX ?", 
+  "Which OPPS OF XXX DO N'T HAVE STUDENT ?"
+ ], 
+ "P371": [
+  "Which OPPS were not the presenters of XXX ?", 
+  "Which OPPS did not present XXX ?", 
+  "Which OPPS do not host XXX ?"
+ ], 
+ "P3279": [
+  "Which OPPS were not the statistical leaders of XXX ?", 
+  "Which OPPS did n't statistically led XXX ?", 
+  "Which OPPS did n't hold the statistical leads in XXX ?"
+ ], 
+ "P180": [
+  "Which OPPS are not depicted in XXX ?", 
+  "Which OPPS are not explained in XXX ?", 
+  "Which OPPS are not described as XXX ?"
+ ], 
+ "P1445": [
+  "Which OPPS do not have the description of XXX ?", 
+  "Which OPPS are XXX not described in ?", 
+  "Which OPPS are XXX not explained in ?"
+ ], 
+ "P880": [
+  "Which OPPS are not used as CPU in XXX ?", 
+  "Which OPPS are not the central processing unit of XXX ?", 
+  "Which OPPS do not uses XXX as its CPU ?"
+ ], 
+ "P768": [
+  "Which OPPS does XXX not represent ?", 
+  "Which OPPS were not represented by XXX ?", 
+  "Which OPPS were not shown by XXX ?"
+ ], 
+ "P2293": [
+  "Which OPPS do not have genetic associations with XXX ?", 
+  "Which OPPS are not related to XXX ?", 
+  "Which OPPS do not have the same genetics as XXX ?"
+ ], 
+ "P765": [
+  "Which OPPS are XXX not played on ?", 
+  "Which OPPS are not used for playing XXX ?", 
+  "Which OPPS are not a playing place for XXX ?"
+ ], 
+ "P767": [
+  "Which OPPS did not contribute to XXX ?", 
+  "Which OPPS did not support XXX ?", 
+  "Which OPPS did not encourage XXX ?"
+ ], 
+ "P277": [
+  "Which OPPS are not used to develop XXX ?", 
+  "Which OPPS are not used for making XXX ?", 
+  "Which OPPS are not used for making XXX ?"
+ ], 
+ "P276": [
+  "Which OPPS are not the locations of XXX ?", 
+  "Which OPPS are not locations for XXX ?", 
+  "Which OPPS are not used as a location for XXX ?"
+ ], 
+ "P275": [
+  "Which OPPS are XXX released under ?", 
+  "Which OPPS are the ones under which XXX are released ?", 
+  "Which OPPS do not have XXX released under them ?"
+ ], 
+ "P272": [
+  "Which OPPS are not responsible for production of XXX ?", 
+  "Which OPPS have not responsibility for production of XXX ?", 
+  "Which OPPS are not responsible for XXX 's production ?"
+ ], 
+ "P170": [
+  "Which OPPS are not the creaters of XXX ?", 
+  "Which OPPS did not create XXX ?", 
+  "Which OPPS did not make XXX ?"
+ ], 
+ "P171": [
+  "Which OPPS are n't a parent taxon of XXX ?", 
+  "Which OPPS are n't the higher taxon of XXX ?", 
+  "Which OPPS do n't sit above XXX in taxonomy ?"
+ ], 
+ "P172": [
+  "Which OPPS does XXX not have as ethnic origin ?", 
+  "Which OPPS do not give origin to XXX ?", 
+  "Which OPPS do not provide origin to XXX ?"
+ ], 
+ "P1441": [
+  "Which OPPS are XXX not present in ?", 
+  "Which OPPS do n't possess XXX ?", 
+  "Which OPPS do n't contain XXX ?"
+ ], 
+ "P175": [
+  "Which OPPS are not performers for XXX ?", 
+  "Which OPPS did not perform XXX ?", 
+  "Which OPPS did not carry out XXX ?"
+ ], 
+ "P176": [
+  "Which OPPS are not the manufacturers of XXX ?", 
+  "Which OPPS do not produce XXX ?", 
+  "Which OPPS do not make XXX ?"
+ ], 
+ "P177": [
+  "Which OPPS are not crossed over by XXX ?", 
+  "Which OPPS are not lead by XXX ?", 
+  "Which OPPS are not crossed by XXX ?"
+ ], 
+ "P183": [
+  "Which OPPS are XXX not endemic to ?", 
+  "Which OPPS are XXX not endemic to ?", 
+  "Which OPPS cause XXX not to be endemic ?"
+ ], 
+ "P516": [
+  "Which OPPS were not used to power XXX ?", 
+  "Which OPPS did not give power to XXX ?", 
+  "Which OPPS did not provide power to XXX ?"
+ ], 
+ "P972": [
+  "Which OPPS are not the catalogs for XXX ?", 
+  "Which OPPS are not catalogs for XXX ?", 
+  "Which OPPS are not acting as catalogs for XXX ?"
+ ], 
+ "P1434": [
+  "Which OPPS do not describe the fictional universe in XXX ?", 
+  "Which OPPS do not describe XXX ?", 
+  "Which OPPS do not fit the description for XXX ?"
+ ], 
+ "P1433": [
+  "Which OPPS were XXX not published in ?", 
+  "Which OPPS did not publish XXX ?", 
+  "Which OPPS did not exhibit XXX ?"
+ ], 
+ "P1431": [
+  "Which OPPS are not the executive producer of XXX ?", 
+  "Which OPPS are not producer for XXX ?", 
+  "Which OPPS are not working as producer for XXX ?"
+ ], 
+ "P974": [
+  "Which OPPS are not the tributaries of XXX ?", 
+  "Which OPPS do not serve as XXX 's tributaries ?", 
+  "Which OPPS do not operate as the tributaries of XXX ?"
+ ], 
+ "P30": [
+  "Which OPPS are XXX not a part of ?", 
+  "Which OPPS do not have not a part named XXX ?", 
+  "Which OPPS do not have a component named XXX ?"
+ ], 
+ "P2453": [
+  "Which OPPS were not the nominees of XXX ?", 
+  "Which OPPS were not nominated by XXX ?", 
+  "Which OPPS were not XXX 's nominee ?"
+ ], 
+ "P36": [
+  "Which OPPS are not the capitals of XXX ?", 
+  "Which OPPS are not considered the capitals of XXX ?", 
+  "Which OPPS are not recognized as the capitals of XXX ?"
+ ], 
+ "P37": [
+  "Which OPPS are not the official languages of XXX ?", 
+  "Which OPPS do not serve as XXX 's official languages ?", 
+  "Which OPPS do not operate as the official XXX languages ?"
+ ], 
+ "P178": [
+  "Which OPPS did not develop the XXX ?", 
+  "Which OPPS did n't develop XXX ?", 
+  "Which OPPS did not make XXX ?"
+ ], 
+ "P1455": [
+  "Which OPPS are not a work of XXX ?", 
+  "Which OPPS do not include XXX ?", 
+  "Which OPPS do not contain XXX ?"
+ ], 
+ "P1454": [
+  "Which OPPS are not the type of legal forms of XXX ?", 
+  "Which OPPS are not the XXX kind of legal forms ?", 
+  "Which OPPS are not XXX 's legal form types ?"
+ ], 
+ "P403": [
+  "Which OPPS does XXX not drain into ?", 
+  "Which OPPS are not drains for XXX ?", 
+  "Which OPPS are not used as drain points for XXX ?"
+ ], 
+ "P655": [
+  "Which OPPS have not translated XXX ?", 
+  "Which OPPS were not the translators of XXX ?", 
+  "Which OPPS have not translated the information for XXX ?"
+ ], 
+ "P407": [
+  "Which OPPS is not the language of work for XXX ?", 
+  "Which OPPS is not XXX 's language of work ?", 
+  "Which OPPS does not function as the language of work for XXX ?"
+ ], 
+ "P361": [
+  "Which OPPS are XXX not a part of ?", 
+  "Which OPPS are XXX not a city in ?", 
+  "Which OPPS are XXX not situated in ?"
+ ], 
+ "P512": [
+  "Which OPPS does XXX not hold ?", 
+  "Which OPPS has XXX not earned ?", 
+  "Which OPPS are not held by XXX ?"
+ ], 
+ "P1028": [
+  "Which OPPS did not make donations for XXX ?", 
+  "Which OPPS are XXX not donated by ?", 
+  "Which OPPS might not have made donations for XXX ?"
+ ], 
+ "P812": [
+  "Which OPPS were n't the academic major of XXX ?", 
+  "Which OPPS were n't studied by XXX ?", 
+  "Which OPPS are n't learnt by XXX in studies ?"
+ ], 
+ "P366": [
+  "Which OPPS do not represent the main use of XXX ?", 
+  "Which OPPS are not seen as XXX 's main use ?", 
+  "Which OPPS are not representative of the primary use of XXX ?"
+ ], 
+ "P137": [
+  "Which OPPS do not operate XXX ?", 
+  "Which OPPS do not administrate XXX ?", 
+  "Which OPPS do not make use of XXX ?"
+ ], 
+ "P2439": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS have not an XXX association ?", 
+  "Which OPPS have not an association with XXX ?"
+ ], 
+ "P3173": [
+  "Which OPPS do XXX not offer views on ?", 
+  "Which OPPS are not offered views on by XXX ?", 
+  "Which OPPS are not the ones that XXX offers views of ?"
+ ], 
+ "P870": [
+  "Which OPPS are not the instrumentation used in XXX ?", 
+  "Which OPPS are not instruments for XXX ?", 
+  "Which OPPS are not used in XXX ?"
+ ], 
+ "P710": [
+  "Which OPPS were not participants of XXX ?", 
+  "Which OPPS were not part of XXX ?", 
+  "Which OPPS were not XXX participants ?"
+ ], 
+ "P566": [
+  "Which OPPS are not basionyms of XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are not associated with XXX ?"
+ ], 
+ "P1344": [
+  "Which OPPS did XXX not participate in ?", 
+  "Which OPPS XXX did not participate in ?", 
+  "Which OPPS did XXX not demonstrate participation in ?"
+ ], 
+ "P2632": [
+  "Which OPPS were not the places of detention of XXX ?", 
+  "Which OPPS does not serve as the places of detention of XXX ?", 
+  "Which OPPS were not XXX 's places of detention ?"
+ ], 
+ "P1346": [
+  "Which OPPS were not the winner of XXX ?", 
+  "Which OPPS did not win XXX ?", 
+  "Which OPPS were not declared winner of XXX ?"
+ ], 
+ "P488": [
+  "Which OPPS were not the chairperson of XXX ?", 
+  "Which OPPS were not leaders for XXX ?", 
+  "Which OPPS were not heads of XXX ?"
+ ], 
+ "P3320": [
+  "Which OPPS are not board members of XXX ?", 
+  "Which OPPS are not working in boards of XXX as members ?", 
+  "Which OPPS are not members of boards in XXX ?"
+ ], 
+ "P1533": [
+  "Which OPPS are not same as XXX ?", 
+  "Which OPPS are not similar to XXX ?", 
+  "Which OPPS are not resembling XXX ?"
+ ], 
+ "P241": [
+  "Which OPPS did XXX not belong to ?", 
+  "Which OPPS do not belong to XXX ?", 
+  "Which OPPS are not linked with XXX ?"
+ ], 
+ "P119": [
+  "Which OPPS are not the places of burial of XXX ?", 
+  "Which OPPS are not XXX 's burial places ?", 
+  "Which OPPS are not XXX 's gravesite ?"
+ ], 
+ "P163": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P162": [
+  "Which OPPS did not produce XXX ?", 
+  "Which OPPS are not the producers of XXX ?", 
+  "Which OPPS did not help produce XXX ?"
+ ], 
+ "P161": [
+  "Which OPPS were not casted in XXX ?", 
+  "Which OPPS not starred in XXX ?", 
+  "Which OPPS were not main actors in XXX ?"
+ ], 
+ "P166": [
+  "Which OPPS were not recieved by XXX ?", 
+  "Which OPPS were not obtained by XXX ?", 
+  "Which OPPS were not taken by XXX ?"
+ ], 
+ "P3113": [
+  "Which OPPS are part of XXX ?", 
+  "Which OPPS are not missing from XXX ?", 
+  "Which OPPS do XXX include ?"
+ ], 
+ "P703": [
+  "Which OPPS are XXX not found in ?", 
+  "Which OPPS have XXX not found in it ?", 
+  "Which OPPS can XXX not be found in ?"
+ ], 
+ "P559": [
+  "Which OPPS are not a terminus for XXX ?", 
+  "Which OPPS are not an end point of XXX ?", 
+  "Which OPPS are not a terminating point for XXX ?"
+ ], 
+ "P1427": [
+  "Which OPPS are not start points of XXX ?", 
+  "Which OPPS are not startings of XXX ?", 
+  "Which OPPS are not beginnings for XXX ?"
+ ], 
+ "P47": [
+  "Which OPPS do not share border with XXX ?", 
+  "Which OPPS are not right next to XXX ?", 
+  "Which OPPS are not bordered by XXX ?"
+ ], 
+ "P35": [
+  "Which OPPS are not the heads of state of XXX ?", 
+  "Which OPPS are not sponsored by XXX ?", 
+  "Which OPPS are not currently sponsoring XXX ?"
+ ], 
+ "P2348": [
+  "Which OPPS did XXX not belong to ?", 
+  "Which OPPS did the noble XXX not belong to ?", 
+  "Which OPPS were it that the XXX did not belong to ?"
+ ], 
+ "P40": [
+  "Which OPPS are not children of XXX ?", 
+  "Which OPPS are not XXX 's offspring ?", 
+  "Which OPPS are not XXX 's children ?"
+ ], 
+ "P413": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS do not have an aspect ratio like XXX ?", 
+  "Which OPPS are not the aspects of ratios of XXX ?"
+ ], 
+ "P412": [
+  "Which OPPS ARE NOT ASSOCIATED WITH XXX ?", 
+  "Which OPPS ARE NOT LINKED WITH XXX ?", 
+  "Which OPPS ARE NOOT CONNECTED WITH XXX ?"
+ ], 
+ "P1444": [
+  "Which OPPS did not serve as the destination point for the XXX ?", 
+  "Which OPPS were not the destination point for the XXX ?", 
+  "Which OPPS were not where XXX was heading to ?"
+ ], 
+ "P410": [
+  "Which OPPS were the military ranks not held by XXX ?", 
+  "Which OPPS were not rank of XXX ?", 
+  "Which OPPS were not military ranks for XXX ?"
+ ], 
+ "P417": [
+  "Which OPPS are not the patron saints of XXX ?", 
+  "Which OPPS are not the heavenly protectors of XXX ?", 
+  "Which OPPS are not the patron hallows of XXX ?"
+ ], 
+ "P479": [
+  "Which OPPS were not the input devices for XXX ?", 
+  "Which OPPS were not input devices for XXX ?", 
+  "Which OPPS input methods were not used for XXX ?"
+ ], 
+ "P414": [
+  "Which OPPS are XXX not traded at ?", 
+  "Which OPPS do n't trade in XXX ?", 
+  "Which OPPS can you find XXX did n't exchange ?"
+ ], 
+ "P1462": [
+  "Which OPPS do not maintain XXX ?", 
+  "Which OPPS do not manage XXX ?", 
+  "Which OPPS do not ordain XXX ?"
+ ], 
+ "P826": [
+  "Which OPPS are not the tonality of XXX ?", 
+  "Which OPPS does XXX not use ?", 
+  "Which OPPS are not the musical keys of XXX ?"
+ ], 
+ "P3161": [
+  "Which OPPS do not represent the grammatical moods of XXX ?", 
+  "Which OPPS are not moods of XXX ?", 
+  "Which OPPS do not represent XXX ?"
+ ], 
+ "P1750": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS do not have an association with XXX ?", 
+  "Which OPPS do not have an XXX association ?"
+ ], 
+ "P825": [
+  "Which OPPS are XXX not dedicated to ?", 
+  "Which OPPS do not have XXX dedicated to them ?", 
+  "Which OPPS are not XXX dedicated for ?"
+ ], 
+ "P157": [
+  "Which OPPS were not the killers of XXX ?", 
+  "Which OPPS were not the murders of XXX ?", 
+  "Which OPPS were not the assasinators of XXX ?"
+ ], 
+ "P708": [
+  "Which OPPS does XXX not belong to ?", 
+  "Which OPPS does XXX not originate in ?", 
+  "Which OPPS does XXX not call home ?"
+ ], 
+ "P193": [
+  "Which OPPS are not the main building contractors of XXX .", 
+  "Which OPPS are not working as main contractors for building of XXX .", 
+  "Which OPPS are not building XXX as contractors ?"
+ ], 
+ "P552": [
+  "Which OPPS do not represent the handedness of XXX ?", 
+  "Which OPPS do not speak to the handedness of XXX ?", 
+  "Which OPPS do not stand for the handedness of XXX ?"
+ ], 
+ "P702": [
+  "Which OPPS do not encode XXX ?", 
+  "Whoic OPPS are not used for coding of XXX ?", 
+  "Which OPPS did not code XXX ?"
+ ], 
+ "P2643": [
+  "Which OPPS do not represent Carnegie Classification of Institutes of Higher Education for XXX ?", 
+  "Which OPPS are not certifications for XXX ?", 
+  "Which OPPS are not used as certification for XXX ?"
+ ], 
+ "P551": [
+  "Which OPPS were not the residences of XXX ?", 
+  "Which OPPS were not the abodes of XXX ?", 
+  "Which OPPS were not the homes of XXX ?"
+ ], 
+ "P706": [
+  "Which OPPS are n't XXX located on ?", 
+  "Which OPPS do n't have XXX located on it ?", 
+  "Which OPPS are n't the locations of XXX ?"
+ ], 
+ "P159": [
+  "Which OPPS are not the headquarter locations of XXX ?", 
+  "Which OPPS are not locations for XXX ?", 
+  "Which OPPS are not used as locations for XXX ?"
+ ], 
+ "P636": [
+  "Which OPPS are not the routes of administration of XXX ?", 
+  "Which OPPS are not the way to administer XXX ?", 
+  "Which OPPS are not followed by XXX ?"
+ ], 
+ "P397": [
+  "Which OPPS do not have XXX as parent astronomical body ?", 
+  "Which OPPS do not have parent body of XXX ?", 
+  "Which OPPS do not have astronomical body of XXX as parent ?"
+ ], 
+ "P196": [
+  "Which OPPS are not the minor planet groups of XXX ?", 
+  "Which OPPS are not minor groups for XXX ?", 
+  "Which OPPS are not small collections for XXX ?"
+ ], 
+ "P1382": [
+  "Which OPPS are not partially overlapped with XXX ?", 
+  "Which OPPS are not overlapped partly with XXX ?", 
+  "Which OPPS did not concurrently overlap partially with XXX ?"
+ ], 
+ "P398": [
+  "Which OPPS are n't the child astronomical bodies of XXX ?", 
+  "Which OPPS are n't XXX 's child astronomical bodies ?", 
+  "Which OPPS are n't child astronomical bodies that belong to XXX ?"
+ ], 
+ "P85": [
+  "Which OPPS do not represent the anthem for XXX ?", 
+  "Which OPPS do not represent XXX 's anthem ?", 
+  "Which OPPS are not representative of the XXX anthem ?"
+ ], 
+ "P495": [
+  "Which OPPS are not the countries of origin of XXX ?", 
+  "Which OPPS are not base countries of XXX ?", 
+  "Which OPPS are not regarded as countries of origin of XXX ?"
+ ], 
+ "P629": [
+  "Which OPPS are not XXX edition or translations of ?", 
+  "Which OPPS are not translated for XXX ?", 
+  "Which OPPS are not edition of XXX ?"
+ ], 
+ "P790": [
+  "Which OPPS are not responsible for approval of XXX ?", 
+  "Which OPPS are not in charge of approval of XXX ?", 
+  "Which OPPS do not hold the responsibilities for the approval of XXX ?"
+ ], 
+ "P408": [
+  "Which OPPS are not the software engines employed by XXX ?", 
+  "Which OPPS are not softwares for XXX ?", 
+  "Which OPPS are not used as softwares for XXX ?"
+ ], 
+ "P1027": [
+  "Which OPPS do not confer the award named XXX ?", 
+  "Which OPPS do n't present the XXX award ?", 
+  "Which OPPS do n't bestow the award called XXX ?"
+ ], 
+ "P58": [
+  "Which OPPS did not write the script for the XXX ?", 
+  "Which OPPS did not write the screenplay for XXX ?", 
+  "Which OPPS were not writers of XXX ?"
+ ], 
+ "P194": [
+  "Which OPPS are not the legislative body for XXX ?", 
+  "Which OPPS are not dealing with legal issues for XXX ?", 
+  "Which OPPS are not legal bodies for XXX ?"
+ ], 
+ "P658": [
+  "Which OPPS were not contained in XXX ?", 
+  "Which OPPS were not present in XXX ?", 
+  "Which OPPS are not located in XXX ?"
+ ], 
+ "P54": [
+  "Which OPPS are XXX not a member of ?", 
+  "Which OPPS do not currently include XXX ?", 
+  "Which OPPS do not have XXX as a member ?"
+ ], 
+ "P915": [
+  "Which OPPS were not used for filming of XXX ?", 
+  "Which OPPS were not the places of filming of XXX ?", 
+  "Which OPPS were not the locations of filming XXX ?"
+ ], 
+ "P748": [
+  "Which OPPS is not responsible for appointment of XXX ?", 
+  "Which OPPS is not responsible for XXX 's appointment ?", 
+  "Which OPPS does not have responsibility for appointment of XXX ?"
+ ], 
+ "P50": [
+  "Which OPPS have not authored XXX ?", 
+  "Which OPPS were not the authors of XXX ?", 
+  "Which OPPS did not serve as the authors of XXX ?"
+ ], 
+ "P1029": [
+  "Which OPPS were not crew members of XXX ?", 
+  "Which OPPS were not on the crew of XXX ?", 
+  "Which OPPS are not among the teams that served aboard XXX ?"
+ ], 
+ "P53": [
+  "Which OPPS DID XXX NOT BELONG TO ?", 
+  "Which OPPS DID XXX NOT ORIGINATE IN ?", 
+  "Which OPPS WOULD XXX NOT BE CONNECTED WITH ?"
+ ], 
+ "P3093": [
+  "Which OPPS were not used for the recovery of XXX ?", 
+  "Which OPPS are not used in recovery for XXX ?", 
+  "Which OPPS are not used for treatment of XXX ?"
+ ], 
+ "P737": [
+  "Which OPPS do n't have influence on XXX ?", 
+  "Which OPPS are not the influencers of XXX ?", 
+  "Which OPPS do n't serve to influence XXX ?"
+ ], 
+ "P734": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked to with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P735": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P541": [
+  "Which OPPS were not contested for in the XXX ?", 
+  "Which OPPS are no contest for XXX ?", 
+  "Which OPPS are not competitions for XXX ?"
+ ], 
+ "P2522": [
+  "Which OPPS were not won by XXX ?", 
+  "Which OPPS did not have XXX as the winner ?", 
+  "Which OPPS did not have XXX as the victor ?"
+ ], 
+ "P2416": [
+  "Which OPPS did XXX not participate in ?", 
+  "Which OPPS do not have participants like XXX ?", 
+  "Which OPPS do not have participants named XXX ?"
+ ], 
+ "P3179": [
+  "Which OPPS are not having territory overlap with XXX ?", 
+  "Which OPPS do not overlap with XXX ?", 
+  "Which OPPS do not share area with XXX ?"
+ ], 
+ "P2061": [
+  "Which OPPS are not associated with XXX ?", 
+  "Which OPPS are not linked with XXX ?", 
+  "Which OPPS are not connected with XXX ?"
+ ], 
+ "P427": [
+  "Which OPPS are not the taxonomix type of XXX ?", 
+  "Which OPPS are not type of XXX ?", 
+  "Which OPPS are not taxonomix for XXX ?"
+ ], 
+ "P937": [
+  "Which OPPS are not the work locations of XXX ?", 
+  "Which OPPS were not active at XXX ?", 
+  "Which OPPS workplaces not located at XXX ?"
+ ], 
+ "P1576": [
+  "Which OPPS do not serve as the lifestyles of XXX ?", 
+  "Which OPPS are not lifestyles for XXX ?", 
+  "Which OPPS are not used as lifestyles for XXX ?"
+ ], 
+ "P931": [
+  "Which OPPS are not served by XXX ?", 
+  "Which OPPS does XXX not serve ?", 
+  "Which OPPS does not get served by XXX ?"
+ ], 
+ "P364": [
+  "Which OPPS are n't the original languages of creation of XXX ?", 
+  "Which OPPS are n't languages for XXX ?", 
+  "Which OPPS are n't used as languages for XXX ?"
+ ], 
+ "P140": [
+  "Which OPPS do not serve as the religions of XXX ?", 
+  "Which OPPS are not religions for XXX ?", 
+  "Which OPPS were not religions of XXX ?"
+ ], 
+ "P3137": [
+  "Which OPPS are not the parent peaks of XXX ?", 
+  "Which OPPS do not contain XXX within their territories ?", 
+  "Which OPPS does XXX not reside in ?"
+ ], 
+ "P197": [
+  "Which OPPS ARE NOT ADJACENT TO XXX ?", 
+  "Which OPPS ARE NOT LOCATED WITH XXX ?", 
+  "Which OPPS ARE NOT CONNECTED WITH XXX ?"
+ ], 
+ "P3094": [
+  "Which OPPS did not develop from XXX ?", 
+  "Which OPPS did not arise out of XXX ?", 
+  "Which OPPS did not form from XXX ?"
+ ], 
+ "P149": [
+  "Which OPPS are n't associated with XXX ?", 
+  "Which OPPS are n't in association with XXX ?", 
+  "Which OPPS are n't affiliated with XXX ?"
+ ], 
+ "P2417": [
+  "Which OPPS do not figure in stage results of XXX ?", 
+  "Which OPPS are not the result of XXX ?", 
+  "Which OPPS are not figures in results for XXX ?"
+ ], 
+ "P1416": [
+  "Which OPPS are XXX not affiliated to ?", 
+  "Which OPPS are XXX not affiliated with ?", 
+  "Which OPPS does XXX not have an affiliation with ?"
+ ], 
+ "P789": [
+  "Which OPPS categories does XXX not belong to ?", 
+  "Which OPPS do not have belonging for XXX ?", 
+  "Which OPPS are not linked with XXX in category ?"
+ ], 
+ "P451": [
+  "Which OPPS are not the partners of XXX ?", 
+  "Which OPPS are not working as partners for XXX ?", 
+  "Which OPPS are not acting like partners for XXX ?"
+ ], 
+ "P61": [
+  "Which OPPS did not discover or invent XXX ?", 
+  "Which OPPS did not find XXX ?", 
+  "Which OPPS did not make XXX ?"
+ ], 
+ "P676": [
+  "Which OPPS are not lyricsists of XXX ?", 
+  "Which OPPS did not write the words of XXX ?", 
+  "Which OPPS were not the librettists for XXX ?"
+ ], 
+ "P2695": [
+  "Which OPPS are not the localities where XXX originated or was first defined ?", 
+  "Which OPPS are not locations of origin of XXX ?", 
+  "Which OPPS are not location points related with XXX ?"
+ ], 
+ "P69": [
+  "Which OPPS were XXX not educated at ?", 
+  "Which OPPS were XXX not schooled at ?", 
+  "Which OPPS did XXX not study at ?"
+ ], 
+ "P1303": [
+  "Which OPPS are not played by XXX ?", 
+  "Which OPPS are not played by XXX ?", 
+  "Which OPPS does XXX usually not play ?"
+ ], 
+ "P3301": [
+  "Which OPPS did n't broadcast XXX ?", 
+  "Which OPPS are not the broadcasters of XXX ?", 
+  "Which OPPS are not broadcasting XXX ?"
+ ], 
+ "P1050": [
+  "Which OPPS did not medically affect XXX ?", 
+  "Which OPPS are not medically affecting XXX ?", 
+  "Which OPPS have not an effect on XXX ?"
+ ], 
+ "P780": [
+  "Which OPPS are not caused due to XXX ?", 
+  "Which OPPS are not caused because of XXX ?", 
+  "Which OPPS do XXX not cause ?"
+ ], 
+ "P1686": [
+  "Which OPPS were the basis for which XXX was not awarded ?", 
+  "Which OPPS were n't awarded to XXX ?", 
+  "Which OPPS were n't the reward for XXX ?"
+ ], 
+ "P3103": [
+  "Which OPPS do n't represent the tense of XXX .", 
+  "Which OPPS are not representing the tense of XXX ?", 
+  "Which OPPS are not indicative of tense of XXX ?"
+ ], 
+ "P1057": [
+  "Which OPPS are XXX not located on ?", 
+  "Which OPPS are XXX not found in ?", 
+  "Which OPPS are XXX not situated in ?"
+ ], 
+ "P1056": [
+  "Which OPPS are not produced by XXX ?", 
+  "Which OPPS are not made by XXX ?", 
+  "Which OPPS are not manufactured by XXX ?"
+ ], 
+ "P941": [
+  "Which OPPS were XXX not inspired by ?", 
+  "Which OPPS did not inspire XXX ?", 
+  "Which OPPS are not inspiring for XXX ?"
+ ], 
+ "P750": [
+  "Which OPPS are not the distributor of XXX ?", 
+  "Which OPPS do not distribute XXX ?", 
+  "Which OPPS do not distribute the creative work of XXX ?"
+ ], 
+ "P1192": [
+  "Which OPPS did n't serve as the connective services for XXX ?", 
+  "Which OPPS did n't serve for XXX ?", 
+  "Which OPPS that did n't work connective services for XXX ?"
+ ], 
+ "P1435": [
+  "Which OPPS represent the heritage status not given to XXX ?", 
+  "Which OPPS are not heritages of XXX ?", 
+  "Which OPPS are not showing status of XXX ?"
+ ], 
+ "P118": [
+  "Which OPPS are the leagues not played by XXX ?", 
+  "Which OPPS are not played by XXX as leagues ?", 
+  "Which OPPS are not leagues for XXX ?"
+ ], 
+ "P1196": [
+  "Which OPPS were not associated with death of XXX ?", 
+  "Which OPPS did not have an association with the death of XXX ?", 
+  "Which OPPS were not associated with XXX 's death ?"
+ ], 
+ "P449": [
+  "Which OPPS are not the original networks XXX was aired on ?", 
+  "Which OPPS were not the original channels of XXX ?", 
+  "Which OPPS originally not broadcast XXX ?"
+ ]
+}
